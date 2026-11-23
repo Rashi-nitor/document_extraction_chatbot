@@ -1,0 +1,378 @@
+page,section,product_family,base_warranty_p_l_o,service_level,term,sku
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Return to Depot,2-year,UK734E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Return to Depot,2-year,UK734E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Return to Depot,2-year,UJ381E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Return to Depot,3-year,UK735E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Return to Depot,3-year,UK735E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Return to Depot,3-year,UJ382E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Return to Depot,4-year,UM212E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Return to Depot,4-year,UM212E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Return to Depot,4-year,UM210E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Return to Depot,4-year,UM208E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Return to Depot,5-year,UM213E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Return to Depot,5-year,UM213E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Return to Depot,5-year,UM211E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Return to Depot,5-year,UM209E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Pick up and Return,2-year,UK727E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Pick up and Return,2-year,UK727E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Pick up and Return,2-year,UE323E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Pick up and Return,3-year,UK707E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Pick up and Return,3-year,UK707E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Pick up and Return,3-year,U4395E
+15,HP notebooks services,UltraBook (EliteBook Folio / Spectre 13 Pro),1/1/0,Pick up and Return,3-year,HL506E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Pick up and Return,4-year,UK720E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Pick up and Return,4-year,UK720E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Pick up and Return,4-year,U7881E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Pick up and Return,4-year,U7868E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Pick up and Return,5-year,UK721E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Pick up and Return,5-year,UK721E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Pick up and Return,5-year,U7882E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Pick up and Return,5-year,U7869E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Pick up and Return,Post Warranty,UK709PE
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Pick up and Return,Post Warranty,UK709PE
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Pick up and Return,Post Warranty,U4397PE
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Pick up and Return,Post Warranty,U4426PE
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time,1-year,HZ530E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time,1-year,HZ530E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time,1-year,HZ522E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time,3-year,HZ531E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time,3-year,HZ531E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time,3-year,HZ523E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time,3-year,HZ515E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time,4-year,HZ532E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time,4-year,HZ532E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time,4-year,HZ524E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time,4-year,HZ516E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time,5-year,HZ533E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time,5-year,HZ533E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time,5-year,HZ525E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time,5-year,HZ517E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time,Post Warranty,HZ534PE
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time,Post Warranty,HZ534PE
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time,Post Warranty,HZ526PE
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time,Post Warranty,HZ518PE
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day,1-year,UK701E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day,1-year,UK701E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day,1-year,U4389E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day,3-year,UK703E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day,3-year,UK703E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day,3-year,U4391E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day,3-year,U4414E
+15,HP notebooks services,UltraBook (EliteBook Folio / Spectre 13 Pro),1/1/0,Next Business Day,3-year,HL510E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day,4-year,UK716E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day,4-year,UK716E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day,4-year,U7875E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day,4-year,U7860E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day,5-year,UK718E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day,5-year,UK718E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day,5-year,U7876E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day,5-year,U7861E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day,Post Warranty,UK705PE
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day,Post Warranty,UK705PE
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day,Post Warranty,U4393PE
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day,Post Warranty,U4416PE
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage,3-year,UL653E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage,3-year,UL653E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Travel Coverage,3-year,UC909E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage,3-year,U4418E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage,4-year,UL654E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage,4-year,UL654E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Travel Coverage,4-year,UC910E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage,4-year,U7863E
+15,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage,5-year,UL655E
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage,5-year,UL655E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Travel Coverage,5-year,UC911E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage,5-year,U7864E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage,Post Warranty,U4420PE
+15,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Premium Services,3-year,HL542E
+15,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Premium Services,3-year,HL544E
+15,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Premium Services,3-year,HL546E
+15,HP notebooks services,UltraBook (EliteBook Folio / Spectre 13 Pro),1/1/0,Premium Services,3-year,HL544E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Pick up and Return + Accidental Damage Protection,3-year,UK712E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Pick up and Return + Accidental Damage Protection,3-year,UK712E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Pick up and Return + Accidental Damage Protection,3-year,U4400E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Pick up and Return + Accidental Damage Protection,3-year,U4428E
+16,HP notebooks services,UltraBook (EliteBook Folio / Spectre 13 Pro),,Pick up and Return + Accidental Damage Protection,3-year,HL508E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Pick up and Return + Accidental Damage Protection,4-year,UK723E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Pick up and Return + Accidental Damage Protection,4-year,UK723E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Pick up and Return + Accidental Damage Protection,4-year,U9587E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Pick up and Return + Accidental Damage Protection,4-year,U9586E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Pick up and Return + Defective Media Retention,3-year,UL680E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Pick up and Return + Defective Media Retention,3-year,UL680E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Pick up and Return + Defective Media Retention,3-year,UJ404E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Pick up and Return + Defective Media Retention,3-year,UJ407E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time + Accidental Damage Protection,3-year,HZ535E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time + Accidental Damage Protection,3-year,HZ535E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time + Accidental Damage Protection,3-year,HZ527E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Accidental Damage Protection,3-year,HZ519E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time + Accidental Damage Protection,4-year,HZ536E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time + Accidental Damage Protection,4-year,HZ536E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time + Accidental Damage Protection,4-year,HZ528E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Accidental Damage Protection,4-year,HZ520E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time + Accidental Damage Protection,5-year,HZ537E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time + Accidental Damage Protection,5-year,HZ537E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time + Accidental Damage Protection,5-year,HZ529E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Accidental Damage Protection,5-year,HZ521E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day + Accidental Damage Protection,3-year,UK726E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day + Accidental Damage Protection,3-year,UK726E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day + Accidental Damage Protection,3-year,UC282E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection,3-year,UC279E
+16,HP notebooks services,UltraBook (EliteBook Folio / Spectre 13 Pro),,Next Business Day + Accidental Damage Protection,3-year,HL511E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day + Accidental Damage Protection,4-year,UK748E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day + Accidental Damage Protection,4-year,UK748E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day + Accidental Damage Protection,4-year,UC283E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection,4-year,UC284E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day + Accidental Damage Protection,5-year,UM237E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day + Accidental Damage Protection,5-year,UM237E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day + Accidental Damage Protection,5-year,UM235E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection,5-year,UM236E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time + Defective Media Retention,1-year,HL483E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time + Defective Media Retention,1-year,HL483E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time + Defective Media Retention,1-year,HL479E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time + Defective Media Retention,3-year,HL484E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time + Defective Media Retention,3-year,HL484E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time + Defective Media Retention,3-year,HL480E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Defective Media Retention,3-year,HL476E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time + Defective Media Retention,4-year,HL485E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time + Defective Media Retention,4-year,HL485E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time + Defective Media Retention,4-year,HL481E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Defective Media Retention,4-year,HL477E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Standard Response Time + Defective Media Retention,5-year,HL486E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Standard Response Time + Defective Media Retention,5-year,HL486E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Standard Response Time + Defective Media Retention,5-year,HL482E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Defective Media Retention,5-year,HL478E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day + Defective Media Retention,1-year,UL656E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day + Defective Media Retention,1-year,UL656E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day + Defective Media Retention,1-year,UE338E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day + Defective Media Retention,3-year,UL657E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day + Defective Media Retention,3-year,UL657E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day + Defective Media Retention,3-year,UE339E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Defective Media Retention,3-year,UE335E
+16,HP notebooks services,UltraBook (EliteBook Folio / Spectre 13 Pro),,Next Business Day + Defective Media Retention,3-year,HL509E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day + Defective Media Retention,4-year,UL658E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day + Defective Media Retention,4-year,UL658E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day + Defective Media Retention,4-year,UE340E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Defective Media Retention,4-year,UE336E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day + Defective Media Retention,5-year,UL659E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day + Defective Media Retention,5-year,UL659E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day + Defective Media Retention,5-year,UE341E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Defective Media Retention,5-year,UE337E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,1-year,UL845E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,1-year,UL845E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,1-year,UL740E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,3-year,UL846E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,3-year,UL846E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,3-year,UL741E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,3-year,UL784E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,4-year,UL847E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,4-year,UL847E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,4-year,UL742E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,4-year,UL785E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,5-year,UL848E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,5-year,UL848E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,5-year,UL743E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,5-year,UL786E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage + Accidental Damage Protection,3-year,UQ825E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage + Accidental Damage Protection,3-year,UQ825E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Travel Coverage + Accidental Damage Protection,3-year,UQ819E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection,3-year,UQ831E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage + Accidental Damage Protection,4-year,UQ827E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage + Accidental Damage Protection,4-year,UQ827E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Travel Coverage + Accidental Damage Protection,4-year,UQ821E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection,4-year,UQ833E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage + Accidental Damage Protection,5-year,UQ829E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage + Accidental Damage Protection,5-year,UQ829E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Travel Coverage + Accidental Damage Protection,5-year,UQ823E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection,5-year,UQ835E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage + Accidental Damage Protection,Post Warranty,UQ817PE
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage + Accidental Damage Protection,Post Warranty,UQ817PE
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Travel Coverage + Accidental Damage Protection,Post Warranty,UQ815PE
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection,Post Warranty,UQ851PE
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage + Defective Media Retention,3-year,UL667E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage + Defective Media Retention,3-year,UL667E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Travel Coverage + Defective Media Retention,3-year,UJ333E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Defective Media Retention,3-year,UJ336E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage + Defective Media Retention,4-year,UL668E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage + Defective Media Retention,4-year,UL668E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Travel Coverage + Defective Media Retention,4-year,UJ334E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Defective Media Retention,4-year,UJ337E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage + Defective Media Retention,5-year,UL669E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage + Defective Media Retention,5-year,UL669E
+16,HP notebooks services,ProBook 6xx (b+m series),1/1/0,Travel Coverage + Defective Media Retention,5-year,UJ335E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Defective Media Retention,5-year,UJ338E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,3-year,UQ826E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,3-year,UQ826E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,3-year,UQ832E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,4-year,UQ828E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,4-year,UQ828E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,4-year,UQ834E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,5-year,UQ830E
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,5-year,UQ830E
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,5-year,UQ836E
+16,HP notebooks services,HP 2xx (HP 6xx),1/1/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,Post Warranty,UQ818PE
+16,HP notebooks services,ProBook 4xx (s+t series),1/1/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,Post Warranty,UQ818PE
+16,HP notebooks services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,Post Warranty,UQ852PE
+20,HP tablets services,ElitePad,1/1/0,Pick up and Return + Accidental Damage Protection,2-year,U0W25E
+20,HP tablets services,ElitePad,1/1/0,Pick up and Return + Accidental Damage Protection,3-year,HR206E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Pick up and Return + Accidental Damage Protection,3-year,U4428E
+20,HP tablets services,ElitePad,1/1/0,Pick up and Return + Accidental Damage Protection,4-year,U0J29E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Pick up and Return + Accidental Damage Protection,4-year,U9586E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Pick up and Return + Defective Media Retention,3-year,UJ407E
+20,HP tablets services,ElitePad,1/1/0,Standard Response Time + Accidental Damage Protection,3-year,U7C73E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Accidental Damage Protection,3-year,HZ519E
+20,HP tablets services,ElitePad,1/1/0,Standard Response Time + Accidental Damage Protection,4-year,U7C74E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Accidental Damage Protection,4-year,HZ520E
+20,HP tablets services,ElitePad,1/1/0,Standard Response Time + Accidental Damage Protection,5-year,U7C75E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Accidental Damage Protection,5-year,HZ521E
+20,HP tablets services,ElitePad,1/1/0,Next Business Day + Accidental Damage Protection,2-year,U7C49E
+20,HP tablets services,ElitePad,1/1/0,Next Business Day + Accidental Damage Protection,3-year,U7C51E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection,3-year,UC279E
+20,HP tablets services,ElitePad,1/1/0,Next Business Day + Accidental Damage Protection,4-year,U7C53E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection,4-year,UC284E
+20,HP tablets services,ElitePad,1/1/0,Next Business Day + Accidental Damage Protection,5-year,U7C55E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection,5-year,UM236E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Defective Media Retention,3-year,HL476E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Defective Media Retention,4-year,HL477E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Standard Response Time + Defective Media Retention,5-year,HL478E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Defective Media Retention,3-year,UE335E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Defective Media Retention,4-year,UE336E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Defective Media Retention,5-year,UE337E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,3-year,UL784E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,4-year,UL785E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Next Business Day + Accidental Damage Protection + Defective Media Retention,5-year,UL786E
+20,HP tablets services,ElitePad,1/1/0,Travel Coverage + Accidental Damage Protection,3-year,U7C84E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection,3-year,UQ831E
+20,HP tablets services,ElitePad,1/1/0,Travel Coverage + Accidental Damage Protection,4-year,U7C86E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection,4-year,UQ833E
+20,HP tablets services,ElitePad,1/1/0,Travel Coverage + Accidental Damage Protection,5-year,U7C88E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection,5-year,UQ835E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection,Post Warranty,UQ851PE
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Defective Media Retention,3-year,UJ336E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Defective Media Retention,4-year,UJ337E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Defective Media Retention,5-year,UJ338E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,3-year,UQ832E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,4-year,UQ834E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,5-year,UQ836E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Travel Coverage + Accidental Damage Protection + Defective Media Retention,Post Warranty,UQ852PE
+20,HP tablets services,ElitePad,1/1/0,Computrace Data Protection,1-year,UQ929
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Computrace Data Protection,1-year,UQ929
+20,HP tablets services,ElitePad,1/1/0,Computrace Data Protection,2-year,UQ930E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Computrace Data Protection,2-year,UQ930E
+20,HP tablets services,ElitePad,1/1/0,Computrace Data Protection,3-year,UQ931E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Computrace Data Protection,3-year,UQ931E
+20,HP tablets services,ElitePad,1/1/0,Computrace Data Protection,4-year,UQ932E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Computrace Data Protection,4-year,UQ932E
+20,HP tablets services,ElitePad,1/1/0,Computrace Data Protection,5-year,UQ933E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Computrace Data Protection,5-year,UQ933E
+20,HP tablets services,ElitePad,1/1/0,Notebook Tracking and Recovery,1-year,UL724E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Notebook Tracking and Recovery,1-year,UL724E
+20,HP tablets services,ElitePad,1/1/0,Notebook Tracking and Recovery,2-year,UL725E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Notebook Tracking and Recovery,2-year,UL725E
+20,HP tablets services,ElitePad,1/1/0,Notebook Tracking and Recovery,3-year,UL726E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Notebook Tracking and Recovery,3-year,UL726E
+20,HP tablets services,ElitePad,1/1/0,Notebook Tracking and Recovery,4-year,UL727E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Notebook Tracking and Recovery,4-year,UL727E
+20,HP tablets services,ElitePad,1/1/0,Notebook Tracking and Recovery,5-year,UL728E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Notebook Tracking and Recovery,5-year,UL728E
+20,HP tablets services,EliteBook / Zbook (p+w series),3/3/0,Premium Services + Accidental Damage Protection,3-year,HL547E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Standard Response Time,1-year,HZ549E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Standard Response Time,3-year,HZ559E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Standard Response Time,3-year,HZ550E/A
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Standard Response Time,4-year,HZ560E/A
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Standard Response Time,4-year,HZ552E/A
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Standard Response Time,5-year,HZ561E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Standard Response Time,5-year,HZ553E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Standard Response Time,Post Warranty,HZ554PE
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Standard Response Time,Post Warranty,HZ554PE
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Standard Response Time + Defective Media Retention,1-year,HL490E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Standard Response Time + Defective Media Retention,3-year,HL494E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Standard Response Time + Defective Media Retention,3-year,HL491E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Standard Response Time + Defective Media Retention,4-year,HL495E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Standard Response Time + Defective Media Retention,4-year,HL492E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Standard Response Time + Defective Media Retention,5-year,HL496E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Standard Response Time + Defective Media Retention,5-year,HL493E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Next Business Day,1-year,UE378E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Next Business Day,3-year,UE379E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Next Business Day,3-year,U6578E/A
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Next Business Day,4-year,U7897E/A
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Next Business Day,4-year,U7923E/A
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Next Business Day,5-year,U7899E/A
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Next Business Day,5-year,U7925E/A
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Next Business Day,Post Warranty,U5864PE
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Next Business Day,Post Warranty,U5864PE
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Next Business Day + Defective Media Retention,1-year,UK764E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Next Business Day + Defective Media Retention,3-year,UE332E/A
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Next Business Day + Defective Media Retention,3-year,UF360E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Next Business Day + Defective Media Retention,4-year,UE333E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Next Business Day + Defective Media Retention,4-year,UF361E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Next Business Day + Defective Media Retention,5-year,UE334E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Next Business Day + Defective Media Retention,5-year,UF362E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,4 Hour Same Day 9X5,3-year,U4863E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,4 Hour Same Day 9X5,3-year,U4856E/A
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,4 Hour Same Day 9X5,Post Warranty,U4858PE
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,4 Hour Same Day 9X5,Post Warranty,U4858PE
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,4 Hour Same Day 13X5,3-year,HP730E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,4 Hour Same Day 13X5,3-year,HP728E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,4 Hour Same Day 13X5,4-year,HP731E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,4 Hour Same Day 13X5,4-year,HP729E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,4 Hour Same Day 9X5 + Defective Media Retention,3-year,UL821E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,4 Hour Same Day 9X5 + Defective Media Retention,3-year,UM188E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Premium Services,3-year,HL550E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Premium Services,3-year,HL548E
+28,HP desktops & all-in-ones services,EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite),3/3/3,Premium Services + Defective Media Retention,3-year,HL551E
+28,HP desktops & all-in-ones services,ProDesk/ProOne 4xx HP Compact 2xx,1/1/1,Premium Services + Defective Media Retention,3-year,HL549E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Standard Response Time,3-year,HZ559E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Standard Response Time,4-year,HZ562E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Standard Response Time,5-year,HZ563E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Standard Response Time,Post Warranty,HZ564PE
+34,HP workstations services,WorkStation Zxxx,3/3/3,Standard Response Time + Defective Media Retention,3-year,HL497E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Standard Response Time + Defective Media Retention,4-year,HL498E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Standard Response Time + Defective Media Retention,5-year,HL499E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Next Business Day,3-year,UE379E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Next Business Day,4-year,U7942E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Next Business Day,5-year,U7944E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Next Business Day,Post Warranty,U4867PE
+34,HP workstations services,WorkStation Zxxx,3/3/3,Next Business Day + Defective Media Retention,3-year,UE342E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Next Business Day + Defective Media Retention,4-year,UE343E
+34,HP workstations services,WorkStation Zxxx,3/3/3,Next Business Day + Defective Media Retention,5-year,UE344E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 9X5,3-year,U4873E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 9X5,4-year,U7946E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 9X5,5-year,U7948E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 9X5,Post Warranty,U4877PE
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 13X5,3-year,HX528E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 13X5,4-year,HX529E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 13X5,5-year,U7940E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 13X5,Post Warranty,HX530PE
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 24X7,3-year,U4875E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 24X7,4-year,U7950E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 24X7,5-year,U7952E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 24X7,Post Warranty,U6585PE
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 9X5 + Defective Media Retention,3-year,UL833E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 9X5 + Defective Media Retention,4-year,UL834E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 9X5 + Defective Media Retention,5-year,UL835E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 13X5 + Defective Media Retention,3-year,UL839E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 13X5 + Defective Media Retention,4-year,UL840E
+34,HP workstations services,WorkStation Zxxx,3/3/3,4 Hour Same Day 13X5 + Defective Media Retention,5-year,UL841E
+41,HP displays services,"Standard up to 22""",1/1/0,Next Business Day,3-year,UD950E
+41,HP displays services,"Standard up to 22""",1/1/1,Next Business Day,3-year,UE366E
+41,HP displays services,"Large Screen 23""-29""",1/1/0,Next Business Day,3-year,UD950E
+41,HP displays services,"Standard up to 22""",1/1/0,Next Business Day,4-year,U0A96E
+41,HP displays services,"Standard up to 22""",1/1/1,Next Business Day,4-year,UE367E
+41,HP displays services,"Large Screen 23""-29""",1/1/0,Next Business Day,4-year,U0A96E
+41,HP displays services,"Standard LCD/CRT/RPOS up to 22""",3/3/3,Next Business Day,4-year,U7934E
+41,HP displays services,"Standard up to 22""",1/1/0,Next Business Day,5-year,U0A97E
+41,HP displays services,"Standard up to 22""",1/1/1,Next Business Day,5-year,UE368E
+41,HP displays services,"Large Screen 23""-29""",1/1/0,Next Business Day,5-year,U0A97E
+41,HP displays services,"Standard LCD/CRT/RPOS up to 22""",3/3/3,Next Business Day,5-year,U7935E
+41,HP displays services,"Standard LCD/CRT/RPOS up to 22""",3/3/3,Next Business Day,Post Warranty,U4925PE
+46,HP thin clients and thin clients services,Thin Clients,3/3/0,Next Business Day Exchange,3-year,U4847E
+46,HP thin clients and thin clients services,Mobile Thin Client,3/3/0,Next Business Day Exchange,3-year,UK737E
+46,HP thin clients and thin clients services,Thin Clients,3/3/0,Next Business Day Exchange,4-year,U7927E
+46,HP thin clients and thin clients services,Mobile Thin Client,3/3/0,Next Business Day Exchange,4-year,UK743E
+46,HP thin clients and thin clients services,Thin Clients,3/3/0,Next Business Day Exchange,5-year,U7929E
+46,HP thin clients and thin clients services,Mobile Thin Client,3/3/0,Next Business Day Exchange,5-year,UK744E
+46,HP thin clients and thin clients services,Thin Clients,3/3/0,Next Business Day Exchange,Post Warranty,U4848PE
+46,HP thin clients and thin clients services,Mobile Thin Client,3/3/0,Next Business Day Exchange,Post Warranty,UK738PE
+46,HP thin clients and thin clients services,Thin Clients,3/3/0,Next Business Day,4-year,UD798E
+46,HP thin clients and thin clients services,Thin Clients,3/3/0,Next Business Day,5-year,UD799E
+46,HP thin clients and thin clients services,Thin Clients,3/3/0,Next Business Day,Post Warranty,U6569PE
