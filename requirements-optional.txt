@@ -1,0 +1,4 @@
+# Pick what you need (see README):
+anthropic>=0.40            # LLM_PROVIDER=anthropic
+sentence-transformers>=3.0 # EMBEDDING_PROVIDER=sentence-transformers (semantic search; pulls in PyTorch)
+unstructured[pdf]>=0.15    # extraction/s2_unstructured_hi_res.py (layout-model route)
