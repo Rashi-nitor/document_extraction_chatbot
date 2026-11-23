@@ -1,0 +1,671 @@
+page,section,table_index,product,attribute,value
+10,HP notebooks,0,HP 250 G3,Operating system,Windows 8.1 64; Windows 7 Professional 64 (available through downgrade rights from Windows 8 Pro 64); Ubuntu; FreeDOS 2.0
+10,HP notebooks,0,HP 255 G3,Operating system,Windows 8.1; Windows 8.1 Pro; Windows 7 Professional 64 (available through downgrade rights from Windows 8.1 Pro 64); Ubuntu Linux; FreeDOS 2.0
+10,HP notebooks,0,HP 350 G1,Operating system,Windows 7 Professional 64 (available through downgrade rights from Windows 8.1 Pro)
+10,HP notebooks,0,HP 355 G2,Operating system,Windows 8.1; Windows 8.1 Pro; Windows 7 Professional 64 (available through downgrade rights from Windows 8.1 Pro 64); Ubuntu Linux; FreeDOS 2.0
+10,HP notebooks,0,HP 250 G3,Weight,Starting at < 2.2 kg (Non-Touch); Starting at < 2.4 kg (Touch)
+10,HP notebooks,0,HP 255 G3,Weight,Starting at 2.2 kg
+10,HP notebooks,0,HP 350 G1,Weight,Starting at 2.3 kg
+10,HP notebooks,0,HP 355 G2,Weight,Starting at 2.3 kg
+10,HP notebooks,0,HP 250 G3,Power,65W Smart AC adapter (discrete); 65W EM Smart AC adapter (for China and India); 45W Smart AC adapter (UMA); HP 3-cell (31 WHr) polymer battery; HP 4-cell (41 WHr) polymer battery
+10,HP notebooks,0,HP 255 G3,Power,65W Smart AC adapter (discrete); 65W EM Smart AC adapter (for China and India); 45W Smart AC adapter (UMA); HP 3-cell (31 WHr) polymer battery; HP 4-cell (41 WHr) polymer battery
+10,HP notebooks,0,HP 350 G1,Power,65W Smart AC adapter
+10,HP notebooks,0,HP 355 G2,Power,65W HP AC adapter 3-wire plug 1.0m (with ground pin); 45W AC adapter (UMA only); HP 4-cell (41 WHr) Li-Ion battery
+10,HP notebooks,0,HP 250 G3,Chipset,Intel® chipset integrated with processor
+10,HP notebooks,0,HP 255 G3,Chipset,"AMD Kerala (Kabini SoC APU, BGA)"
+10,HP notebooks,0,HP 350 G1,Chipset,Chipset is integrated with processor
+10,HP notebooks,0,HP 355 G2,Chipset,AMD Chipset is integrated with APU
+10,HP notebooks,0,HP 250 G3,Display size (diagonal),39.6 cm (15.6”)
+10,HP notebooks,0,HP 255 G3,Display size (diagonal),39.6 cm (15.6”)
+10,HP notebooks,0,HP 350 G1,Display size (diagonal),39.6 cm (15.6”)
+10,HP notebooks,0,HP 355 G2,Display size (diagonal),39.6 cm (15.6”)
+10,HP notebooks,0,HP 250 G3,Expansion slots,Supports SD/SDHC/SDXC; Supports mini versions with adapter
+10,HP notebooks,0,HP 255 G3,Expansion slots,Supports SD/SDHC/SDXC; Supports mini versions with adapter
+10,HP notebooks,0,HP 350 G1,Expansion slots,1 multi-format digital media reader
+10,HP notebooks,0,HP 355 G2,Expansion slots,HP Multi-Format Digital Media Reader—supports SD/SDHC/SDXC; Supports mini versions with adapter
+10,HP notebooks,0,HP 250 G3,Ports,1 USB 3.0; 2 USB 2.0; 1 HDMI4; 1 VGA; 1 stereo microphone-in combo jack; 1 AC power; 1 RJ-45 (Ethernet)
+10,HP notebooks,0,HP 255 G3,Ports,1 USB 3.0; 2 USB 2.0; 1 HDMI3; 1 VGA; 1 stereo headphone/ microphonein combo jack; 1 AC power; 1 RJ-45 (Ethernet)
+10,HP notebooks,0,HP 350 G1,Ports,2 USB 3.0; 1 USB 2.0; 1 VGA; 1 HDMI; 1 headphone/microphone combo; 1 RJ-45; 1 AC power
+10,HP notebooks,0,HP 355 G2,Ports,2 USB 3.0; 1 USB 2.0; 1 HDMI3; 1 VGA; 1 AC power; 1 RJ-45 (Ethernet); 1 headphone/ microphone in combo jack
+10,HP notebooks,0,HP 250 G3,Security management,Security Lock slot (lock must be purchased separately)
+10,HP notebooks,0,HP 255 G3,Security management,Security Lock slot (lock must be purchased separately)
+10,HP notebooks,0,HP 350 G1,Security management,Security Lock slot (lock must be purchased separately); Fingerprint Reader
+10,HP notebooks,0,HP 355 G2,Security management,Security Lock slot (lock must be purchased separately); Fingerprint Reader (select models only)
+10,HP notebooks,0,HP 250 G3,Management features,N/A
+10,HP notebooks,0,HP 255 G3,Management features,N/A
+10,HP notebooks,0,HP 350 G1,Management features,N/A
+10,HP notebooks,0,HP 355 G2,Management features,N/A
+10,HP notebooks,0,HP 250 G3,Memory upgrade,"Standard memory up to 8,192MB"
+10,HP notebooks,0,HP 255 G3,Memory upgrade,"Standard memory up to 8,192MB"
+10,HP notebooks,0,HP 350 G1,Memory upgrade,N/A
+10,HP notebooks,0,HP 355 G2,Memory upgrade,"Upgradeable to 16,384 MB"
+10,HP notebooks,0,HP 250 G3,Memory slots,1 SODIMM
+10,HP notebooks,0,HP 255 G3,Memory slots,1 SODIMM
+10,HP notebooks,0,HP 350 G1,Memory slots,2 SODIMM
+10,HP notebooks,0,HP 355 G2,Memory slots,2 SODIMM
+11,HP notebooks,0,HP ProBook 430 G2,Operating system,Windows 8 Pro or other operating systems available
+11,HP notebooks,0,HP ProBook 450 G2,Operating system,Windows 8 Pro or other operating systems available
+11,HP notebooks,0,HP ProBook 455 G2,Operating system,Windows 8 Pro or other operating systems available
+11,HP notebooks,0,HP ProBook 470 G2,Operating system,Windows 8 Pro or other operating systems available
+11,HP notebooks,0,HP ProBook 430 G2,Weight,Starting at 1.5 kg
+11,HP notebooks,0,HP ProBook 450 G2,Weight,Starting at 2.26 kg
+11,HP notebooks,0,HP ProBook 455 G2,Weight,Starting at 2.29 kg
+11,HP notebooks,0,HP ProBook 470 G2,Weight,Starting at 2.87 kg
+11,HP notebooks,0,HP ProBook 430 G2,Power,65W EM Smart AC Adapter; 45W Smart AC Adapter
+11,HP notebooks,0,HP ProBook 450 G2,Power,65W Smart AC adapter; 65W EM Smart AC adapter; 90W Smart AC adapter; 90W EM Smart AC adapter; HP Fast Charge (6-cell only)
+11,HP notebooks,0,HP ProBook 455 G2,Power,90W Smart AC adapter; 65W Smart AC Adapter; HP Fast Charge (6-cell only)
+11,HP notebooks,0,HP ProBook 470 G2,Power,9-cell (93 WHr) Lithium-Ion battery; 6-cell (47 WHr) Lithium-Ion battery; Fast Charge 90W Smart AC Adapter
+11,HP notebooks,0,HP ProBook 430 G2,Chipset,N/A
+11,HP notebooks,0,HP ProBook 450 G2,Chipset,Mobile Intel® HM87
+11,HP notebooks,0,HP ProBook 455 G2,Chipset,AMD A76M FCH
+11,HP notebooks,0,HP ProBook 470 G2,Chipset,Mobile Intel® HM87 Express
+11,HP notebooks,0,HP ProBook 430 G2,Display size (diagonal),"33.8 cm (13,3”)"
+11,HP notebooks,0,HP ProBook 450 G2,Display size (diagonal),39.6 cm (15.6”)
+11,HP notebooks,0,HP ProBook 455 G2,Display size (diagonal),39.6 cm (15.6”)
+11,HP notebooks,0,HP ProBook 470 G2,Display size (diagonal),43.9 cm (17.3”)
+11,HP notebooks,0,HP ProBook 430 G2,Expansion slots,1 Secure Digital
+11,HP notebooks,0,HP ProBook 450 G2,Expansion slots,"Multi Media Reader Slot supporting SD, SDHC, SDXC, Memory Stick, MSXC"
+11,HP notebooks,0,HP ProBook 455 G2,Expansion slots,"Multi Media Reader Slot supporting SD, SDHC, SDXC, Memory Stick, MSXC"
+11,HP notebooks,0,HP ProBook 470 G2,Expansion slots,"Multi Media Reader Slot supporting SD, SDHC, SDXC, Memory Stick, MSXC"
+11,HP notebooks,0,HP ProBook 430 G2,Ports,2 USB 3.0; 2 USB 2.0; 1 HDMI; 1 stereo microphone in; 1 AC power; 1 RJ-45; 1 headphone/line-out; 1 VGA
+11,HP notebooks,0,HP ProBook 450 G2,Ports,2 USB 3.0; 2 USB 2.0; 1 HDMI; 1 stereo microphone in; 1 AC power; 1 RJ-45; 1 headphone/line-out; 1 VGA
+11,HP notebooks,0,HP ProBook 455 G2,Ports,2 USB 3.0; 2 USB 2.0; 1 HDMI; 1 stereo microphone in; 1 AC power; 1 RJ-45; 1 headphone/ line-out; 1 VGA
+11,HP notebooks,0,HP ProBook 470 G2,Ports,"2 USB 3.0 ports, 2 USB 2.0 ports, 1 HDMI 1 VGA, 1 stereo microphone input, 1 headphone/ line out, 1 RJ-45 (Ethernet), 1 power connector"
+11,HP notebooks,0,HP ProBook 430 G2,Security management,Standard: HP Client Security; Microsoft Defender; HP Drive Encryption; HP BIOS Protection; Security lock slot; Optional: Intel® Anti-Theft (requires a Computrace subscription); HP Fingerprint reader
+11,HP notebooks,0,HP ProBook 450 G2,Security management,"HP Client Security Suite includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Win 71) & Microsoft Defender (Win 81), HP SpareKey (requires initial user setup), Absolute Data Protect, security lock slot"
+11,HP notebooks,0,HP ProBook 455 G2,Security management,"HP Client Security Suite includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Win 71) & Microsoft Defender (Win 81), HP SpareKey (requires initial user setup), Absolute Data Protect, security lock slot"
+11,HP notebooks,0,HP ProBook 470 G2,Security management,"HP Client Security Suite includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Win 7) & Microsoft Defender (Win 8), HP SpareKey (requires initial user setup), Absolute Data Protect, security lock slot"
+11,HP notebooks,0,HP ProBook 430 G2,Management features,HP 3D DriveGuard (Windows only)
+11,HP notebooks,0,HP ProBook 450 G2,Management features,HP 3D DriveGuard (Windows only)
+11,HP notebooks,0,HP ProBook 455 G2,Management features,HP 3D DriveGuard (Windows only)
+11,HP notebooks,0,HP ProBook 470 G2,Management features,HP 3D DriveGuard (Windows only)
+11,HP notebooks,0,HP ProBook 430 G2,Memory upgrade,Upgradeable to 16 GB
+11,HP notebooks,0,HP ProBook 450 G2,Memory upgrade,Upgradeable to 16 GB
+11,HP notebooks,0,HP ProBook 455 G2,Memory upgrade,Upgradeable to 16 GB
+11,HP notebooks,0,HP ProBook 470 G2,Memory upgrade,Upgradeable to 16 GB
+11,HP notebooks,0,HP ProBook 430 G2,Memory slots,2 SODIMM
+11,HP notebooks,0,HP ProBook 450 G2,Memory slots,2 SODIMM
+11,HP notebooks,0,HP ProBook 455 G2,Memory slots,2 SODIMM
+11,HP notebooks,0,HP ProBook 470 G2,Memory slots,2/4/8 GB SODIMMs
+12,HP notebooks,0,HP ProBook 640 G1,Operating system,Windows 8 Pro or other operating systems available
+12,HP notebooks,0,HP ProBook 645 G1,Operating system,Windows 8 Pro or other operating systems available
+12,HP notebooks,0,HP ProBook 650 G1,Operating system,Windows 8 Pro or other operating systems available
+12,HP notebooks,0,HP ProBook 655 G1,Operating system,Windows 8 Pro or other operating systems available
+12,HP notebooks,0,HP ProBook 640 G1,Weight,Starting at 2.0 kg
+12,HP notebooks,0,HP ProBook 645 G1,Weight,Starting at 2.0 kg
+12,HP notebooks,0,HP ProBook 650 G1,Weight,Starting at 2.32 kg
+12,HP notebooks,0,HP ProBook 655 G1,Weight,Starting at 2.32 kg
+12,HP notebooks,0,HP ProBook 640 G1,Power,90W Smart AC Adapter (discrete); 65W Smart AC Adapter (integrated); HP Fast Charge (not supported on 9-cell primary or secondary batteries)
+12,HP notebooks,0,HP ProBook 645 G1,Power,65W Smart AC Adapter; HP Fast Charge (not supported on 9-cell primary or secondary batteries)
+12,HP notebooks,0,HP ProBook 650 G1,Power,90W Smart AC Adapter (discrete); 65W Smart AC Adapter (integrated); HP Fast Charge (not supported on 9-cell primary or secondary batteries)
+12,HP notebooks,0,HP ProBook 655 G1,Power,90W Smart AC adapter (discrete); 65W Smart AC adapter (integrated); HP Fast Charge
+12,HP notebooks,0,HP ProBook 640 G1,Chipset,Mobile Intel® QM77 Express; Mobile Intel® HM76 Express
+12,HP notebooks,0,HP ProBook 645 G1,Chipset,AMD A70M FCH
+12,HP notebooks,0,HP ProBook 650 G1,Chipset,Mobile Intel® QM77 Express; Mobile Intel® HM76 Express
+12,HP notebooks,0,HP ProBook 655 G1,Chipset,AMD A70M FCH
+12,HP notebooks,0,HP ProBook 640 G1,Display size (diagonal),35.6 cm (14”)
+12,HP notebooks,0,HP ProBook 645 G1,Display size (diagonal),35.6 cm (14”)
+12,HP notebooks,0,HP ProBook 650 G1,Display size (diagonal),39.6 cm (15.6”)
+12,HP notebooks,0,HP ProBook 655 G1,Display size (diagonal),39.6 cm (15.6”)
+12,HP notebooks,0,HP ProBook 640 G1,Expansion slots,1 ExpressCard/54; 1 Secure Digital
+12,HP notebooks,0,HP ProBook 645 G1,Expansion slots,1 ExpressCard/54; 1 Secure Digital
+12,HP notebooks,0,HP ProBook 650 G1,Expansion slots,1 ExpressCard/54; 1 Secure Digital
+12,HP notebooks,0,HP ProBook 655 G1,Expansion slots,1 ExpressCard/54; 1 Secure Digital
+12,HP notebooks,0,HP ProBook 640 G1,Ports,2 USB 3.0; 1 USB 2.0; 1 DisplayPort; 1 stereo microphone in; 1 stereo headphone/line-out; 1 1394a; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 VGA; 1 RJ-11 (optional)
+12,HP notebooks,0,HP ProBook 645 G1,Ports,2 USB 3.0; 1 USB 2.0; 1 DisplayPort; 1 stereo microphone in; 1 stereo headphone/line-out; 1 1394a; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 eSATA/USB 2.0 Combo; 1 VGA
+12,HP notebooks,0,HP ProBook 650 G1,Ports,2 USB 3.0; 2 USB 2.0; 1 DisplayPort; 1 stereo microphone in; 1 stereo headphone/line-out; 1 1394a; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 VGA; 1 serial; 1 RJ-11 (optional)
+12,HP notebooks,0,HP ProBook 655 G1,Ports,2 USB 3.0; 2 USB 2.0; 1 DisplayPort; 1 stereo microphone in; 1 stereo headphone/line-out; 1 1394a; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 VGA; 1 serial; 1 RJ-11 (optional)
+12,HP notebooks,0,HP ProBook 640 G1,Security management,"Standard: HP Client Security Dashboard (Windows 81 only); HP ProtectTools; HP Spare Key (requires initial user setup); Central Management for HP ProtectTools; Credential Manager for HP ProtectTools; Drive Encryption; Enhanced Pre-Boot Security; Face Recognition; File Sanitizer for HP ProtectTools (Windows 71 only); Microsoft Defender (Windows 81 only, includes MS Security Essentials); Microsoft Security Essentials (part of Microsoft Defender for Windows 81); Security lock slot; TPM Embedded Security Chip 1.2; Optional: Computrace (sold separately and requires the purchase of subscription); Intel Anti-Theft Technology (requires Absolute Computrace subscription); HP Fingerprint Sensor; Smart Card Reader (replaces ExpressCard); HP Privacy Filter"
+12,HP notebooks,0,HP ProBook 645 G1,Security management,"Standard: HP Client Security Dashboard (Windows 81 only); HP ProtectTools; HP Spare Key (requires initial user setup); Central Management for HP ProtectTools; Credential Manager for HP ProtectTools; Drive Encryption; Enhanced Pre-Boot Security; Face Recognition; File Sanitizer for HP ProtectTools (Windows 71 only); Microsoft Defender (Windows 81 only, includes MS Security Essentials); Microsoft Security Essentials (Windows 71 only); Security lock slot; TPM Embedded Security Chip 1.2; Optional: Computrace (sold separately and requires the purchase of subscription); HP Fingerprint Sensor; Smart Card Reader (replaces ExpressCard); HP Privacy Filter"
+12,HP notebooks,0,HP ProBook 650 G1,Security management,"Standard: HP Client Security Dashboard (Windows 81 only); HP ProtectTools; HP Spare Key (requires initial user setup); Central Management for HP ProtectTools; Credential Manager for HP ProtectTools; Drive Encryption; Enhanced Pre-Boot Security; Face Recognition; File Sanitizer for HP ProtectTools (Windows 71 only); Microsoft Defender (Windows 81 only, includes MS Security Essentials); Microsoft Security Essentials (part of Microsoft Defender for Windows 81); Security lock slot; TPM Embedded Security Chip 1.2; Optional: Computrace (sold separately and requires the purchase of subscription); Intel Anti-Theft Technology (requires Absolute Computrace subscription); HP Fingerprint Sensor; Smart Card Reader (replaces ExpressCard); HP Privacy Filter"
+12,HP notebooks,0,HP ProBook 655 G1,Security management,"Standard: HP Client Security Dashboard (Windows 81 only); HP ProtectTools; HP Spare Key (requires initial user setup); Central Management for HP ProtectTools; Credential Manager for HP ProtectTools; Drive Encryption; Enhanced Pre-Boot Security; Face Recognition; File Sanitizer for HP ProtectTools (Windows 71 only); Microsoft Defender (Windows 81 only, includes MS Security Essentials); Microsoft Security Essentials (part of Microsoft Defender for Windows 81); Security lock slot; TPM Embedded Security Chip 1.2; Optional: Computrace (sold separately and requires the purchase of subscription); Intel Anti-Theft Technology (requires Absolute Computrace subscription); HP Fingerprint Sensor; Smart Card Reader (replaces ExpressCard); HP Privacy Filter"
+12,HP notebooks,0,HP ProBook 640 G1,Management features,HP 3D DriveGuard (Windows only)
+12,HP notebooks,0,HP ProBook 645 G1,Management features,HP 3D DriveGuard (Windows only)
+12,HP notebooks,0,HP ProBook 650 G1,Management features,HP 3D DriveGuard (Windows only)
+12,HP notebooks,0,HP ProBook 655 G1,Management features,HP 3D DriveGuard (Windows only)
+12,HP notebooks,0,HP ProBook 640 G1,Memory upgrade,Upgradeable to 16 GB
+12,HP notebooks,0,HP ProBook 645 G1,Memory upgrade,Upgradeable to 16 GB
+12,HP notebooks,0,HP ProBook 650 G1,Memory upgrade,Upgradeable to 16 GB
+12,HP notebooks,0,HP ProBook 655 G1,Memory upgrade,Upgradeable to 16 GB
+12,HP notebooks,0,HP ProBook 640 G1,Memory slots,2 SODIMM
+12,HP notebooks,0,HP ProBook 645 G1,Memory slots,2 SODIMM
+12,HP notebooks,0,HP ProBook 650 G1,Memory slots,2 SODIMM
+12,HP notebooks,0,HP ProBook 655 G1,Memory slots,2 SODIMM
+13,HP notebooks,0,HP EliteBook 820 G1,Operating system,Windows 8 Pro or other operating systems available
+13,HP notebooks,0,HP EliteBook 840 G1,Operating system,Windows 8 Pro or other operating systems available
+13,HP notebooks,0,HP EliteBook 850 G1,Operating system,Windows 8 Pro or other operating systems available
+13,HP notebooks,0,HP EliteBook Folio 1040 G1,Operating system,Windows 8 Pro or other operating systems available
+13,HP notebooks,0,HP EliteBook 820 G1,Weight,Starting at 1.33 kg
+13,HP notebooks,0,HP EliteBook 840 G1,Weight,Starting at 1.58 kg
+13,HP notebooks,0,HP EliteBook 850 G1,Weight,Starting at 1.88 kg
+13,HP notebooks,0,HP EliteBook Folio 1040 G1,Weight,Starting at 1.49 kg
+13,HP notebooks,0,HP EliteBook 820 G1,Power,Primary Battery: 3-cell (26 WHr) HP Long Life; 3-cell (46 WHr) HP Long Life; Integrated: 45W Smart AC adapter
+13,HP notebooks,0,HP EliteBook 840 G1,Power,Primary Battery: 3-cell (24 WHr) HP Long Life; 3-cell (50 WHr) HP Long Life; Secondary Battery: 6-cell (60 WHr) HP Long Life slice optional; Integrated: 45W Smart AC adapter; 65W Smart AC adapter; Discrete: 65W Smart AC adapter
+13,HP notebooks,0,HP EliteBook 850 G1,Power,Primary Battery: 3-cell (24 WHr) HP Long Life; 3-cell (50 WHr) HP Long Life; Integrated: 45W Smart AC adapter; 65W Smart AC adapter; Discrete: 65W Smart AC adapter
+13,HP notebooks,0,HP EliteBook Folio 1040 G1,Power,45W Smart AC adapter
+13,HP notebooks,0,HP EliteBook 820 G1,Chipset,Chipset integrated with processor
+13,HP notebooks,0,HP EliteBook 840 G1,Chipset,Chipset integrated with processor
+13,HP notebooks,0,HP EliteBook 850 G1,Chipset,Chipset integrated with processor
+13,HP notebooks,0,HP EliteBook Folio 1040 G1,Chipset,Mobile Intel® QM77 Express
+13,HP notebooks,0,HP EliteBook 820 G1,Display size (diagonal),31.8 cm (12.5”)
+13,HP notebooks,0,HP EliteBook 840 G1,Display size (diagonal),35.6 cm (14”)
+13,HP notebooks,0,HP EliteBook 850 G1,Display size (diagonal),39.6 cm (15.6”)
+13,HP notebooks,0,HP EliteBook Folio 1040 G1,Display size (diagonal),35.6 cm (14”)
+13,HP notebooks,0,HP EliteBook 820 G1,Expansion slots,1 Media Card Reader
+13,HP notebooks,0,HP EliteBook 840 G1,Expansion slots,1 Media Card Reader
+13,HP notebooks,0,HP EliteBook 850 G1,Expansion slots,1 Media Card Reader
+13,HP notebooks,0,HP EliteBook Folio 1040 G1,Expansion slots,1 micro SD card reader
+13,HP notebooks,0,HP EliteBook 820 G1,Ports,2 USB 3.0; 1 USB 3.0 charging; 1 DisplayPort 1.2; 1 VGA; 1 combo stereo headphone/mic jack;1 AC power; 1 RJ-45; 1 side docking connector
+13,HP notebooks,0,HP EliteBook 840 G1,Ports,3 USB 3.0; 1 USB 3.0 charging; 1 DisplayPort 1.2; 1 VGA; 1 Combo stereo headphone/mic jack; 1 AC power; 1 RJ-45; 1 side docking connector; 1 secondary battery connector
+13,HP notebooks,0,HP EliteBook 850 G1,Ports,3 USB 3.0; 1 USB 3.0 charging; 1 DisplayPort 1.2; 1 VGA; 1 Combo stereo headphone/mic jack;1 AC power; 1 RJ-45; 1 side docking connector
+13,HP notebooks,0,HP EliteBook Folio 1040 G1,Ports,2 USB 3.0; 1 USB 3.0 charging; 1 docking connector; 1 DisplayPort 1.2; 1 AC power; 1 combo stereo headphone/mic jack
+13,HP notebooks,0,HP EliteBook 820 G1,Security management,"HP Client Security Suite (requires Windows) includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP BIOS with HP Sure Start, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Windows 7) & Microsoft Defender (Windows 8), HP SpareKey(requires initial user setup), Absolute Data Protect, TPM Embedded Security Chip 1.2, security lock slot"
+13,HP notebooks,0,HP EliteBook 840 G1,Security management,"HP Client Security Suite (requires Windows) includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP BIOS with HP Sure Start, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Windows 7) & Microsoft Defender (Windows 8), HP SpareKey(requires initial user setup), Absolute Data Protect, TPM Embedded Security Chip 1.2, security lock slot"
+13,HP notebooks,0,HP EliteBook 850 G1,Security management,"HP Client Security Suite (requires Windows) includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP BIOS with HP Sure Start, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Windows 7) & Microsoft Defender (Windows 8), HP SpareKey (requires initial user setup), Absolute Data Protect, TPM Embedded Security Chip 1.2, security lock slot"
+13,HP notebooks,0,HP EliteBook Folio 1040 G1,Security management,Standard: HP BIOS Protection; Microsoft Security Essentials; HP ProtectTools; Central Management for HP ProtectTools; TPM Embedded Security Chip 1.2; Pre-Boot Security; HP SpareKey (requires initial user setup); HP Disk Sanitizer; Drive Encryption for HP ProtectTools; Credential Manager for HP ProtectTools; Face Recognition for HP ProtectTools; File Sanitizer for HP ProtectTools; Smart Card Reader; Security Lock Slot; Optional: Computrace (sold separately and requires the purchase of subscription); Intel Anti-Theft Technology (requires Absolute Computrace subscription); HP Fingerprint Sensor (select models)
+13,HP notebooks,0,HP EliteBook 820 G1,Management features,HP 3D DriveGuard (Windows only)
+13,HP notebooks,0,HP EliteBook 840 G1,Management features,HP 3D DriveGuard (Windows only)
+13,HP notebooks,0,HP EliteBook 850 G1,Management features,HP 3D DriveGuard (Windows only)
+13,HP notebooks,0,HP EliteBook Folio 1040 G1,Management features,HP 3D DriveGuard (Windows only)
+13,HP notebooks,0,HP EliteBook 820 G1,Memory upgrade,Upgradeable to 16 GB
+13,HP notebooks,0,HP EliteBook 840 G1,Memory upgrade,Upgradeable to 16 GB
+13,HP notebooks,0,HP EliteBook 850 G1,Memory upgrade,Upgradeable to 16 GB
+13,HP notebooks,0,HP EliteBook Folio 1040 G1,Memory upgrade,N/A
+13,HP notebooks,0,HP EliteBook 820 G1,Memory slots,Two slots supporting dual-channel memory
+13,HP notebooks,0,HP EliteBook 840 G1,Memory slots,Two slots supporting dual-channel memory
+13,HP notebooks,0,HP EliteBook 850 G1,Memory slots,Two slots supporting dual-channel memory
+13,HP notebooks,0,HP EliteBook Folio 1040 G1,Memory slots,on-board
+14,HP notebooks,0,HP ZBook 14 Mobile Workstation,Operating system,Windows 8 Pro or other operating systems available
+14,HP notebooks,0,HP ZBook 15 Mobile Workstation,Operating system,Windows 8 Pro or other operating systems available
+14,HP notebooks,0,HP ZBook 17 Mobile Workstation,Operating system,Windows 8 Pro or other operating systems available
+14,HP notebooks,0,HP ZBook 14 Mobile Workstation,Weight,Starting at 1.59 kg
+14,HP notebooks,0,HP ZBook 15 Mobile Workstation,Weight,Starting at 2.82 kg
+14,HP notebooks,0,HP ZBook 17 Mobile Workstation,Weight,Starting at 3.48 kg
+14,HP notebooks,0,HP ZBook 14 Mobile Workstation,Power,HP Long Life 3-cell (24 WHr) polymer battery; HP Long Life 3-cell (50 WHr) polymer/prismatic battery; External 65W Smart AC adapter
+14,HP notebooks,0,HP ZBook 15 Mobile Workstation,Power,Primary batteries: 8-cell (83 WHr) Li-Ion battery; HP Long Life 8-cell (75 WHr) Li-Ion battery; Secondary batteries: HP BB09 Ultra Extended Life Notebook Battery (9-cell/100 WHr); HP ST09 Extended Life Notebook Battery (9-cell/73 WHr) External: External 150W Slim Smart AC adapter; External 200W Slim Smart AC adapter; HP Fast Charge (not supported on 9-cell primary battery)
+14,HP notebooks,0,HP ZBook 17 Mobile Workstation,Power,"Primary Batteries: 8-cell (83 WHr) Li-Ion battery, HP Long Life 8-cell (75 WHr) Li-Ion battery; Secondary Batteries: HP BB09 Ultra Extended Life; Notebook Battery (9-cell/100 WHr), HP ST09 Extended Life Notebook Battery (9-cell/73 WHr); External: External 200W Slim Smart AC adapter; External 230W Slim Smart AC adapter; HP Fast Charge (not supported on 9-cell primary battery)"
+14,HP notebooks,0,HP ZBook 14 Mobile Workstation,Chipset,Chipset is integrated with processor
+14,HP notebooks,0,HP ZBook 15 Mobile Workstation,Chipset,Mobile Intel® QM87
+14,HP notebooks,0,HP ZBook 17 Mobile Workstation,Chipset,Mobile Intel® QM87
+14,HP notebooks,0,HP ZBook 14 Mobile Workstation,Display size (diagonal),35.6 cm (14”)
+14,HP notebooks,0,HP ZBook 15 Mobile Workstation,Display size (diagonal),39.6 cm (15.6”)
+14,HP notebooks,0,HP ZBook 17 Mobile Workstation,Display size (diagonal),"43.9 cm (17,3”)"
+14,HP notebooks,0,HP ZBook 14 Mobile Workstation,Expansion slots,1 Secure Digital; 1 Smart Card Reader
+14,HP notebooks,0,HP ZBook 15 Mobile Workstation,Expansion slots,1 ExpressCard/54; 1 Secure Digital; 1 Smart Card Reader
+14,HP notebooks,0,HP ZBook 17 Mobile Workstation,Expansion slots,1 ExpressCard/54; 1 Secure Digital; 1 Smart Card Reader
+14,HP notebooks,0,HP ZBook 14 Mobile Workstation,Ports,3 USB 3.0; 1 USB 3.0 charging; 1 DisplayPort; 1 stereo microphone-in/headphone-out combo; 1 AC power; 1 RJ-45; 1 docking connector; 1 VGA; 1 secondary battery connector
+14,HP notebooks,0,HP ZBook 15 Mobile Workstation,Ports,(2) USB 3.0; (1) USB 2.0; (1) USB 3.0 charging port; 1 Thunderbolt; 1 DisplayPort; 1 stereo microphone-in/headphone-out combo; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 VGA
+14,HP notebooks,0,HP ZBook 17 Mobile Workstation,Ports,(2) USB 3.0; 1 USB 2.0; 1 USB 3.0 charging port; 1 Thunderbolt; 1 DisplayPort; 1 stereo microphone-in/headphone-out combo; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 VGA
+14,HP notebooks,0,HP ZBook 14 Mobile Workstation,Security management,Standard: HP Client Security (Windows 7 and 8 only); HP Fingerprint Sensor (optional); HP Sure Start; Integrated Smart Card Reader; Enhanced Pre-Boot Security (multiuser/multifactor); HP Spare Key (requires initial user setup); One-Step Logon; Common Criteria EAL4+ Augmented Certified Discrete TPM 1.2 Embedded Security Chip; Security lock slot; Support for Intel AT; Optional: Computrace with GPS Tracking (sold separately and requires the purchase of subscription)
+14,HP notebooks,0,HP ZBook 15 Mobile Workstation,Security management,Standard: HP Client Security (Windows 8 only); HP Fingerprint Sensor; Integrated Smart Card Reader; Enhanced Pre-Boot Security (multiuser/multifactor); HP Spare Key (requires initial user setup); One-Step Logon; Common Criteria EAL4+ Augmented Certified Discrete TPM 1.2 Embedded Security Chip; Security lock slot; Support for Intel AT; Optional: Computrace with GPS Tracking (sold separately and requires the purchase of subscription)
+14,HP notebooks,0,HP ZBook 17 Mobile Workstation,Security management,Standard: HP Client Security (Windows 8 only); HP Fingerprint Sensor; Integrated Smart Card Reader; Enhanced Pre-Boot Security (multiuser/multifactor); HP Spare Key (requires initial user setup); One-Step Logon; Common Criteria EAL4+ Augmented Certified Discrete TPM 1.2 Embedded Security Chip; Security lock slot; Support for Intel AT; Optional: Computrace with GPS Tracking (sold separately and requires the purchase of subscription)
+14,HP notebooks,0,HP ZBook 14 Mobile Workstation,Management features,N/A
+14,HP notebooks,0,HP ZBook 15 Mobile Workstation,Management features,N/A
+14,HP notebooks,0,HP ZBook 17 Mobile Workstation,Management features,N/A
+14,HP notebooks,0,HP ZBook 14 Mobile Workstation,Memory upgrade,Upgradeable to 16 GB
+14,HP notebooks,0,HP ZBook 15 Mobile Workstation,Memory upgrade,Upgradeable to 32 GB
+14,HP notebooks,0,HP ZBook 17 Mobile Workstation,Memory upgrade,Upgradeable to 32 GB
+14,HP notebooks,0,HP ZBook 14 Mobile Workstation,Memory slots,2 SODIMM
+14,HP notebooks,0,HP ZBook 15 Mobile Workstation,Memory slots,Two SODIMM slots (dual-core processor) or four SODIMM slots (quad-core processor) supporting dual-channel memory.
+14,HP notebooks,0,HP ZBook 17 Mobile Workstation,Memory slots,Two SODIMM slots (dual-core processor) or four SODIMM slots (quad-core processor) supporting dual-channel memory.
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Operating system,Windows 8 Pro or other operating systems available
+19,HP tablets,0,HP ElitePad 1000 G2,Operating system,Windows 8 Pro or other operating systems available
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Audio,DTS Studio Sound; Integrated stereo speakers; Integrated microphone (dualmicrophone array); Headphone/microphone combo jack; Buttons for volume up and down
+19,HP tablets,0,HP ElitePad 1000 G2,Audio,HD audio with DTS Sound+; 2 integrated stereo speakers; 2 digital microphones; Headphone/microphone combo jack
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Sensors,N/A
+19,HP tablets,0,HP ElitePad 1000 G2,Sensors,Accelerometer + eCompass; Gyroscope; Ambient light sensor; Haptics
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Chipset,Mobile Intel® QM77 Express
+19,HP tablets,0,HP ElitePad 1000 G2,Chipset,Chipset is integrated with processor
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Processors,"Intel® Core™ i7-3687U with Intel HD Graphics 4000 (2.1 GHz, 4 MB cache, 2 cores); Intel® Core™ i5-3437U with Intel HD Graphics 4000 (1.9 GHz, 3 MB cache, 2 cores)"
+19,HP tablets,0,HP ElitePad 1000 G2,Processors,"Intel® Atom® Z3795 (1.6 GHz, up to 2.39 GHz using Intel Burst Technology, 2 MB cache, 4 cores)"
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Display,Diagonal LED-backlit HD UWVA (1366 x 768)
+19,HP tablets,0,HP ElitePad 1000 G2,Display,"WXGA UWVA (1900 x 1200), capacitive multi-touch screen with digitizer, Corning® Gorilla® Glass 3 with anti-smudge coating"
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Display size (diagonal),29.5 cm (11.6”)
+19,HP tablets,0,HP ElitePad 1000 G2,Display size (diagonal),"25.7 cm (10.1"")"
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Expansion slots,1 micro SIM; 1 microSD
+19,HP tablets,0,HP ElitePad 1000 G2,Expansion slots,1 flash media
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Graphics,Intel HD Graphics
+19,HP tablets,0,HP ElitePad 1000 G2,Graphics,Intel HD Graphics
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Storage,128 GB mSATA SSD; 256 GB mSATA SSD
+19,HP tablets,0,HP ElitePad 1000 G2,Storage,64 GB eMMC SSD; 128 GB eMMC SSD
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Ports,1 DisplayPort; 1 headphone/microphone combo; 1 power connector; 1 docking connector; 1 RJ-45; 2 USB 3.0
+19,HP tablets,0,HP ElitePad 1000 G2,Ports,"1 system connector; 1 headphone/ microphone combo The system connector connects to the unit either directly to power, or to the docking station, or to a jacket."
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Memory,4 GB 1600 MHz SODIMM; 8 GB 1600 MHz SODIMM; 12 GB 1600 MHz SODIMM
+19,HP tablets,0,HP ElitePad 1000 G2,Memory,4 GB 1067 MHz LPDDR3 SDRAM
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Pre-installed software,N/A
+19,HP tablets,0,HP ElitePad 1000 G2,Pre-installed software,Buy Office; PDF Complete Corporate Edition; HP Mobile Connect; HP Wireless Hotspot (models with WLAN); HP ePrint; HP Manageability; HP PageLift; HP Support Assistant; HP SoftPaq Download Manager; Kindle; Box (50 GB offer)
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Security management,Standard: Common Criteria EAL4+ Augmented Certified Discrete TPM 1.2 Embedded Security Chip; Security lock slot; HP BIOS (BIOS Protection); Secure Erase; Computrace Persistence; DriveLock and Automatic DriveLock; Preboot Security; Master Boot Record recovery; HP Client Security Software: Drive Encryption; Credential Manager; Password Manager; Absolute Data Protect (Windows 81 only); Face Recognition; One Step Logon; SpareKey; Device Access Manager with Just In Time Authentication; Embedded Security (Windows 71 only); Privacy Manager (Windows 71 only); Microsoft Security Essentials (Windows 71 only); DigitalPass (Windows 71 only); Central Management capable
+19,HP tablets,0,HP ElitePad 1000 G2,Security management,HP Client Security (Included Credential Manager and Password Manager); Absolute Data Protect; Device Access Manager with Just In Time Authentication; Drive Encryption; HP Trust Circles Standard; Microsoft Defender; TPM 1.2; Near Field Communication with Secure Element (ships disabled)
+19,HP tablets,0,HP EliteBook Revolve 810 G2,Wireless support,HP un2430 EV-DO/HSPA Mobile Broadband with GPS support; HP hs2350 HSPA+ Mobile Broadband with GPS support; Intel Centrino Advanced-N 6205 802.11a/b/g/n; Intel 802.11a/b/g/n + Bluetooth Combo
+19,HP tablets,0,HP ElitePad 1000 G2,Wireless support,Broadcom 801.11a/b/g/n (2x2) and Bluetooth® 4.0; HP hs3110 HSPA+ Mobile Broadband; HP lt4111 LTE/EV-DO/HSPA+ Gobi 4G; HP lt4112 LTE/HSPA+ Gobi 4G
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Operating system,Windows 8 Pro or other operating systems
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Operating system,Windows 8 Pro or other operating systems
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Operating system,Windows 8 Pro or other operating systems
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Operating system,Windows 8 Pro or other operating systems
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,External drive bays,"One 8.9 cm (3.5""); Two 13.3 cm (5.25"")"
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,External drive bays,"One 8.9 cm (3.5""); One slimline; One 13.3 cm (5.25"")"
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,External drive bays,"One 8.9 cm (3.5""); One slimline"
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,External drive bays,"One 8.9 cm (3.5""); One 13.3 cm (5.25""); One slim"
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Internal drive bays,"Two 8.9 cm (3.5"")"
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Internal drive bays,"One 6.4 cm (2.5""); Two 8.9 cm (3.5"")"
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Internal drive bays,"One 6.4 cm (2.5""); One 8.9 cm (3.5"")"
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Internal drive bays,"One 6.4 cm (2.5""); Two 8.9 cm (3.5"")"
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Form factor,Microtower
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Form factor,Microtower
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Form factor,Small Form Factor
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Form factor,Microtower
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Security management,"Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; Serial, parallel, USB enable/disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/boot control; Power-On password (via BIOS); Setup password (via BIOS); HP Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices"
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Security management,"Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; Intel® Identify Protection Technology (IPT); Serial, parallel, USB enable/disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/ boot control; Power-On password (via BIOS); Setup password (via BIOS); HP Chassis (1 bay) Security Kit; Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices"
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Security management,"Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; Intel® Identify Protection Technology (IPT); Serial, parallel, USB enable/disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/boot control; Power-On password (via BIOS); Setup password (via BIOS); HP Chassis (1 bay) Security Kit; Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices"
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Security management,"Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; RAID configurations; Intel® Identify Protection Technology (IPT); Serial, parallel, USB enable/ disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/boot control; Power-On password (via BIOS); Setup password (via BIOS); HP Chassis (1 bay) Security Kit; Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices"
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Management features,N/A
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Management features,Intel Standard Manageability (select models)
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Management features,Intel Standard Manageability (select models)
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Management features,Intel Standard Manageability (select models)
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Chipset,AMD A75
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Chipset,Intel® Q85 Express
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Chipset,Intel® Q85 Express
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Chipset,Intel® Q87 Express
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Expansion slots,1 full-height PCI; 1 full-height PCIe x1; 1 full-height PCIe x16 (x16); 1 full-height PCIe x16 (x4)
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Expansion slots,3 PCIe x1; 1 PCIe x16
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Expansion slots,3 PCIe x1; 1 PCIe x16
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Expansion slots,2 full-height PCIe x1; 1 full-height PCIe x16; 1 full-height PCIe x16 (x4)
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Expansion slots note,N/A
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Expansion slots note,N/A
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Expansion slots note,N/A
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Expansion slots note,1 full-height PCI (select models)
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Ports,4 USB 3.0; 6 USB 2.0; 2 PS/2; 1 VGA; 1 DisplayPort; 1 serial; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Ports,4 USB 3.0; 6 USB 2.0; 1 serial; 2 PS/2; 1 VGA; 2 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Ports,4 USB 3.0; 6 USB 2.0; 1 serial; 2 PS/2; 1 VGA; 2 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Ports,2 USB 3.0; 6 USB 2.0; 1 serial; 2 PS/2; 1 VGA; 2 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Ports note,"Optional ports include 1 serial, 1 eSATA, 1 parallel, 1 22-in-1 Media Card Reader"
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Ports note,Optional: 1 serial; 1 parallel
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Ports note,Optional: 1 serial; 1 parallel
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Ports note,Optional: 1 serial; 1 parallel
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Memory upgrade,Upgradeable to 32 GB
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Memory upgrade,Upgradeable to 32 GB
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Memory upgrade,Upgradeable to 32 GB
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Memory upgrade,Upgradeable to 32 GB
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Memory slots,4 DIMM
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Memory slots,4 DIMM
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Memory slots,4 DIMM
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Memory slots,4 DIMM
+25,HP desktops & all-in-ones,0,HP Compaq Pro 6305 Microtower,Power,"320W standard efficiency, active PFC; 320W 90% efficient, active PFC"
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Tower,Power,"320W standard efficiency, 92% efficient, active PFC"
+25,HP desktops & all-in-ones,0,HP ProDesk 600 G1 Small Form Factor,Power,"240W 92% efficient, active PFC"
+25,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Tower,Power,"320W standard efficiency, active PFC; 320W 92% efficient, active PFC"
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Operating system,Windows 8 Pro or other operating systems
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Operating system,Windows 8 Pro or other operating systems
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,External drive bays,"One 6.4 cm (2.5"")"
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,External drive bays,"One 8.9 cm (3.5""); One slim"
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Internal drive bays,N/A
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Internal drive bays,"One 6.4 cm (2.5""); One 8.9 cm (3.5"")"
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Form factor,Ultra-slim desktop
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Form factor,Small Form Factor
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Security management,"Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; Intel® Identify Protection Technology (IPT); Serial, parallel, USB enable/disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/ boot control; Power-On password (via BIOS); Setup password (via BIOS); Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices"
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Security management,"Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; RAID configurations; Intel® Identify Protection Technology (IPT); Serial, parallel, USB enable/disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/ boot control; Power-On password (via BIOS); Setup password (via BIOS); Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices"
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Management features,Intel Standard Manageability (select models)
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Management features,Intel Standard Manageability (select models)
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Chipset,Intel® Q87 Express
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Chipset,Intel® Q87 Express
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Expansion slots,1 mini PCIe; 1 MXM; 1 mSATA
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Expansion slots,2 low-profile PCIe x1; 1 low-profile PCIe x16 (x4); 1 low-profile PCIe x16
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Expansion slots note,N/A
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Expansion slots note,N/A
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Ports,2 USB 3.0; 6 USB 2.0; 2 PS/2; 1 VGA; 2 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Ports,2 USB 3.0; 6 USB 2.0; 1 serial; 2 PS/2; 1 VGA; 2 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Ports note,N/A
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Ports note,Optional: 1 serial; 1 parallel
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Memory upgrade,Upgradeable to 32 GB
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Memory upgrade,Upgradeable to 32 GB
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Memory slots,2 SODIMM
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Memory slots,4 DIMM
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Ultra-slim,Power,"135W (integrated) standard efficiency, 89% efficient, active PFC; 180W (discrete) standard efficiency; 89% efficient, active PC"
+26,HP desktops & all-in-ones,0,HP EliteDesk 800 G1 Small Form Factor,Power,"240W 92% efficient, active PFC"
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Operating system,Windows 8 Pro or other operating systems
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Operating system,Windows 8 Pro or other operating systems
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Operating system,Windows 8 Pro or other operating systems
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,External drive bays,"One 13.3 cm (5.25"") external; Slim Line Optical Drive"
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,External drive bays,One slimline
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,External drive bays,"One 13.3 cm (5.25"")"
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Internal drive bays,"One 8.9 cm (3.5"")"
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Internal drive bays,"One 8.9 cm (3.5"")"
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Internal drive bays,"One 6.4 cm (2.5"")"
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Form factor,All-in-one
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Form factor,All-in-one
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Form factor,All-in-one
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Security management,Security lock slot; HP Keyed Cable Lock; USB port disable; Rear cover security screw
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Security management,"USB port disable; Lockable Access Panel; Lockable I/O security cover; Security Screw; HP Keyed Cable Lock (optional); Common Criteria Certified, Infineon TPM SLB9656TT1.2- 4.32 FW; Intrusion Detector; Wall/Arm/Cart Mountable via VESA bracket; Support for Nobel Locking Plate (3rd party option); Support for 3M Privacy Screen (3rd party option)"
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Security management,"USB port disable; Lockable Access Panel; Lockable I/O security cover; Security Screw; HP Keyed Cable Lock (optional); Common Criteria Certified, Infineon TPM SLB9656TT1.2- 4.32 FW; Intrusion Detector; Wall/Arm/Cart Mountable via VESA bracket; Support for Nobel Locking Plate (3rd party option); Support for 3M Privacy Screen (3rd party option), for non-touch models"
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Management features,N/A
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Management features,Intel Standard Manageability (select models)
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Management features,vPro Technology Capable (select models); Intel Standard Manageability (select models)
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Chipset,Intel® H81 Express
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Chipset,Intel® Q85 Express
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Chipset,Intel® Q87 Express
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Expansion slots,1 mini PCIe half-length (used by optional wireless LAN module)
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Expansion slots,1 mini PCIe; 1 MXM; 1 mSATA
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Expansion slots,1 mini PCIe; 1 MXM; 1 mSATA
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Expansion slots note,N/A
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Expansion slots note,N/A
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Expansion slots note,1 Media Card Reader (optional)
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Ports,2 USB 3.0; 4 USB 2.0 (rear); 1 Microphone in; 1 Headphone jack; 1 Serial RS-232; 1 Stereo audio line out; 1 Power connector; 1 RJ-45; 1 DisplayPort with multi-stream
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Ports,4 USB 3.0; 2 USB 2.0; 2 PS/2; 1 microphone in; 1 headphone; 1 RJ-45; 1 audio out; 1 power connector; 1 DisplayPort
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Ports,6 USB 3.0; 2 PS/2; 1 microphone in; 1 audio headphone jack; 1 serial; 1 audio line out; 1 power connector; 1 RJ-45; 1 DisplayPort
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Ports note,N/A
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Ports note,1 serial (optional)
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Ports note,N/A
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Memory upgrade,Upgradeable to 16 GB
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Memory upgrade,Upgradeable to 16 GB
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Memory upgrade,Upgradeable to 16 GB
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Memory slots,2 SODIMM
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Memory slots,2 SODIMM
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Memory slots,2 SODIMM
+27,HP desktops & all-in-ones,0,HP ProOne 400 G1 All-in-One,Power,"External 120W, up to 89% efficient, active PFC"
+27,HP desktops & all-in-ones,0,HP ProOne 600 G1 All-in-One,Power,"Internal 180W, up to 91% efficient, active PFC"
+27,HP desktops & all-in-ones,0,HP EliteOne 800 G1 All-in-One,Power,"200W, up to 93% efficient, active PFC"
+32,HP workstations,0,HP Z820 Workstation,Operating system,Windows 8 Pro or other operating systems
+32,HP workstations,0,HP Z620 Workstation,Operating system,Windows 8 Pro or other operating systems
+32,HP workstations,0,HP Z420 Workstation,Operating system,Windows 8 Pro or other operating systems
+32,HP workstations,0,HP Z230 Tower Workstation,Operating system,Windows 8 Pro or other operating systems
+32,HP workstations,0,HP Z820 Workstation,External drive bays,Three 13.34 cm
+32,HP workstations,0,HP Z620 Workstation,External drive bays,Two 13.34 cm
+32,HP workstations,0,HP Z420 Workstation,External drive bays,Three 13.34 cm
+32,HP workstations,0,HP Z230 Tower Workstation,External drive bays,"1 external slim ODD bay, 2 external Half-Height 13.34 cm bays"
+32,HP workstations,0,HP Z820 Workstation,Internal drive bays,Four 8.89 cm
+32,HP workstations,0,HP Z620 Workstation,Internal drive bays,Three 8.89 cm
+32,HP workstations,0,HP Z420 Workstation,Internal drive bays,Three 8.89 cm
+32,HP workstations,0,HP Z230 Tower Workstation,Internal drive bays,"2 internal 6.35 cm bays, 1 internal 8.89 cm bay"
+32,HP workstations,0,HP Z820 Workstation,Storage controller,Integrated SATA 6.0 Gb/s; Integrated SATA 3.0 Gb/s; Integrated LSI SAS 2308 Controller; LSI MegaRAID® 9260-8i SAS 6Gb/s ROC RAID Card and iBBU08 Battery Backup Unit (optional)
+32,HP workstations,0,HP Z620 Workstation,Storage controller,"Integrated SATA 6.0 Gb/s; Integrated SATA 3.0 Gb/s with RAID 0, 1, 10 support; LSI MegaRAID 9260-8i SAS 6.0 Gb/s ROC RAID and iBBU08 Battery Backup Unit (optional); LSI 9212 4-Port SAS 6.0 Gb/s RAID (optional); LSI 9217-4i4e 8-port SAS 6.0 Gb/s RAID (optional)"
+32,HP workstations,0,HP Z420 Workstation,Storage controller,Integrated SATA 6.0 Gb/s; integrated SATA 3.0 Gb/s; LSI 9212 4-Port SAS 6 Gb/s RAID (optional); LSI MegaRAID 9260-8i SAS 6 Gb/s ROC RAID and IBBU08 battery backup unit (optional)
+32,HP workstations,0,HP Z230 Tower Workstation,Storage controller,"Integrated SATA Controller, RAID 0,1 supported: 5 ports, 6 Gb/s"
+32,HP workstations,0,HP Z820 Workstation,Form factor,Rackable minitower
+32,HP workstations,0,HP Z620 Workstation,Form factor,Rackable minitower
+32,HP workstations,0,HP Z420 Workstation,Form factor,Convertible Minitower
+32,HP workstations,0,HP Z230 Tower Workstation,Form factor,Tower
+32,HP workstations,0,HP Z820 Workstation,Security management,"Cable Lock Support (standard - cable optional); Chassis Intrusion Sensor (standard); Serial, Parallel, USB, Audio, Network Enable/Disable (standard); Removable Media Write/Boot Control (standard); Power-On Password (standard); Setup Password (standard); Kensington Cable Lock (optional)"
+32,HP workstations,0,HP Z620 Workstation,Security management,Cable Lock Support (standard - cable optional); Removable Media Write/Boot Control (standard); Power-On Password (standard); Setup Password (standard); Kensington Cable Lock (optional); HP Solenoid Hood Lock and Sensor (optional); HP Solenoid Lock (optional)
+32,HP workstations,0,HP Z420 Workstation,Security management,"Padlock Support (standard - padlock optional); Cable Lock Support (standard - cable optional); Universal Chassis Clamp Lock (optional); Serial, Parallel, USB, Audio, Network Enable/Disable (standard); Removable Media Write/Boot Control (standard); Power-On Password (standard); Setup Password(standard); Solenoid Lock and Hood Sensor (optional)"
+32,HP workstations,0,HP Z230 Tower Workstation,Security management,N/A
+32,HP workstations,0,HP Z820 Workstation,Chipset,Intel® C602
+32,HP workstations,0,HP Z620 Workstation,Chipset,Intel® C602
+32,HP workstations,0,HP Z420 Workstation,Chipset,Intel® C602
+32,HP workstations,0,HP Z230 Tower Workstation,Chipset,Intel® C226
+32,HP workstations,0,HP Z820 Workstation,Expansion slots,3 PCIe Gen3 x16; 1 PCIe Gen3
+32,HP workstations,0,HP Z620 Workstation,Expansion slots,2 PCIe Gen3 x16; 1 PCIe Gen3 x8; 1 PCIe Gen2 x8; 1 PCIe Gen2 x4; 1 PCI
+32,HP workstations,0,HP Z420 Workstation,Expansion slots,2 PCIe Gen3 x16; 1 PCIe Gen3 x8; 1 PCIe Gen2 x8 (x4); 1 PCIe Gen2 x4 (x1); 1 PCI
+32,HP workstations,0,HP Z230 Tower Workstation,Expansion slots,"1 PCIe Gen3 x16, 1 PCIe Gen2 x4 slot/x16 connector, 1 PCIe Gen2 x1 slot/x4 connector, 1 PCIe Gen2 x1 slot, 1 PCI 32-bit"
+32,HP workstations,0,HP Z820 Workstation,Expansion slots note,"The PCIe x8 connectors are open ended, allowing a PCIe x16 card to be seated in the slot."
+32,HP workstations,0,HP Z620 Workstation,Expansion slots note,N/A
+32,HP workstations,0,HP Z420 Workstation,Expansion slots note,"The PCIe x8 connectors are open ended, allowing a PCIe x16 card to be seated in the slot."
+32,HP workstations,0,HP Z230 Tower Workstation,Expansion slots note,N/A
+32,HP workstations,0,HP Z820 Workstation,Ports,4 USB 3.0; 5 USB 2.0; 2 IEEE 1394a; 2 microphone; 1 audio line out; 1 headphone; 1 audio line in; 1 serial; 2 PS/2 (keyboard & mouse); 2 RJ-45 to integrated Gigabit LAN; 1 22-in-1 media card reader
+32,HP workstations,0,HP Z620 Workstation,Ports,6 internal USB 2.0 available by 3 separate 2x5 headers
+32,HP workstations,0,HP Z420 Workstation,Ports,6 internal USB 2.0 available by 3 separate 2x5 headers; 1 serial available via optional Serial Port Adapter
+32,HP workstations,0,HP Z230 Tower Workstation,Ports,"Front: 2 USB 3.0; 1 USB 2.0; 1 USB 2.0 Charging Data Port; 1 microphone in; 1 headphone out; Rear: 2 USB 3.0; 4 USB 2.0; 1 DVI-I single link and 2 DisplayPort 1.2 (for use with Intel HD Graphics); 1 audio in; 1 audio out; 1 microphone; 1 serial (optional); 2 PS/2; RJ-45 (LoM), optional 2 IEEE 1394b ports; Internal: 1 USB 3.0, 3 USB 2.0"
+32,HP workstations,0,HP Z820 Workstation,Memory upgrade,Upgradeable to 512 GB
+32,HP workstations,0,HP Z620 Workstation,Memory upgrade,Upgradeable to 192 GB
+32,HP workstations,0,HP Z420 Workstation,Memory upgrade,Upgradeable to 64 GB
+32,HP workstations,0,HP Z230 Tower Workstation,Memory upgrade,"Up to 32 GB ECC/non-ECC, DDR3 1600 MHz (ECC/non-ECC choice and actual memory speed dependent on processor capability)"
+32,HP workstations,0,HP Z820 Workstation,Memory slots,16 DIMM
+32,HP workstations,0,HP Z620 Workstation,Memory slots,"Up to 12 DIMMs (8 DIMMs on system board, 4 DIMMs on 2nd CPU & Memory Module)"
+32,HP workstations,0,HP Z420 Workstation,Memory slots,8 DIMM
+32,HP workstations,0,HP Z230 Tower Workstation,Memory slots,4 DIMM
+32,HP workstations,0,HP Z820 Workstation,Power,"850W 88% efficient, wide ranging, active PFC; 1125W 90% efficient, wide ranging, active PFC"
+32,HP workstations,0,HP Z620 Workstation,Power,"800W 90% efficient wide ranging, active PFC"
+32,HP workstations,0,HP Z420 Workstation,Power,"600W 90% efficient, wide ranging, active PFC"
+32,HP workstations,0,HP Z230 Tower Workstation,Power,400-watt 92% efficient power supply
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Operating system,Windows 8 Pro or other operating systems
+33,HP workstations,0,HP Z1 Workstation,Operating system,Windows 8 Pro or other operating systems
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,External drive bays,"1 external 8.89 cm bay, 1 external Half-Height 13.34 cm bay"
+33,HP workstations,0,HP Z1 Workstation,External drive bays,N/A
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Internal drive bays,"1 internal 8.89 cm bay, 1 internal 6.35 cm bay"
+33,HP workstations,0,HP Z1 Workstation,Internal drive bays,One 8.89 cm OR Two 6.35 cm
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Storage controller,"Integrated SATA Controller, RAID 0,1 supported: 5 ports, 6 Gb/s"
+33,HP workstations,0,HP Z1 Workstation,Storage controller,"Integrated SATA interfaces with RAID 0, 1 support (2x 6.0 Gb/s and 1x 3.0 Gb/s)"
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Form factor,Small Form Factor
+33,HP workstations,0,HP Z1 Workstation,Form factor,All-in-One
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Security management,N/A
+33,HP workstations,0,HP Z1 Workstation,Security management,Optional security cable with Kensington Lock; HP Chassis Intrusion Sensor
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Chipset,Intel® C226
+33,HP workstations,0,HP Z1 Workstation,Chipset,Intel® C206
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Expansion slots,"1 PCIe Gen3 x16, 1 PCIe Gen2 x4 slot/ x16 connector, 1 PCIe Gen2 x1 slot/x4 connector, 1 PCIe Gen2 x1 slot. All slots are Low Profile."
+33,HP workstations,0,HP Z1 Workstation,Expansion slots,1 MXM; 3 mini PCIe (full-length)
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Expansion slots note,N/A
+33,HP workstations,0,HP Z1 Workstation,Expansion slots note,MXM dedicated for graphics
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Ports,"Front: 2 USB 3.0; 2 USB 2.0; 1 microphone in; 1 headphone out; Rear: 2 USB 3.0; 4 USB 2.0; 3 DisplayPort 1.2 (for use with Intel HD Graphics); 1 audio in; 1 audio out; 1 standard/1 serial (optional); 2 PS/2; RJ-45 (LoM), optional 2 IEEE 1394b ports (PCIe card); Internal: 1 USB 3.0, 3 USB 2.0"
+33,HP workstations,0,HP Z1 Workstation,Ports,2 USB 3.0; 7 USB 2.0; 1 4-in-1 media card reader; 1 headphone; 1 microphone; 1 IEEE 1394a; 1 DisplayPort; 1 RJ-45; 1 optical S/PDIF; 1 subwoofer out; 1 audio line in; 1 audio line out
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Memory upgrade,"Up to 32 GB ECC/non-ECC, DDR3 1600 MHz (ECC/non-ECC choice and actual memory speed dependent on processor capability)"
+33,HP workstations,0,HP Z1 Workstation,Memory upgrade,Upgradeable to 32 GB
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Memory slots,4 DIMM
+33,HP workstations,0,HP Z1 Workstation,Memory slots,4 DIMM
+33,HP workstations,0,HP Z230 Small Form Factor Workstation,Power,240-watt 92% efficient power supply
+33,HP workstations,0,HP Z1 Workstation,Power,400W 90% efficient power supply - wide ranging active PFC
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Brightness,250 cd/m²
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Brightness,250 cd/m²
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Brightness,250 cd/m²
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Brightness,250 cd/m²
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Contrast ratio,1000:1 static; 5000000:1 dynamic
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Contrast ratio,1000:1 static; 3000000:1 dynamic
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Contrast ratio,1000:1 static; 3000000:1 dynamic
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Contrast ratio,1000:1 static; 5000000:1 dynamic
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Pixel pitch,0.277 mm
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Pixel pitch,0.2768 mm
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Pixel pitch,0.248 mm
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Pixel pitch,0.276 mm
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Response time,12 ms on/off
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Response time,5 ms on/off
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Response time,5 ms on/off
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Response time,5 ms (on/off)
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Displays size (diagonal),70 cm
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Displays size (diagonal),50.8 cm
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Displays size (diagonal),54.6 cm
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Displays size (diagonal),50.8 cm
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,View angle,178° horizontal; 178° vertical
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,View angle,170° horizontal; 160° vertical
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,View angle,170° horizontal; 160° vertical
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,View angle,170° horizontal; 160° vertical
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Display features,Anti-glare; User Programmable; Language selection; Plug and Play
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Display features,Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Display features,Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Display features,Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Resolution,1920 x 1080
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Resolution,1600 x 900
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Resolution,1920 x 1080
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Resolution,1600 x 900
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Aspect ratio,Widescreen (16:9)
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Aspect ratio,Widescreen (16:9)
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Aspect ratio,Widescreen (16:9)
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Aspect ratio,Widescreen (16:9)
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Tilt and swivel angle,Tilt: +10 to +35°
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Tilt and swivel angle,Tilt: -5 to +25°
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Tilt and swivel angle,Tilt: -5 to +25°
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Tilt and swivel angle,Tilt: -5 to +30°; Swivel: 360°
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Ports,N/A
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Ports,N/A
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Ports,N/A
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Ports,"3 USB 2.0 (one upstream, two downstream)"
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Physical security,N/A
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Physical security,Security Lock-Ready
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Physical security,Security Lock-Ready
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Physical security,Security lock ready
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Power consumption,N/A
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Power consumption,"22 W (maximum), 20 W (typical), < 0.5 W (standby)"
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Power consumption,"28 W (maximum), 22 W (typical), < 0.5 W (standby)"
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Power consumption,"30 W (maximum), 22 W (typical), 0.5 W (standby)"
+38,HP displays,0,HP x2401 24” LED Backlit Monitor,Power,"External Power Source and power adapter; Power consumption: 24W maximum, 23W typical; Standby mode: <0.5W"
+38,HP displays,0,HP ProDisplay P201 20” LED Backlit Monitor,Power,Input voltage: 100 to 240 VAC
+38,HP displays,0,HP ProDisplay P221 21.5” LED Backlit Monitor,Power,Input voltage: 100 to 240 VAC
+38,HP displays,0,HP EliteDisplay E201 20” LED Backlit Monitor,Power,Input voltage: 90 to 265 VAC
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Brightness,250 cd/m²
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Brightness,250 cd/m²
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Brightness,250 cd/m²
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Brightness,250 cd/m²
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Contrast ratio,1000:1 static; 5000000:1 dynamic
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Contrast ratio,1000:1 static; 5000000:1 dynamic
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Contrast ratio,1000:1 static; 5000000:1 dynamic
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Contrast ratio,1000:1 static; 5000000:1 dynamic
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Pixel pitch,0.248 mm
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Pixel pitch,0.265 mm
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Pixel pitch,0.311 mm
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Pixel pitch,0.248 mm
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Response time,7 ms gray to gray
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Response time,5 ms (on/off)
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Response time,7 ms gray to gray
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Response time,8 ms gray to gray
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Displays size (diagonal),54.6 cm
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Displays size (diagonal),48.2 cm
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Displays size (diagonal),68.6 cm
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Displays size (diagonal),54.6 cm (21.5”)
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,View angle,178° horizontal; 178° vertical
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,View angle,170° horizontal; 160° vertical
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,View angle,178° horizontal; 178° vertical
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,View angle,178° horizontal; 178° vertical
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Display features,Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Display features,Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Display features,Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Display features,Plug and Play; Anti glare; User programmable; Language selection; On-screen controls
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Resolution,1920 x 1080
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Resolution,1920 x 1080
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Resolution,1920 x 1080
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Resolution,1920 x 1080
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Aspect ratio,Widescreen (16:9)
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Aspect ratio,Widescreen (16:9)
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Aspect ratio,Widescreen (16:9)
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Aspect ratio,Widescreen (16:9)
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Tilt and swivel angle,Tilt: -5 to +30°; Swivel: 360°
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Tilt and swivel angle,Tilt: -5 to +30°; Swivel: 360°
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Tilt and swivel angle,Tilt: -5 to +30°; Swivel: 360°
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Tilt and swivel angle,Tilt: -5 to +30°; Swivel: 360°
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Ports,"3 USB 2.0 (one upstream, two downstream)"
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Ports,"3 USB 2.0 (one upstream, two downstream)"
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Ports,"3 USB 2.0 (one upstream, two downstream)"
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Ports,"3 USB 2.0 (one upstream, two downstream)"
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Physical security,Security lock ready
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Physical security,Security lock ready
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Physical security,Security lock ready
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Physical security,Security Lock-Ready
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Power consumption,"42 W (maximum), 27 W (typical), 0.4 W (standby)"
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Power consumption,"36 W (maximum), 33 W (typical), 0.5 W (standby)"
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Power consumption,"40 W (maximum), 35 W (typical), 0.5 W (standby)"
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Power consumption,"31W (maximum), 26W (typical), 0.5W (standby)"
+39,HP displays,0,HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor,Power,Input voltage: 90 to 265 VAC
+39,HP displays,0,HP EliteDisplay E231 23” LED Backlit Monitor,Power,Input voltage: 90 to 265 VAC
+39,HP displays,0,HP EliteDisplay E271i 27” IPS LED Backlit Monitor,Power,Input voltage: 100 to 240 VAC
+39,HP displays,0,HP Z Display Z22i 21.5” IPS LED Backlit Monitor,Power,Input voltage: 90 to 265 VAC
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Brightness,300 cd/m²
+40,HP displays,0,HP Z Display Z27i,Brightness,350 cd/m²
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Contrast ratio,1000:1 static; 5000000:1 dynamic
+40,HP displays,0,HP Z Display Z27i,Contrast ratio,1 000:1 static 5 000 000:1 dynamic
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Pixel pitch,0.27 mm
+40,HP displays,0,HP Z Display Z27i,Pixel pitch,"0,233 mm"
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Response time,8 ms gray to gray
+40,HP displays,0,HP Z Display Z27i,Response time,8 ms gray to gray
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Displays size (diagonal),61 cm
+40,HP displays,0,HP Z Display Z27i,Displays size (diagonal),"68,6 cm (27”)"
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,View angle,178° horizontal; 178° vertical
+40,HP displays,0,HP Z Display Z27i,View angle,178° horizontal; 178° vertical
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Display features,Plug and Play; Anti glare; User programmable; Language selection; On-screen controls
+40,HP displays,0,HP Z Display Z27i,Display features,Plug-and-Play; Anti-glare; User programmable; Language selection; On-screen controls
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Resolution,1920 x 1200
+40,HP displays,0,HP Z Display Z27i,Resolution,2560 x 1440
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Aspect ratio,Widescreen (16:10)
+40,HP displays,0,HP Z Display Z27i,Aspect ratio,Widescreen (16:9)
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Tilt and swivel angle,Tilt: -5 to +30°; Swivel: ±45
+40,HP displays,0,HP Z Display Z27i,Tilt and swivel angle,Tilt: -5 to +20°; Swivel: ±45°
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Ports,"5 USB 2.0 (one upstream, four downstream)"
+40,HP displays,0,HP Z Display Z27i,Ports,"1 VGA; 1 DisplayPort (with HDCP support); 1 DVI-D (with HDCP support); 1 HDMI (with HDCP support), 5 USB 3.0 (one upstream, four downstream)"
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Physical security,Security Lock-Ready
+40,HP displays,0,HP Z Display Z27i,Physical security,Kensington Lock-ready
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Power consumption,"55 W (maximum), 36 W (typical), 0.5 W (standby)"
+40,HP displays,0,HP Z Display Z27i,Power consumption,"75 W (maximum), 60 W (typical), > 0.5 W (standby)"
+40,HP displays,0,HP Z Display Z24i 24” IPS LED Backlit Monitor,Power,Input voltage: 90 to 265 VAC
+40,HP displays,0,HP Z Display Z27i,Power,Input voltage: 100 to 240 VAC
+45,HP thin clients,0,HP t310 Zero Client,Display,N/A
+45,HP thin clients,0,HP t410 Smart Zero Client,Display,N/A
+45,HP thin clients,0,HP t510 Flexible Thin Client,Display,N/A
+45,HP thin clients,0,HP t620 Flexible Thin Client,Display,N/A
+45,HP thin clients,0,HP t310 Zero Client,Expansion slots,N/A
+45,HP thin clients,0,HP t410 Smart Zero Client,Expansion slots,1 ExpressCard/54; 1 Secure Digital
+45,HP thin clients,0,HP t510 Flexible Thin Client,Expansion slots,N/A
+45,HP thin clients,0,HP t620 Flexible Thin Client,Expansion slots,N/A
+45,HP thin clients,0,HP t310 Zero Client,Ports,4 USB 2.0; 1 RJ-45; 1 microphone; 1 headphone; 1 speaker; 1 power connector; 1 DVI-D; 1 DVI-I
+45,HP thin clients,0,HP t410 Smart Zero Client,Ports,4 USB 2.0; 1 RJ-45; 1 microphone; 1 headphone; 1 power connector
+45,HP thin clients,0,HP t510 Flexible Thin Client,Ports,6 USB 2.0; 1 serial; 1 parallel; 2 PS/2; 1 RJ-45; 1 DVI-I; 1 DVI-D; 1 DVI-I (DVI-to-VGA adapter included)
+45,HP thin clients,0,HP t620 Flexible Thin Client,Ports,"Front: 2 USB 2.0, 2 USB 3.0, 1 Headphone, 1 Microphone; Rear: 2 USB 2.0, 2 DisplayPort 1.2, 1 RJ45, 1 Audio Line-in, 1 Audio Line-Out, 1PS/2 KB, 1 PS/2 Mouse, 1 Configurable Port= 1 Serial (Default) or Fiber NIC or VGA; Hidden: 2 USB 2.0"
+45,HP thin clients,0,HP t310 Zero Client,Ports note,Two of 4 USB 2.0 ports used for keyboard and mouse
+45,HP thin clients,0,HP t410 Smart Zero Client,Ports note,Two of 4 USB 2.0 ports used for keyboard and mouse
+45,HP thin clients,0,HP t510 Flexible Thin Client,Ports note,2 of the 6 USB 2.0 located in secure compartment
+45,HP thin clients,0,HP t620 Flexible Thin Client,Ports note,N/A
+45,HP thin clients,0,HP t310 Zero Client,Browser supported,N/A
+45,HP thin clients,0,HP t410 Smart Zero Client,Browser supported,Firefox 8 via web add-on
+45,HP thin clients,0,HP t510 Flexible Thin Client,Browser supported,Microsoft Internet Explorer 9 (for models with Windows Embedded Standard 7); Microsoft Internet Explorer 8 (for models with Windows Embedded Standard 2009); Microsoft Internet Explorer 6 (for models with Windows Embedded CE 6.0); Firefox (for models with HP ThinPro and HP Smart Zero Technology)
+45,HP thin clients,0,HP t620 Flexible Thin Client,Browser supported,"Mozilla Firefox, Internet Explorer"
+45,HP thin clients,0,HP t310 Zero Client,Power,"Worldwide auto-sensing 36W, 100-240 VAC, 50-60 Hz"
+45,HP thin clients,0,HP t410 Smart Zero Client,Power,"24W worldwide auto-sensing, 100-240 VAC, 50-60 Hz"
+45,HP thin clients,0,HP t510 Flexible Thin Client,Power,"65 W, worldwide auto-sensing, 100-240 VAC, 50-60 Hz energy saving automatic power-down, surge tolerant"
+45,HP thin clients,0,HP t620 Flexible Thin Client,Power,65W worldwide auto-sensing 100-240 VAC 50-60Hz surge-tolerant power supply
+45,HP thin clients,0,HP t310 Zero Client,Processor speed,N/A
+45,HP thin clients,0,HP t410 Smart Zero Client,Processor speed,1 GHz
+45,HP thin clients,0,HP t510 Flexible Thin Client,Processor speed,N/A
+45,HP thin clients,0,HP t620 Flexible Thin Client,Processor speed,AMD GX-217GA Dual-Core APU with AMD Radeon HD 8280E graphics (1.65 GHz); AMD GX-415GA Quad-Core APU with AMD Radeon HD 8330E (1.5 GHz)
+45,HP thin clients,0,HP t310 Zero Client,Protocols,N/A
+45,HP thin clients,0,HP t410 Smart Zero Client,Protocols,Citrix ICA; Citrix HDX; Microsoft RDP; Microsoft RemoteFX (RFX); VMware Horizon View through RDP; VMware Horizon View through PCoIP
+45,HP thin clients,0,HP t510 Flexible Thin Client,Protocols,Citrix ICA; Citrix HDX; Microsoft RDP; Microsoft RemoteFX (RFX); VMware Horizon View through RDP; VMware Horizon View through PCoIP
+45,HP thin clients,0,HP t620 Flexible Thin Client,Protocols,"Citrix Receiver, Microsoft Remote Desktop Client, VMware Horizon View Client, Remote Graphics Software (RGS), HP TeemTalk Terminal Emulator, Free RDP"
+45,HP thin clients,0,HP t310 Zero Client,Protocols note,N/A
+45,HP thin clients,0,HP t410 Smart Zero Client,Protocols note,Protocols are dependent on operating system installed
+45,HP thin clients,0,HP t510 Flexible Thin Client,Protocols note,Protocols are dependent on operating system installed
+45,HP thin clients,0,HP t620 Flexible Thin Client,Protocols note,Protocols are dependent on operating system installed
+46,HP thin clients and thin clients services,0,HP t620 PLUS Flexible Thin Client,Display,N/A
+46,HP thin clients and thin clients services,0,HP mt40 Mobile Thin Client,Display,35.6 cm (14”)
+46,HP thin clients and thin clients services,0,HP t620 PLUS Flexible Thin Client,Expansion slots,1 half-height PCIe x16 (x4 channels)
+46,HP thin clients and thin clients services,0,HP mt40 Mobile Thin Client,Expansion slots,1 ExpressCard/54; 1 Secure Digital
+46,HP thin clients and thin clients services,0,HP t620 PLUS Flexible Thin Client,Ports,"Front: 2 USB 2.0, 2 USB 3.0, 1 Headphone, 1 Microphone; Rear: 2 USB 2.0, 2 DisplayPort 1.2, 1 RJ45, 1 Audio Line-in, 1 Audio Line-Out, 1PS/2 KB, 1 PS/2 Mouse, 1 Configurable Port= 1 Serial (Default) or Fiber NIC or VGA; 1 Riser Card/ Expansion Slot (PCIe 2nd Gen, x16 slot with x4 channels), 1 additional serial, 1 additional Parallel; Hidden: 2 USB 2.0"
+46,HP thin clients and thin clients services,0,HP mt40 Mobile Thin Client,Ports,1 USB 2.0; 1 eSATA/USB 2.0 combo; 1 AC power; 1 DisplayPort 1.1a; 1 docking connector; 1 RJ-45; 1 secondary battery connector; 1 stereo headphone/line-out; 1 stereo microphone in; 1 VGA; 2 USB 3.0
+46,HP thin clients and thin clients services,0,HP t620 PLUS Flexible Thin Client,Ports note,3 DVI-I available with quad-head graphics configurations only
+46,HP thin clients and thin clients services,0,HP mt40 Mobile Thin Client,Ports note,N/A
+46,HP thin clients and thin clients services,0,HP t620 PLUS Flexible Thin Client,Browser supported,"Mozilla Firefox, Internet Explorer"
+46,HP thin clients and thin clients services,0,HP mt40 Mobile Thin Client,Browser supported,N/A
+46,HP thin clients and thin clients services,0,HP t620 PLUS Flexible Thin Client,Power,85W worldwide auto-sensing 100-240 VAC 50-60Hz surge-tolerant power supply
+46,HP thin clients and thin clients services,0,HP mt40 Mobile Thin Client,Power,External 65W HP Smart AC Adapter; HP Fast Charge (not apply to the HP Ultra Extended Life or 9-cell batteries)
+46,HP thin clients and thin clients services,0,HP t620 PLUS Flexible Thin Client,Processor speed,AMD GX-420CA Quad- Core APU with AMD Radeon HD 8400E graphics (2 GHz)
+46,HP thin clients and thin clients services,0,HP mt40 Mobile Thin Client,Processor speed,N/A
+46,HP thin clients and thin clients services,0,HP t620 PLUS Flexible Thin Client,Protocols,"Citrix Receiver, Microsoft Remote Desktop Client, VMware Horizon View Client, Remote Graphics Software (RGS), HP TeemTalk Terminal Emulator, Free RDP"
+46,HP thin clients and thin clients services,0,HP mt40 Mobile Thin Client,Protocols,N/A
+46,HP thin clients and thin clients services,0,HP t620 PLUS Flexible Thin Client,Protocols note,Protocols are dependent on operating system installed
+46,HP thin clients and thin clients services,0,HP mt40 Mobile Thin Client,Protocols note,N/A
+49,HP retail solutions,0,HP RP3 Retail System Model 3100,Expansion slots,N/A
+49,HP retail solutions,0,HP RP5800 Retail System,Expansion slots,1 low-profile PCIe x1; 2 full-height PCIe x1; 1 low-profile PCIe x16
+49,HP retail solutions,0,HP RP7 Retail System Model 7800,Expansion slots,N/A
+49,HP retail solutions,0,HP RP3 Retail System Model 3100,Memory slots,1 SODIMM
+49,HP retail solutions,0,HP RP5800 Retail System,Memory slots,4 DIMM
+49,HP retail solutions,0,HP RP7 Retail System Model 7800,Memory slots,2 SODIMM
+49,HP retail solutions,0,HP RP3 Retail System Model 3100,Memory upgrade,Upgradeable to 8 GB
+49,HP retail solutions,0,HP RP5800 Retail System,Memory upgrade,Upgradeable to 16 GB
+49,HP retail solutions,0,HP RP7 Retail System Model 7800,Memory upgrade,Upgradeable to 16 GB
+49,HP retail solutions,0,HP RP3 Retail System Model 3100,Ports,5 USB 2.0; 1 24V powered USB; 2 RS-232 (powered); 1 parallel; 1 12V powered USB; 2 PS/2 (keyboard and mouse); 1 RJ-12 (cash drawer); 1 VGA; 1 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45
+49,HP retail solutions,0,HP RP5800 Retail System,Ports,7 USB 2.0; 1 24V powered USB; 2 serial; 1 PS/2 keyboard; 1 PS/2 mouse; 1 VGA; 1 DisplayPort; 1 DVI out; 1 audio in; 1 audio out; 1 RJ-45; 1 RJ-12 (cash drawer)
+49,HP retail solutions,0,HP RP7 Retail System Model 7800,Ports,6 USB 2.0; 2 USB+PWR 12V; 1 USB+PWR 24V; 1 USB in lockable compartment; 1 RJ-12 (cash drawer); 2 RS-232 (powered); 1 parallel; 1 PS/2; 1 DVI-I; 1 RJ-45; 1 audio in; 1 audio out; 1 DC in; 1 DC out; 4 USB connectors (for select HP integrated peripherals)
+49,HP retail solutions,0,HP RP3 Retail System Model 3100,Power,"115 W 85% efficient, active PFC"
+49,HP retail solutions,0,HP RP5800 Retail System,Power,240W 90% efficient - Active PFC
+49,HP retail solutions,0,HP RP7 Retail System Model 7800,Power,"External 180W, 87% efficient, active PFC"
+49,HP retail solutions,0,HP RP3 Retail System Model 3100,Chipset,Intel® HM65 Express
+49,HP retail solutions,0,HP RP5800 Retail System,Chipset,Intel® Q67 Express
+49,HP retail solutions,0,HP RP7 Retail System Model 7800,Chipset,Intel® Q67 Express
+49,HP retail solutions,0,HP RP3 Retail System Model 3100,Internal drive bays,Two 6.4 cm (2.5”)
+49,HP retail solutions,0,HP RP5800 Retail System,Internal drive bays,Two 8.9 cm (3.5”)
+49,HP retail solutions,0,HP RP7 Retail System Model 7800,Internal drive bays,Two 6.4 cm (2.5”)
+49,HP retail solutions,0,HP RP3 Retail System Model 3100,External drive bays,N/A
+49,HP retail solutions,0,HP RP5800 Retail System,External drive bays,One 13.3 cm (5.25”)
+49,HP retail solutions,0,HP RP7 Retail System Model 7800,External drive bays,N/A
+49,HP retail solutions,0,HP RP3 Retail System Model 3100,Form factor,N/A
+49,HP retail solutions,0,HP RP5800 Retail System,Form factor,Point of Sale
+49,HP retail solutions,0,HP RP7 Retail System Model 7800,Form factor,All-in-one
+49,HP retail solutions,0,HP RP3 Retail System Model 3100,Management features,N/A
+49,HP retail solutions,0,HP RP5800 Retail System,Management features,Intel® vPro™ Technology; Intel® Standard Manageability; HP Client Catalog for Microsoft SMS; HP SoftPaq Download Manager; HP Systems Software Manager
+49,HP retail solutions,0,HP RP7 Retail System Model 7800,Management features,N/A
+49,HP retail solutions,0,HP RP3 Retail System Model 3100,Security management,Security cable with Kensington lock (sold separately)
+49,HP retail solutions,0,HP RP5800 Retail System,Security management,"TPM 1.2 Embedded Security Chip integrated with Broadcom NIC (TPM module disabled where use is restricted by law); HP ProtectTools Security Software Suite with BIOS Configuration (serial, parallel, USB enable/disable), Credential Manager, Smart Card Manager (sold separately); USB + PWR 12V Cards (sold separately); Power Configurable Serial Port Card COM 3 & 4 (sold separately); Wall Mount (sold separately); HP Desktop Security Lock Kit (lock and cable) (sold separately); Security cable with Kensington lock (sold separately); HP Rear Port/Cable Control Cover (sold separately)"
+49,HP retail solutions,0,HP RP7 Retail System Model 7800,Security management,Kensington lock and padlock loop
