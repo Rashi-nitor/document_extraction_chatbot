@@ -1,0 +1,4426 @@
+[
+ {
+  "page": 10,
+  "section": "HP notebooks",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   144.8,
+   560.3,
+   485.6
+  ],
+  "header": [
+   "Specifications",
+   "HP 250 G3",
+   "HP 255 G3",
+   "HP 350 G1",
+   "HP 355 G2"
+  ],
+  "groups": [
+   {
+    "label": "Operating system",
+    "rows": [
+     [
+      "Operating system",
+      "Windows 8.1 64; Windows 7 Professional 64 (available through downgrade rights from Windows 8 Pro 64); Ubuntu; FreeDOS 2.0",
+      "Windows 8.1; Windows 8.1 Pro; Windows 7 Professional 64 (available through downgrade rights from Windows 8.1 Pro 64); Ubuntu Linux; FreeDOS 2.0",
+      "Windows 7 Professional 64 (available through downgrade rights from Windows 8.1 Pro)",
+      "Windows 8.1; Windows 8.1 Pro; Windows 7 Professional 64 (available through downgrade rights from Windows 8.1 Pro 64); Ubuntu Linux; FreeDOS 2.0"
+     ]
+    ]
+   },
+   {
+    "label": "Weight",
+    "rows": [
+     [
+      "Weight",
+      "Starting at < 2.2 kg (Non-Touch); Starting at < 2.4 kg (Touch)",
+      "Starting at 2.2 kg",
+      "Starting at 2.3 kg",
+      "Starting at 2.3 kg"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "65W Smart AC adapter (discrete); 65W EM Smart AC adapter (for China and India); 45W Smart AC adapter (UMA); HP 3-cell (31 WHr) polymer battery; HP 4-cell (41 WHr) polymer battery",
+      "65W Smart AC adapter (discrete); 65W EM Smart AC adapter (for China and India); 45W Smart AC adapter (UMA); HP 3-cell (31 WHr) polymer battery; HP 4-cell (41 WHr) polymer battery",
+      "65W Smart AC adapter",
+      "65W HP AC adapter 3-wire plug 1.0m (with ground pin); 45W AC adapter (UMA only); HP 4-cell (41 WHr) Li-Ion battery"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "Intel® chipset integrated with processor",
+      "AMD Kerala (Kabini SoC APU, BGA)",
+      "Chipset is integrated with processor",
+      "AMD Chipset is integrated with APU"
+     ]
+    ]
+   },
+   {
+    "label": "Display size (diagonal)",
+    "rows": [
+     [
+      "Display size (diagonal)",
+      "39.6 cm (15.6”)",
+      "39.6 cm (15.6”)",
+      "39.6 cm (15.6”)",
+      "39.6 cm (15.6”)"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "Supports SD/SDHC/SDXC; Supports mini versions with adapter",
+      "Supports SD/SDHC/SDXC; Supports mini versions with adapter",
+      "1 multi-format digital media reader",
+      "HP Multi-Format Digital Media Reader—supports SD/SDHC/SDXC; Supports mini versions with adapter"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "1 USB 3.0; 2 USB 2.0; 1 HDMI4; 1 VGA; 1 stereo microphone-in combo jack; 1 AC power; 1 RJ-45 (Ethernet)",
+      "1 USB 3.0; 2 USB 2.0; 1 HDMI3; 1 VGA; 1 stereo headphone/ microphonein combo jack; 1 AC power; 1 RJ-45 (Ethernet)",
+      "2 USB 3.0; 1 USB 2.0; 1 VGA; 1 HDMI; 1 headphone/microphone combo; 1 RJ-45; 1 AC power",
+      "2 USB 3.0; 1 USB 2.0; 1 HDMI3; 1 VGA; 1 AC power; 1 RJ-45 (Ethernet); 1 headphone/ microphone in combo jack"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "Security Lock slot (lock must be purchased separately)",
+      "Security Lock slot (lock must be purchased separately)",
+      "Security Lock slot (lock must be purchased separately); Fingerprint Reader",
+      "Security Lock slot (lock must be purchased separately); Fingerprint Reader (select models only)"
+     ]
+    ]
+   },
+   {
+    "label": "Management features",
+    "rows": [
+     [
+      "Management features",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Memory upgrade",
+    "rows": [
+     [
+      "Memory upgrade",
+      "Standard memory up to 8,192MB",
+      "Standard memory up to 8,192MB",
+      "N/A",
+      "Upgradeable to 16,384 MB"
+     ]
+    ]
+   },
+   {
+    "label": "Memory slots",
+    "rows": [
+     [
+      "Memory slots",
+      "1 SODIMM",
+      "1 SODIMM",
+      "2 SODIMM",
+      "2 SODIMM"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 11,
+  "section": "HP notebooks",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   560.2,
+   522.3
+  ],
+  "header": [
+   "Specifications",
+   "HP ProBook 430 G2",
+   "HP ProBook 450 G2",
+   "HP ProBook 455 G2",
+   "HP ProBook 470 G2"
+  ],
+  "groups": [
+   {
+    "label": "Operating system",
+    "rows": [
+     [
+      "Operating system",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available"
+     ]
+    ]
+   },
+   {
+    "label": "Weight",
+    "rows": [
+     [
+      "Weight",
+      "Starting at 1.5 kg",
+      "Starting at 2.26 kg",
+      "Starting at 2.29 kg",
+      "Starting at 2.87 kg"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "65W EM Smart AC Adapter; 45W Smart AC Adapter",
+      "65W Smart AC adapter; 65W EM Smart AC adapter; 90W Smart AC adapter; 90W EM Smart AC adapter; HP Fast Charge (6-cell only)",
+      "90W Smart AC adapter; 65W Smart AC Adapter; HP Fast Charge (6-cell only)",
+      "9-cell (93 WHr) Lithium-Ion battery; 6-cell (47 WHr) Lithium-Ion battery; Fast Charge 90W Smart AC Adapter"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "N/A",
+      "Mobile Intel® HM87",
+      "AMD A76M FCH",
+      "Mobile Intel® HM87 Express"
+     ]
+    ]
+   },
+   {
+    "label": "Display size (diagonal)",
+    "rows": [
+     [
+      "Display size (diagonal)",
+      "33.8 cm (13,3”)",
+      "39.6 cm (15.6”)",
+      "39.6 cm (15.6”)",
+      "43.9 cm (17.3”)"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "1 Secure Digital",
+      "Multi Media Reader Slot supporting SD, SDHC, SDXC, Memory Stick, MSXC",
+      "Multi Media Reader Slot supporting SD, SDHC, SDXC, Memory Stick, MSXC",
+      "Multi Media Reader Slot supporting SD, SDHC, SDXC, Memory Stick, MSXC"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "2 USB 3.0; 2 USB 2.0; 1 HDMI; 1 stereo microphone in; 1 AC power; 1 RJ-45; 1 headphone/line-out; 1 VGA",
+      "2 USB 3.0; 2 USB 2.0; 1 HDMI; 1 stereo microphone in; 1 AC power; 1 RJ-45; 1 headphone/line-out; 1 VGA",
+      "2 USB 3.0; 2 USB 2.0; 1 HDMI; 1 stereo microphone in; 1 AC power; 1 RJ-45; 1 headphone/ line-out; 1 VGA",
+      "2 USB 3.0 ports, 2 USB 2.0 ports, 1 HDMI 1 VGA, 1 stereo microphone input, 1 headphone/ line out, 1 RJ-45 (Ethernet), 1 power connector"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "Standard: HP Client Security; Microsoft Defender; HP Drive Encryption; HP BIOS Protection; Security lock slot; Optional: Intel® Anti-Theft (requires a Computrace subscription); HP Fingerprint reader",
+      "HP Client Security Suite includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Win 71) & Microsoft Defender (Win 81), HP SpareKey (requires initial user setup), Absolute Data Protect, security lock slot",
+      "HP Client Security Suite includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Win 71) & Microsoft Defender (Win 81), HP SpareKey (requires initial user setup), Absolute Data Protect, security lock slot",
+      "HP Client Security Suite includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Win 7) & Microsoft Defender (Win 8), HP SpareKey (requires initial user setup), Absolute Data Protect, security lock slot"
+     ]
+    ]
+   },
+   {
+    "label": "Management features",
+    "rows": [
+     [
+      "Management features",
+      "HP 3D DriveGuard (Windows only)",
+      "HP 3D DriveGuard (Windows only)",
+      "HP 3D DriveGuard (Windows only)",
+      "HP 3D DriveGuard (Windows only)"
+     ]
+    ]
+   },
+   {
+    "label": "Memory upgrade",
+    "rows": [
+     [
+      "Memory upgrade",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 16 GB"
+     ]
+    ]
+   },
+   {
+    "label": "Memory slots",
+    "rows": [
+     [
+      "Memory slots",
+      "2 SODIMM",
+      "2 SODIMM",
+      "2 SODIMM",
+      "2/4/8 GB SODIMMs"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 12,
+  "section": "HP notebooks",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   560.3,
+   666.5
+  ],
+  "header": [
+   "Specifications",
+   "HP ProBook 640 G1",
+   "HP ProBook 645 G1",
+   "HP ProBook 650 G1",
+   "HP ProBook 655 G1"
+  ],
+  "groups": [
+   {
+    "label": "Operating system",
+    "rows": [
+     [
+      "Operating system",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available"
+     ]
+    ]
+   },
+   {
+    "label": "Weight",
+    "rows": [
+     [
+      "Weight",
+      "Starting at 2.0 kg",
+      "Starting at 2.0 kg",
+      "Starting at 2.32 kg",
+      "Starting at 2.32 kg"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "90W Smart AC Adapter (discrete); 65W Smart AC Adapter (integrated); HP Fast Charge (not supported on 9-cell primary or secondary batteries)",
+      "65W Smart AC Adapter; HP Fast Charge (not supported on 9-cell primary or secondary batteries)",
+      "90W Smart AC Adapter (discrete); 65W Smart AC Adapter (integrated); HP Fast Charge (not supported on 9-cell primary or secondary batteries)",
+      "90W Smart AC adapter (discrete); 65W Smart AC adapter (integrated); HP Fast Charge"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "Mobile Intel® QM77 Express; Mobile Intel® HM76 Express",
+      "AMD A70M FCH",
+      "Mobile Intel® QM77 Express; Mobile Intel® HM76 Express",
+      "AMD A70M FCH"
+     ]
+    ]
+   },
+   {
+    "label": "Display size (diagonal)",
+    "rows": [
+     [
+      "Display size (diagonal)",
+      "35.6 cm (14”)",
+      "35.6 cm (14”)",
+      "39.6 cm (15.6”)",
+      "39.6 cm (15.6”)"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "1 ExpressCard/54; 1 Secure Digital",
+      "1 ExpressCard/54; 1 Secure Digital",
+      "1 ExpressCard/54; 1 Secure Digital",
+      "1 ExpressCard/54; 1 Secure Digital"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "2 USB 3.0; 1 USB 2.0; 1 DisplayPort; 1 stereo microphone in; 1 stereo headphone/line-out; 1 1394a; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 VGA; 1 RJ-11 (optional)",
+      "2 USB 3.0; 1 USB 2.0; 1 DisplayPort; 1 stereo microphone in; 1 stereo headphone/line-out; 1 1394a; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 eSATA/USB 2.0 Combo; 1 VGA",
+      "2 USB 3.0; 2 USB 2.0; 1 DisplayPort; 1 stereo microphone in; 1 stereo headphone/line-out; 1 1394a; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 VGA; 1 serial; 1 RJ-11 (optional)",
+      "2 USB 3.0; 2 USB 2.0; 1 DisplayPort; 1 stereo microphone in; 1 stereo headphone/line-out; 1 1394a; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 VGA; 1 serial; 1 RJ-11 (optional)"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "Standard: HP Client Security Dashboard (Windows 81 only); HP ProtectTools; HP Spare Key (requires initial user setup); Central Management for HP ProtectTools; Credential Manager for HP ProtectTools; Drive Encryption; Enhanced Pre-Boot Security; Face Recognition; File Sanitizer for HP ProtectTools (Windows 71 only); Microsoft Defender (Windows 81 only, includes MS Security Essentials); Microsoft Security Essentials (part of Microsoft Defender for Windows 81); Security lock slot; TPM Embedded Security Chip 1.2; Optional: Computrace (sold separately and requires the purchase of subscription); Intel Anti-Theft Technology (requires Absolute Computrace subscription); HP Fingerprint Sensor; Smart Card Reader (replaces ExpressCard); HP Privacy Filter",
+      "Standard: HP Client Security Dashboard (Windows 81 only); HP ProtectTools; HP Spare Key (requires initial user setup); Central Management for HP ProtectTools; Credential Manager for HP ProtectTools; Drive Encryption; Enhanced Pre-Boot Security; Face Recognition; File Sanitizer for HP ProtectTools (Windows 71 only); Microsoft Defender (Windows 81 only, includes MS Security Essentials); Microsoft Security Essentials (Windows 71 only); Security lock slot; TPM Embedded Security Chip 1.2; Optional: Computrace (sold separately and requires the purchase of subscription); HP Fingerprint Sensor; Smart Card Reader (replaces ExpressCard); HP Privacy Filter",
+      "Standard: HP Client Security Dashboard (Windows 81 only); HP ProtectTools; HP Spare Key (requires initial user setup); Central Management for HP ProtectTools; Credential Manager for HP ProtectTools; Drive Encryption; Enhanced Pre-Boot Security; Face Recognition; File Sanitizer for HP ProtectTools (Windows 71 only); Microsoft Defender (Windows 81 only, includes MS Security Essentials); Microsoft Security Essentials (part of Microsoft Defender for Windows 81); Security lock slot; TPM Embedded Security Chip 1.2; Optional: Computrace (sold separately and requires the purchase of subscription); Intel Anti-Theft Technology (requires Absolute Computrace subscription); HP Fingerprint Sensor; Smart Card Reader (replaces ExpressCard); HP Privacy Filter",
+      "Standard: HP Client Security Dashboard (Windows 81 only); HP ProtectTools; HP Spare Key (requires initial user setup); Central Management for HP ProtectTools; Credential Manager for HP ProtectTools; Drive Encryption; Enhanced Pre-Boot Security; Face Recognition; File Sanitizer for HP ProtectTools (Windows 71 only); Microsoft Defender (Windows 81 only, includes MS Security Essentials); Microsoft Security Essentials (part of Microsoft Defender for Windows 81); Security lock slot; TPM Embedded Security Chip 1.2; Optional: Computrace (sold separately and requires the purchase of subscription); Intel Anti-Theft Technology (requires Absolute Computrace subscription); HP Fingerprint Sensor; Smart Card Reader (replaces ExpressCard); HP Privacy Filter"
+     ]
+    ]
+   },
+   {
+    "label": "Management features",
+    "rows": [
+     [
+      "Management features",
+      "HP 3D DriveGuard (Windows only)",
+      "HP 3D DriveGuard (Windows only)",
+      "HP 3D DriveGuard (Windows only)",
+      "HP 3D DriveGuard (Windows only)"
+     ]
+    ]
+   },
+   {
+    "label": "Memory upgrade",
+    "rows": [
+     [
+      "Memory upgrade",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 16 GB"
+     ]
+    ]
+   },
+   {
+    "label": "Memory slots",
+    "rows": [
+     [
+      "Memory slots",
+      "2 SODIMM",
+      "2 SODIMM",
+      "2 SODIMM",
+      "2 SODIMM"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 13,
+  "section": "HP notebooks",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   143.5,
+   554.9,
+   630.3
+  ],
+  "header": [
+   "Specifications",
+   "HP EliteBook 820 G1",
+   "HP EliteBook 840 G1",
+   "HP EliteBook 850 G1",
+   "HP EliteBook Folio 1040 G1"
+  ],
+  "groups": [
+   {
+    "label": "Operating system",
+    "rows": [
+     [
+      "Operating system",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available"
+     ]
+    ]
+   },
+   {
+    "label": "Weight",
+    "rows": [
+     [
+      "Weight",
+      "Starting at 1.33 kg",
+      "Starting at 1.58 kg",
+      "Starting at 1.88 kg",
+      "Starting at 1.49 kg"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "Primary Battery: 3-cell (26 WHr) HP Long Life; 3-cell (46 WHr) HP Long Life; Integrated: 45W Smart AC adapter",
+      "Primary Battery: 3-cell (24 WHr) HP Long Life; 3-cell (50 WHr) HP Long Life; Secondary Battery: 6-cell (60 WHr) HP Long Life slice optional; Integrated: 45W Smart AC adapter; 65W Smart AC adapter; Discrete: 65W Smart AC adapter",
+      "Primary Battery: 3-cell (24 WHr) HP Long Life; 3-cell (50 WHr) HP Long Life; Integrated: 45W Smart AC adapter; 65W Smart AC adapter; Discrete: 65W Smart AC adapter",
+      "45W Smart AC adapter"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "Chipset integrated with processor",
+      "Chipset integrated with processor",
+      "Chipset integrated with processor",
+      "Mobile Intel® QM77 Express"
+     ]
+    ]
+   },
+   {
+    "label": "Display size (diagonal)",
+    "rows": [
+     [
+      "Display size (diagonal)",
+      "31.8 cm (12.5”)",
+      "35.6 cm (14”)",
+      "39.6 cm (15.6”)",
+      "35.6 cm (14”)"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "1 Media Card Reader",
+      "1 Media Card Reader",
+      "1 Media Card Reader",
+      "1 micro SD card reader"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "2 USB 3.0; 1 USB 3.0 charging; 1 DisplayPort 1.2; 1 VGA; 1 combo stereo headphone/mic jack;1 AC power; 1 RJ-45; 1 side docking connector",
+      "3 USB 3.0; 1 USB 3.0 charging; 1 DisplayPort 1.2; 1 VGA; 1 Combo stereo headphone/mic jack; 1 AC power; 1 RJ-45; 1 side docking connector; 1 secondary battery connector",
+      "3 USB 3.0; 1 USB 3.0 charging; 1 DisplayPort 1.2; 1 VGA; 1 Combo stereo headphone/mic jack;1 AC power; 1 RJ-45; 1 side docking connector",
+      "2 USB 3.0; 1 USB 3.0 charging; 1 docking connector; 1 DisplayPort 1.2; 1 AC power; 1 combo stereo headphone/mic jack"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "HP Client Security Suite (requires Windows) includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP BIOS with HP Sure Start, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Windows 7) & Microsoft Defender (Windows 8), HP SpareKey(requires initial user setup), Absolute Data Protect, TPM Embedded Security Chip 1.2, security lock slot",
+      "HP Client Security Suite (requires Windows) includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP BIOS with HP Sure Start, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Windows 7) & Microsoft Defender (Windows 8), HP SpareKey(requires initial user setup), Absolute Data Protect, TPM Embedded Security Chip 1.2, security lock slot",
+      "HP Client Security Suite (requires Windows) includes: HP Credential Manager, HP Password Manager, HP File Sanitizer and HP Device Access Manager with Just in Time Authentication, HP BIOS with HP Sure Start, HP Drive Encryption, HP Secure Erase, HP Trust Circles, Microsoft Security Essentials (Windows 7) & Microsoft Defender (Windows 8), HP SpareKey (requires initial user setup), Absolute Data Protect, TPM Embedded Security Chip 1.2, security lock slot",
+      "Standard: HP BIOS Protection; Microsoft Security Essentials; HP ProtectTools; Central Management for HP ProtectTools; TPM Embedded Security Chip 1.2; Pre-Boot Security; HP SpareKey (requires initial user setup); HP Disk Sanitizer; Drive Encryption for HP ProtectTools; Credential Manager for HP ProtectTools; Face Recognition for HP ProtectTools; File Sanitizer for HP ProtectTools; Smart Card Reader; Security Lock Slot; Optional: Computrace (sold separately and requires the purchase of subscription); Intel Anti-Theft Technology (requires Absolute Computrace subscription); HP Fingerprint Sensor (select models)"
+     ]
+    ]
+   },
+   {
+    "label": "Management features",
+    "rows": [
+     [
+      "Management features",
+      "HP 3D DriveGuard (Windows only)",
+      "HP 3D DriveGuard (Windows only)",
+      "HP 3D DriveGuard (Windows only)",
+      "HP 3D DriveGuard (Windows only)"
+     ]
+    ]
+   },
+   {
+    "label": "Memory upgrade",
+    "rows": [
+     [
+      "Memory upgrade",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 16 GB",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Memory slots",
+    "rows": [
+     [
+      "Memory slots",
+      "Two slots supporting dual-channel memory",
+      "Two slots supporting dual-channel memory",
+      "Two slots supporting dual-channel memory",
+      "on-board"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 14,
+  "section": "HP notebooks",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   447.8,
+   668.3
+  ],
+  "header": [
+   "Specifications",
+   "HP ZBook 14 Mobile Workstation",
+   "HP ZBook 15 Mobile Workstation",
+   "HP ZBook 17 Mobile Workstation"
+  ],
+  "groups": [
+   {
+    "label": "Operating system",
+    "rows": [
+     [
+      "Operating system",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available"
+     ]
+    ]
+   },
+   {
+    "label": "Weight",
+    "rows": [
+     [
+      "Weight",
+      "Starting at 1.59 kg",
+      "Starting at 2.82 kg",
+      "Starting at 3.48 kg"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "HP Long Life 3-cell (24 WHr) polymer battery; HP Long Life 3-cell (50 WHr) polymer/prismatic battery; External 65W Smart AC adapter",
+      "Primary batteries: 8-cell (83 WHr) Li-Ion battery; HP Long Life 8-cell (75 WHr) Li-Ion battery; Secondary batteries: HP BB09 Ultra Extended Life Notebook Battery (9-cell/100 WHr); HP ST09 Extended Life Notebook Battery (9-cell/73 WHr) External: External 150W Slim Smart AC adapter; External 200W Slim Smart AC adapter; HP Fast Charge (not supported on 9-cell primary battery)",
+      "Primary Batteries: 8-cell (83 WHr) Li-Ion battery, HP Long Life 8-cell (75 WHr) Li-Ion battery; Secondary Batteries: HP BB09 Ultra Extended Life; Notebook Battery (9-cell/100 WHr), HP ST09 Extended Life Notebook Battery (9-cell/73 WHr); External: External 200W Slim Smart AC adapter; External 230W Slim Smart AC adapter; HP Fast Charge (not supported on 9-cell primary battery)"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "Chipset is integrated with processor",
+      "Mobile Intel® QM87",
+      "Mobile Intel® QM87"
+     ]
+    ]
+   },
+   {
+    "label": "Display size (diagonal)",
+    "rows": [
+     [
+      "Display size (diagonal)",
+      "35.6 cm (14”)",
+      "39.6 cm (15.6”)",
+      "43.9 cm (17,3”)"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "1 Secure Digital; 1 Smart Card Reader",
+      "1 ExpressCard/54; 1 Secure Digital; 1 Smart Card Reader",
+      "1 ExpressCard/54; 1 Secure Digital; 1 Smart Card Reader"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "3 USB 3.0; 1 USB 3.0 charging; 1 DisplayPort; 1 stereo microphone-in/headphone-out combo; 1 AC power; 1 RJ-45; 1 docking connector; 1 VGA; 1 secondary battery connector",
+      "(2) USB 3.0; (1) USB 2.0; (1) USB 3.0 charging port; 1 Thunderbolt; 1 DisplayPort; 1 stereo microphone-in/headphone-out combo; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 VGA",
+      "(2) USB 3.0; 1 USB 2.0; 1 USB 3.0 charging port; 1 Thunderbolt; 1 DisplayPort; 1 stereo microphone-in/headphone-out combo; 1 AC power; 1 RJ-45; 1 docking connector; 1 secondary battery connector; 1 VGA"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "Standard: HP Client Security (Windows 7 and 8 only); HP Fingerprint Sensor (optional); HP Sure Start; Integrated Smart Card Reader; Enhanced Pre-Boot Security (multiuser/multifactor); HP Spare Key (requires initial user setup); One-Step Logon; Common Criteria EAL4+ Augmented Certified Discrete TPM 1.2 Embedded Security Chip; Security lock slot; Support for Intel AT; Optional: Computrace with GPS Tracking (sold separately and requires the purchase of subscription)",
+      "Standard: HP Client Security (Windows 8 only); HP Fingerprint Sensor; Integrated Smart Card Reader; Enhanced Pre-Boot Security (multiuser/multifactor); HP Spare Key (requires initial user setup); One-Step Logon; Common Criteria EAL4+ Augmented Certified Discrete TPM 1.2 Embedded Security Chip; Security lock slot; Support for Intel AT; Optional: Computrace with GPS Tracking (sold separately and requires the purchase of subscription)",
+      "Standard: HP Client Security (Windows 8 only); HP Fingerprint Sensor; Integrated Smart Card Reader; Enhanced Pre-Boot Security (multiuser/multifactor); HP Spare Key (requires initial user setup); One-Step Logon; Common Criteria EAL4+ Augmented Certified Discrete TPM 1.2 Embedded Security Chip; Security lock slot; Support for Intel AT; Optional: Computrace with GPS Tracking (sold separately and requires the purchase of subscription)"
+     ]
+    ]
+   },
+   {
+    "label": "Management features",
+    "rows": [
+     [
+      "Management features",
+      "N/A",
+      "N/A",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Memory upgrade",
+    "rows": [
+     [
+      "Memory upgrade",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 32 GB",
+      "Upgradeable to 32 GB"
+     ]
+    ]
+   },
+   {
+    "label": "Memory slots",
+    "rows": [
+     [
+      "Memory slots",
+      "2 SODIMM",
+      "Two SODIMM slots (dual-core processor) or four SODIMM slots (quad-core processor) supporting dual-channel memory.",
+      "Two SODIMM slots (dual-core processor) or four SODIMM slots (quad-core processor) supporting dual-channel memory."
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 15,
+  "section": "HP notebooks services",
+  "table_index": 0,
+  "kind": "care_pack",
+  "bbox": [
+   33.5,
+   226.8,
+   559.8,
+   605.3
+  ],
+  "header": [
+   "",
+   "",
+   "HP 2xx (HP 6xx)",
+   "ProBook 4xx (s+t series",
+   "ProBook 6xx (b+m series)",
+   "EliteBook / Zbook (p+w series)",
+   "UltraBook (EliteBook Folio / Spectre 13 Pro)"
+  ],
+  "groups": [
+   {
+    "label": "",
+    "rows": [
+     [
+      "",
+      "Parts/Labour/Onsite Service in years Base Warranty",
+      "1/1/0",
+      "1/1/0",
+      "1/1/0",
+      "3/3/0",
+      "1/1/0"
+     ]
+    ]
+   },
+   {
+    "label": "Return to Depot",
+    "rows": [
+     [
+      "Return to Depot",
+      "2-year",
+      "UK734E",
+      "UK734E",
+      "UJ381E",
+      "",
+      ""
+     ],
+     [
+      "",
+      "3-year",
+      "UK735E",
+      "UK735E",
+      "UJ382E",
+      "",
+      ""
+     ],
+     [
+      "",
+      "4-year",
+      "UM212E",
+      "UM212E",
+      "UM210E",
+      "UM208E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "UM213E",
+      "UM213E",
+      "UM211E",
+      "UM209E",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Pick up and Return",
+    "rows": [
+     [
+      "Pick up and Return",
+      "2-year",
+      "UK727E",
+      "UK727E",
+      "UE323E",
+      "",
+      ""
+     ],
+     [
+      "",
+      "3-year",
+      "UK707E",
+      "UK707E",
+      "U4395E",
+      "",
+      "HL506E"
+     ],
+     [
+      "",
+      "4-year",
+      "UK720E",
+      "UK720E",
+      "U7881E",
+      "U7868E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "UK721E",
+      "UK721E",
+      "U7882E",
+      "U7869E",
+      ""
+     ],
+     [
+      "",
+      "Post Warranty",
+      "UK709PE",
+      "UK709PE",
+      "U4397PE",
+      "U4426PE",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Standard Response Time",
+    "rows": [
+     [
+      "Standard Response",
+      "1-year",
+      "HZ530E",
+      "HZ530E",
+      "HZ522E",
+      "",
+      ""
+     ],
+     [
+      "Time",
+      "3-year",
+      "HZ531E",
+      "HZ531E",
+      "HZ523E",
+      "HZ515E",
+      ""
+     ],
+     [
+      "",
+      "4-year",
+      "HZ532E",
+      "HZ532E",
+      "HZ524E",
+      "HZ516E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "HZ533E",
+      "HZ533E",
+      "HZ525E",
+      "HZ517E",
+      ""
+     ],
+     [
+      "",
+      "Post Warranty",
+      "HZ534PE",
+      "HZ534PE",
+      "HZ526PE",
+      "HZ518PE",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day",
+    "rows": [
+     [
+      "Next Business Day",
+      "1-year",
+      "UK701E",
+      "UK701E",
+      "U4389E",
+      "",
+      ""
+     ],
+     [
+      "",
+      "3-year",
+      "UK703E",
+      "UK703E",
+      "U4391E",
+      "U4414E",
+      "HL510E"
+     ],
+     [
+      "",
+      "4-year",
+      "UK716E",
+      "UK716E",
+      "U7875E",
+      "U7860E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "UK718E",
+      "UK718E",
+      "U7876E",
+      "U7861E",
+      ""
+     ],
+     [
+      "",
+      "Post Warranty",
+      "UK705PE",
+      "UK705PE",
+      "U4393PE",
+      "U4416PE",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Travel Coverage",
+    "rows": [
+     [
+      "Travel Coverage",
+      "3-year",
+      "UL653E",
+      "UL653E",
+      "UC909E",
+      "U4418E",
+      ""
+     ],
+     [
+      "",
+      "4-year",
+      "UL654E",
+      "UL654E",
+      "UC910E",
+      "U7863E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "UL655E",
+      "UL655E",
+      "UC911E",
+      "U7864E",
+      ""
+     ],
+     [
+      "",
+      "Post Warranty",
+      "",
+      "",
+      "",
+      "U4420PE",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Premium Services",
+    "rows": [
+     [
+      "Premium Services",
+      "3-year",
+      "",
+      "HL542E",
+      "HL544E",
+      "HL546E",
+      "HL544E"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 15,
+  "section": "HP notebooks services",
+  "table_index": 1,
+  "kind": "recommended",
+  "bbox": [
+   33.7,
+   650.9,
+   560.2,
+   718.3
+  ],
+  "header": [
+   "Recommended",
+   "Description of Services",
+   "Options"
+  ],
+  "groups": [
+   {
+    "label": "Next business day onsite",
+    "rows": [
+     [
+      "Next business day onsite",
+      "Enjoy total piece of mind and maximum productivity. Get an authorised HP Service representative to your site the next business day for repair, if the problem can’t be resolved remotely",
+      "3-year, 4-year, 5-year"
+     ]
+    ]
+   },
+   {
+    "label": "Next business day onsite with accidental damage protection",
+    "rows": [
+     [
+      "Next business day onsite with accidental damage protection",
+      "Get up and running fast without worries. Avoid out-of-pocket repair or replacement costs caused by accidents such as drops, spills and electrical surges by having a HP Service representative in your site the next business day.",
+      "3-year, 4-year, 5-year"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 16,
+  "section": "HP notebooks services",
+  "table_index": 0,
+  "kind": "care_pack",
+  "bbox": [
+   33.5,
+   239.0,
+   556.6,
+   727.7
+  ],
+  "header": [
+   "",
+   "",
+   "HP 2xx (HP 6xx)",
+   "ProBook 4xx (s+t series)",
+   "ProBook 6xx (b+m series)",
+   "EliteBook / Zbook (p+w series)",
+   "UltraBook (EliteBook Folio / Spectre 13 Pro)"
+  ],
+  "groups": [
+   {
+    "label": "",
+    "rows": [
+     [
+      "",
+      "Parts/Labour/Onsite Service in years Base Warranty",
+      "1/1/0",
+      "1/1/0",
+      "1/1/0",
+      "3/3/0",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Pick up and Return + Accidental Damage Protection",
+    "rows": [
+     [
+      "Pick up and Return + Accidental",
+      "3-year",
+      "UK712E",
+      "UK712E",
+      "U4400E",
+      "U4428E",
+      "HL508E"
+     ],
+     [
+      "Damage Protection",
+      "4-year",
+      "UK723E",
+      "UK723E",
+      "U9587E",
+      "U9586E",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Pick up and Return + Defective Media Retention",
+    "rows": [
+     [
+      "Pick up and Return + Defective Media Retention",
+      "3-year",
+      "UL680E",
+      "UL680E",
+      "UJ404E",
+      "UJ407E",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Standard Response Time + Accidental Damage Protection",
+    "rows": [
+     [
+      "Standard Response Time +",
+      "3-year",
+      "HZ535E",
+      "HZ535E",
+      "HZ527E",
+      "HZ519E",
+      ""
+     ],
+     [
+      "Accidental Damage Protection",
+      "4-year",
+      "HZ536E",
+      "HZ536E",
+      "HZ528E",
+      "HZ520E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "HZ537E",
+      "HZ537E",
+      "HZ529E",
+      "HZ521E",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day + Accidental Damage Protection",
+    "rows": [
+     [
+      "Next Business Day + Accidental",
+      "3-year",
+      "UK726E",
+      "UK726E",
+      "UC282E",
+      "UC279E",
+      "HL511E"
+     ],
+     [
+      "Damage Protection",
+      "4-year",
+      "UK748E",
+      "UK748E",
+      "UC283E",
+      "UC284E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "UM237E",
+      "UM237E",
+      "UM235E",
+      "UM236E",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Standard Response Time + Defective Media Retention",
+    "rows": [
+     [
+      "Standard Response Time +",
+      "1-year",
+      "HL483E",
+      "HL483E",
+      "HL479E",
+      "",
+      ""
+     ],
+     [
+      "Defective Media Retention",
+      "3-year",
+      "HL484E",
+      "HL484E",
+      "HL480E",
+      "HL476E",
+      ""
+     ],
+     [
+      "",
+      "4-year",
+      "HL485E",
+      "HL485E",
+      "HL481E",
+      "HL477E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "HL486E",
+      "HL486E",
+      "HL482E",
+      "HL478E",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day + Defective Media Retention",
+    "rows": [
+     [
+      "Next Business Day + Defective",
+      "1-year",
+      "UL656E",
+      "UL656E",
+      "UE338E",
+      "",
+      ""
+     ],
+     [
+      "Media Retention",
+      "3-year",
+      "UL657E",
+      "UL657E",
+      "UE339E",
+      "UE335E",
+      "HL509E"
+     ],
+     [
+      "",
+      "4-year",
+      "UL658E",
+      "UL658E",
+      "UE340E",
+      "UE336E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "UL659E",
+      "UL659E",
+      "UE341E",
+      "UE337E",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day + Accidental Damage Protection + Defective Media Retention",
+    "rows": [
+     [
+      "Next Business Day + Accidental",
+      "1-year",
+      "UL845E",
+      "UL845E",
+      "UL740E",
+      "",
+      ""
+     ],
+     [
+      "Damage Protection + Defective Media Retention",
+      "3-year",
+      "UL846E",
+      "UL846E",
+      "UL741E",
+      "UL784E",
+      ""
+     ],
+     [
+      "",
+      "4-year",
+      "UL847E",
+      "UL847E",
+      "UL742E",
+      "UL785E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "UL848E",
+      "UL848E",
+      "UL743E",
+      "UL786E",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Travel Coverage + Accidental Damage Protection",
+    "rows": [
+     [
+      "Travel Coverage + Accidental",
+      "3-year",
+      "UQ825E",
+      "UQ825E",
+      "UQ819E",
+      "UQ831E",
+      ""
+     ],
+     [
+      "Damage Protection",
+      "4-year",
+      "UQ827E",
+      "UQ827E",
+      "UQ821E",
+      "UQ833E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "UQ829E",
+      "UQ829E",
+      "UQ823E",
+      "UQ835E",
+      ""
+     ],
+     [
+      "",
+      "Post Warranty",
+      "UQ817PE",
+      "UQ817PE",
+      "UQ815PE",
+      "UQ851PE",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Travel Coverage + Defective Media Retention",
+    "rows": [
+     [
+      "Travel Coverage + Defective Media",
+      "3-year",
+      "UL667E",
+      "UL667E",
+      "UJ333E",
+      "UJ336E",
+      ""
+     ],
+     [
+      "Retention",
+      "4-year",
+      "UL668E",
+      "UL668E",
+      "UJ334E",
+      "UJ337E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "UL669E",
+      "UL669E",
+      "UJ335E",
+      "UJ338E",
+      ""
+     ]
+    ]
+   },
+   {
+    "label": "Travel Coverage + Accidental Damage Protection + Defective Media Retention",
+    "rows": [
+     [
+      "Travel Coverage + Accidental",
+      "3-year",
+      "UQ826E",
+      "UQ826E",
+      "",
+      "UQ832E",
+      ""
+     ],
+     [
+      "Damage Protection + Defective Media Retention",
+      "4-year",
+      "UQ828E",
+      "UQ828E",
+      "",
+      "UQ834E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "UQ830E",
+      "UQ830E",
+      "",
+      "UQ836E",
+      ""
+     ],
+     [
+      "",
+      "Post Warranty",
+      "UQ818PE",
+      "UQ818PE",
+      "",
+      "UQ852PE",
+      ""
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 19,
+  "section": "HP tablets",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.4,
+   145.5,
+   400.9,
+   736.0
+  ],
+  "header": [
+   "Specifications",
+   "HP EliteBook Revolve 810 G2",
+   "HP ElitePad 1000 G2"
+  ],
+  "groups": [
+   {
+    "label": "Operating system",
+    "rows": [
+     [
+      "Operating system",
+      "Windows 8 Pro or other operating systems available",
+      "Windows 8 Pro or other operating systems available"
+     ]
+    ]
+   },
+   {
+    "label": "Audio",
+    "rows": [
+     [
+      "Audio",
+      "DTS Studio Sound; Integrated stereo speakers; Integrated microphone (dualmicrophone array); Headphone/microphone combo jack; Buttons for volume up and down",
+      "HD audio with DTS Sound+; 2 integrated stereo speakers; 2 digital microphones; Headphone/microphone combo jack"
+     ]
+    ]
+   },
+   {
+    "label": "Sensors",
+    "rows": [
+     [
+      "Sensors",
+      "N/A",
+      "Accelerometer + eCompass; Gyroscope; Ambient light sensor; Haptics"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "Mobile Intel® QM77 Express",
+      "Chipset is integrated with processor"
+     ]
+    ]
+   },
+   {
+    "label": "Processors",
+    "rows": [
+     [
+      "Processors",
+      "Intel® Core™ i7-3687U with Intel HD Graphics 4000 (2.1 GHz, 4 MB cache, 2 cores); Intel® Core™ i5-3437U with Intel HD Graphics 4000 (1.9 GHz, 3 MB cache, 2 cores)",
+      "Intel® Atom® Z3795 (1.6 GHz, up to 2.39 GHz using Intel Burst Technology, 2 MB cache, 4 cores)"
+     ]
+    ]
+   },
+   {
+    "label": "Display",
+    "rows": [
+     [
+      "Display",
+      "Diagonal LED-backlit HD UWVA (1366 x 768)",
+      "WXGA UWVA (1900 x 1200), capacitive multi-touch screen with digitizer, Corning® Gorilla® Glass 3 with anti-smudge coating"
+     ]
+    ]
+   },
+   {
+    "label": "Display size (diagonal)",
+    "rows": [
+     [
+      "Display size (diagonal)",
+      "29.5 cm (11.6”)",
+      "25.7 cm (10.1\")"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "1 micro SIM; 1 microSD",
+      "1 flash media"
+     ]
+    ]
+   },
+   {
+    "label": "Graphics",
+    "rows": [
+     [
+      "Graphics",
+      "Intel HD Graphics",
+      "Intel HD Graphics"
+     ]
+    ]
+   },
+   {
+    "label": "Storage",
+    "rows": [
+     [
+      "Storage",
+      "128 GB mSATA SSD; 256 GB mSATA SSD",
+      "64 GB eMMC SSD; 128 GB eMMC SSD"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "1 DisplayPort; 1 headphone/microphone combo; 1 power connector; 1 docking connector; 1 RJ-45; 2 USB 3.0",
+      "1 system connector; 1 headphone/ microphone combo The system connector connects to the unit either directly to power, or to the docking station, or to a jacket."
+     ]
+    ]
+   },
+   {
+    "label": "Memory",
+    "rows": [
+     [
+      "Memory",
+      "4 GB 1600 MHz SODIMM; 8 GB 1600 MHz SODIMM; 12 GB 1600 MHz SODIMM",
+      "4 GB 1067 MHz LPDDR3 SDRAM"
+     ]
+    ]
+   },
+   {
+    "label": "Pre-installed software",
+    "rows": [
+     [
+      "Pre-installed software",
+      "N/A",
+      "Buy Office; PDF Complete Corporate Edition; HP Mobile Connect; HP Wireless Hotspot (models with WLAN); HP ePrint; HP Manageability; HP PageLift; HP Support Assistant; HP SoftPaq Download Manager; Kindle; Box (50 GB offer)"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "Standard: Common Criteria EAL4+ Augmented Certified Discrete TPM 1.2 Embedded Security Chip; Security lock slot; HP BIOS (BIOS Protection); Secure Erase; Computrace Persistence; DriveLock and Automatic DriveLock; Preboot Security; Master Boot Record recovery; HP Client Security Software: Drive Encryption; Credential Manager; Password Manager; Absolute Data Protect (Windows 81 only); Face Recognition; One Step Logon; SpareKey; Device Access Manager with Just In Time Authentication; Embedded Security (Windows 71 only); Privacy Manager (Windows 71 only); Microsoft Security Essentials (Windows 71 only); DigitalPass (Windows 71 only); Central Management capable",
+      "HP Client Security (Included Credential Manager and Password Manager); Absolute Data Protect; Device Access Manager with Just In Time Authentication; Drive Encryption; HP Trust Circles Standard; Microsoft Defender; TPM 1.2; Near Field Communication with Secure Element (ships disabled)"
+     ]
+    ]
+   },
+   {
+    "label": "Wireless support",
+    "rows": [
+     [
+      "Wireless support",
+      "HP un2430 EV-DO/HSPA Mobile Broadband with GPS support; HP hs2350 HSPA+ Mobile Broadband with GPS support; Intel Centrino Advanced-N 6205 802.11a/b/g/n; Intel 802.11a/b/g/n + Bluetooth Combo",
+      "Broadcom 801.11a/b/g/n (2x2) and Bluetooth® 4.0; HP hs3110 HSPA+ Mobile Broadband; HP lt4111 LTE/EV-DO/HSPA+ Gobi 4G; HP lt4112 LTE/HSPA+ Gobi 4G"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 20,
+  "section": "HP tablets services",
+  "table_index": 0,
+  "kind": "care_pack",
+  "bbox": [
+   33.5,
+   190.0,
+   441.2,
+   791.6
+  ],
+  "header": [
+   "",
+   "",
+   "ElitePad",
+   "EliteBook / Zbook (p+w series)"
+  ],
+  "groups": [
+   {
+    "label": "",
+    "rows": [
+     [
+      "",
+      "Parts/Labour/Onsite Service in years Base Warranty",
+      "1/1/0",
+      "3/3/0"
+     ]
+    ]
+   },
+   {
+    "label": "Pick up and Return + Accidental Damage Protection",
+    "rows": [
+     [
+      "Pick up and Return + Accidental Damage Protection",
+      "2-year",
+      "U0W25E",
+      ""
+     ],
+     [
+      "",
+      "3-year",
+      "HR206E",
+      "U4428E"
+     ],
+     [
+      "",
+      "4-year",
+      "U0J29E",
+      "U9586E"
+     ]
+    ]
+   },
+   {
+    "label": "Pick up and Return + Defective Media Retention",
+    "rows": [
+     [
+      "Pick up and Return + Defective Media Retention",
+      "3-year",
+      "",
+      "UJ407E"
+     ]
+    ]
+   },
+   {
+    "label": "Standard Response Time + Accidental Damage Protection",
+    "rows": [
+     [
+      "Standard Response Time + Accidental Damage",
+      "3-year",
+      "U7C73E",
+      "HZ519E"
+     ],
+     [
+      "Protection",
+      "4-year",
+      "U7C74E",
+      "HZ520E"
+     ],
+     [
+      "",
+      "5-year",
+      "U7C75E",
+      "HZ521E"
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day + Accidental Damage Protection",
+    "rows": [
+     [
+      "Next Business Day + Accidental Damage Protection",
+      "2-year",
+      "U7C49E",
+      ""
+     ],
+     [
+      "",
+      "3-year",
+      "U7C51E",
+      "UC279E"
+     ],
+     [
+      "",
+      "4-year",
+      "U7C53E",
+      "UC284E"
+     ],
+     [
+      "",
+      "5-year",
+      "U7C55E",
+      "UM236E"
+     ]
+    ]
+   },
+   {
+    "label": "Standard Response Time + Defective Media Retention",
+    "rows": [
+     [
+      "Standard Response Time + Defective Media Retention",
+      "3-year",
+      "",
+      "HL476E"
+     ],
+     [
+      "",
+      "4-year",
+      "",
+      "HL477E"
+     ],
+     [
+      "",
+      "5-year",
+      "",
+      "HL478E"
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day + Defective Media Retention",
+    "rows": [
+     [
+      "Next Business Day + Defective Media Retention",
+      "3-year",
+      "",
+      "UE335E"
+     ],
+     [
+      "",
+      "4-year",
+      "",
+      "UE336E"
+     ],
+     [
+      "",
+      "5-year",
+      "",
+      "UE337E"
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day + Accidental Damage Protection + Defective Media Retention",
+    "rows": [
+     [
+      "Next Business Day + Accidental Damage Protection +",
+      "3-year",
+      "",
+      "UL784E"
+     ],
+     [
+      "Defective Media Retention",
+      "4-year",
+      "",
+      "UL785E"
+     ],
+     [
+      "",
+      "5-year",
+      "",
+      "UL786E"
+     ]
+    ]
+   },
+   {
+    "label": "Travel Coverage + Accidental Damage Protection",
+    "rows": [
+     [
+      "Travel Coverage + Accidental Damage Protection",
+      "3-year",
+      "U7C84E",
+      "UQ831E"
+     ],
+     [
+      "",
+      "4-year",
+      "U7C86E",
+      "UQ833E"
+     ],
+     [
+      "",
+      "5-year",
+      "U7C88E",
+      "UQ835E"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "",
+      "UQ851PE"
+     ]
+    ]
+   },
+   {
+    "label": "Travel Coverage + Defective Media Retention",
+    "rows": [
+     [
+      "Travel Coverage + Defective Media Retention",
+      "3-year",
+      "",
+      "UJ336E"
+     ],
+     [
+      "",
+      "4-year",
+      "",
+      "UJ337E"
+     ],
+     [
+      "",
+      "5-year",
+      "",
+      "UJ338E"
+     ]
+    ]
+   },
+   {
+    "label": "Travel Coverage + Accidental Damage Protection + Defective Media Retention",
+    "rows": [
+     [
+      "Travel Coverage + Accidental Damage Protection +",
+      "3-year",
+      "",
+      "UQ832E"
+     ],
+     [
+      "Defective Media Retention",
+      "4-year",
+      "",
+      "UQ834E"
+     ],
+     [
+      "",
+      "5-year",
+      "",
+      "UQ836E"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "",
+      "UQ852PE"
+     ]
+    ]
+   },
+   {
+    "label": "Computrace Data Protection",
+    "rows": [
+     [
+      "Computrace Data Protection",
+      "1-year",
+      "UQ929",
+      "UQ929"
+     ],
+     [
+      "",
+      "2-year",
+      "UQ930E",
+      "UQ930E"
+     ],
+     [
+      "",
+      "3-year",
+      "UQ931E",
+      "UQ931E"
+     ],
+     [
+      "",
+      "4-year",
+      "UQ932E",
+      "UQ932E"
+     ],
+     [
+      "",
+      "5-year",
+      "UQ933E",
+      "UQ933E"
+     ]
+    ]
+   },
+   {
+    "label": "Notebook Tracking and Recovery",
+    "rows": [
+     [
+      "Notebook Tracking and Recovery",
+      "1-year",
+      "UL724E",
+      "UL724E"
+     ],
+     [
+      "",
+      "2-year",
+      "UL725E",
+      "UL725E"
+     ],
+     [
+      "",
+      "3-year",
+      "UL726E",
+      "UL726E"
+     ],
+     [
+      "",
+      "4-year",
+      "UL727E",
+      "UL727E"
+     ],
+     [
+      "",
+      "5-year",
+      "UL728E",
+      "UL728E"
+     ]
+    ]
+   },
+   {
+    "label": "Premium Services + Accidental Damage Protection",
+    "rows": [
+     [
+      "Premium Services + Accidental Damage Protection",
+      "3-year",
+      "",
+      "HL547E"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 24,
+  "section": "HP tablets",
+  "table_index": 0,
+  "kind": "recommended",
+  "bbox": [
+   33.7,
+   191.8,
+   560.2,
+   259.1
+  ],
+  "header": [
+   "Recommended",
+   "Description of Services",
+   "Options"
+  ],
+  "groups": [
+   {
+    "label": "Next business day onsite",
+    "rows": [
+     [
+      "Next business day onsite",
+      "Enjoy total piece of mind and maximum productivity. Get an authorised HP Service representative to your site the next business day for repair, if the problem can’t be resolved remotely",
+      "3-year, 4-year, 5-year"
+     ]
+    ]
+   },
+   {
+    "label": "Next business day onsite with defective media protection",
+    "rows": [
+     [
+      "Next business day onsite with defective media protection",
+      "Keep your hard drive and critical data if it becomes damaged. Plus receive an HP-qualified technician next business day onsite to repair your computing device, if the issue cannot be solved remotely.",
+      "3-year, 4-year, 5-year"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 25,
+  "section": "HP desktops & all-in-ones",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   143.5,
+   555.6,
+   606.1
+  ],
+  "header": [
+   "Specifications",
+   "HP Compaq Pro 6305 Microtower",
+   "HP ProDesk 600 G1 Tower",
+   "HP ProDesk 600 G1 Small Form Factor",
+   "HP EliteDesk 800 G1 Tower"
+  ],
+  "groups": [
+   {
+    "label": "Operating system",
+    "rows": [
+     [
+      "Operating system",
+      "Windows 8 Pro or other operating systems",
+      "Windows 8 Pro or other operating systems",
+      "Windows 8 Pro or other operating systems",
+      "Windows 8 Pro or other operating systems"
+     ]
+    ]
+   },
+   {
+    "label": "External drive bays",
+    "rows": [
+     [
+      "External drive bays",
+      "One 8.9 cm (3.5\"); Two 13.3 cm (5.25\")",
+      "One 8.9 cm (3.5\"); One slimline; One 13.3 cm (5.25\")",
+      "One 8.9 cm (3.5\"); One slimline",
+      "One 8.9 cm (3.5\"); One 13.3 cm (5.25\"); One slim"
+     ]
+    ]
+   },
+   {
+    "label": "Internal drive bays",
+    "rows": [
+     [
+      "Internal drive bays",
+      "Two 8.9 cm (3.5\")",
+      "One 6.4 cm (2.5\"); Two 8.9 cm (3.5\")",
+      "One 6.4 cm (2.5\"); One 8.9 cm (3.5\")",
+      "One 6.4 cm (2.5\"); Two 8.9 cm (3.5\")"
+     ]
+    ]
+   },
+   {
+    "label": "Form factor",
+    "rows": [
+     [
+      "Form factor",
+      "Microtower",
+      "Microtower",
+      "Small Form Factor",
+      "Microtower"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; Serial, parallel, USB enable/disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/boot control; Power-On password (via BIOS); Setup password (via BIOS); HP Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices",
+      "Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; Intel® Identify Protection Technology (IPT); Serial, parallel, USB enable/disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/ boot control; Power-On password (via BIOS); Setup password (via BIOS); HP Chassis (1 bay) Security Kit; Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices",
+      "Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; Intel® Identify Protection Technology (IPT); Serial, parallel, USB enable/disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/boot control; Power-On password (via BIOS); Setup password (via BIOS); HP Chassis (1 bay) Security Kit; Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices",
+      "Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; RAID configurations; Intel® Identify Protection Technology (IPT); Serial, parallel, USB enable/ disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/boot control; Power-On password (via BIOS); Setup password (via BIOS); HP Chassis (1 bay) Security Kit; Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices"
+     ]
+    ]
+   },
+   {
+    "label": "Management features",
+    "rows": [
+     [
+      "Management features",
+      "N/A",
+      "Intel Standard Manageability (select models)",
+      "Intel Standard Manageability (select models)",
+      "Intel Standard Manageability (select models)"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "AMD A75",
+      "Intel® Q85 Express",
+      "Intel® Q85 Express",
+      "Intel® Q87 Express"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "1 full-height PCI; 1 full-height PCIe x1; 1 full-height PCIe x16 (x16); 1 full-height PCIe x16 (x4)",
+      "3 PCIe x1; 1 PCIe x16",
+      "3 PCIe x1; 1 PCIe x16",
+      "2 full-height PCIe x1; 1 full-height PCIe x16; 1 full-height PCIe x16 (x4)"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots note",
+    "rows": [
+     [
+      "Expansion slots note",
+      "N/A",
+      "N/A",
+      "N/A",
+      "1 full-height PCI (select models)"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "4 USB 3.0; 6 USB 2.0; 2 PS/2; 1 VGA; 1 DisplayPort; 1 serial; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone",
+      "4 USB 3.0; 6 USB 2.0; 1 serial; 2 PS/2; 1 VGA; 2 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone",
+      "4 USB 3.0; 6 USB 2.0; 1 serial; 2 PS/2; 1 VGA; 2 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone",
+      "2 USB 3.0; 6 USB 2.0; 1 serial; 2 PS/2; 1 VGA; 2 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone"
+     ]
+    ]
+   },
+   {
+    "label": "Ports note",
+    "rows": [
+     [
+      "Ports note",
+      "Optional ports include 1 serial, 1 eSATA, 1 parallel, 1 22-in-1 Media Card Reader",
+      "Optional: 1 serial; 1 parallel",
+      "Optional: 1 serial; 1 parallel",
+      "Optional: 1 serial; 1 parallel"
+     ]
+    ]
+   },
+   {
+    "label": "Memory upgrade",
+    "rows": [
+     [
+      "Memory upgrade",
+      "Upgradeable to 32 GB",
+      "Upgradeable to 32 GB",
+      "Upgradeable to 32 GB",
+      "Upgradeable to 32 GB"
+     ]
+    ]
+   },
+   {
+    "label": "Memory slots",
+    "rows": [
+     [
+      "Memory slots",
+      "4 DIMM",
+      "4 DIMM",
+      "4 DIMM",
+      "4 DIMM"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "320W standard efficiency, active PFC; 320W 90% efficient, active PFC",
+      "320W standard efficiency, 92% efficient, active PFC",
+      "240W 92% efficient, active PFC",
+      "320W standard efficiency, active PFC; 320W 92% efficient, active PFC"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 26,
+  "section": "HP desktops & all-in-ones",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   344.5,
+   563.0
+  ],
+  "header": [
+   "Specifications",
+   "HP EliteDesk 800 G1 Ultra-slim",
+   "HP EliteDesk 800 G1 Small Form Factor"
+  ],
+  "groups": [
+   {
+    "label": "Operating system",
+    "rows": [
+     [
+      "Operating system",
+      "Windows 8 Pro or other operating systems",
+      "Windows 8 Pro or other operating systems"
+     ]
+    ]
+   },
+   {
+    "label": "External drive bays",
+    "rows": [
+     [
+      "External drive bays",
+      "One 6.4 cm (2.5\")",
+      "One 8.9 cm (3.5\"); One slim"
+     ]
+    ]
+   },
+   {
+    "label": "Internal drive bays",
+    "rows": [
+     [
+      "Internal drive bays",
+      "N/A",
+      "One 6.4 cm (2.5\"); One 8.9 cm (3.5\")"
+     ]
+    ]
+   },
+   {
+    "label": "Form factor",
+    "rows": [
+     [
+      "Form factor",
+      "Ultra-slim desktop",
+      "Small Form Factor"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; Intel® Identify Protection Technology (IPT); Serial, parallel, USB enable/disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/ boot control; Power-On password (via BIOS); Setup password (via BIOS); Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices",
+      "Trusted Platform Module (TPM) 1.2; SATA port disablement (via BIOS); Drive lock; RAID configurations; Intel® Identify Protection Technology (IPT); Serial, parallel, USB enable/disable (via BIOS); Optional USB Port Disable at factory (user configurable via BIOS); Removable media write/ boot control; Power-On password (via BIOS); Setup password (via BIOS); Solenoid Hood Lock / Sensor; Support for chassis padlocks and cable lock devices"
+     ]
+    ]
+   },
+   {
+    "label": "Management features",
+    "rows": [
+     [
+      "Management features",
+      "Intel Standard Manageability (select models)",
+      "Intel Standard Manageability (select models)"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "Intel® Q87 Express",
+      "Intel® Q87 Express"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "1 mini PCIe; 1 MXM; 1 mSATA",
+      "2 low-profile PCIe x1; 1 low-profile PCIe x16 (x4); 1 low-profile PCIe x16"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots note",
+    "rows": [
+     [
+      "Expansion slots note",
+      "N/A",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "2 USB 3.0; 6 USB 2.0; 2 PS/2; 1 VGA; 2 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone",
+      "2 USB 3.0; 6 USB 2.0; 1 serial; 2 PS/2; 1 VGA; 2 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45; 1 headphone; 1 microphone"
+     ]
+    ]
+   },
+   {
+    "label": "Ports note",
+    "rows": [
+     [
+      "Ports note",
+      "N/A",
+      "Optional: 1 serial; 1 parallel"
+     ]
+    ]
+   },
+   {
+    "label": "Memory upgrade",
+    "rows": [
+     [
+      "Memory upgrade",
+      "Upgradeable to 32 GB",
+      "Upgradeable to 32 GB"
+     ]
+    ]
+   },
+   {
+    "label": "Memory slots",
+    "rows": [
+     [
+      "Memory slots",
+      "2 SODIMM",
+      "4 DIMM"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "135W (integrated) standard efficiency, 89% efficient, active PFC; 180W (discrete) standard efficiency; 89% efficient, active PC",
+      "240W 92% efficient, active PFC"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 27,
+  "section": "HP desktops & all-in-ones",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   464.1,
+   545.0
+  ],
+  "header": [
+   "Specifications",
+   "HP ProOne 400 G1 All-in-One",
+   "HP ProOne 600 G1 All-in-One",
+   "HP EliteOne 800 G1 All-in-One"
+  ],
+  "groups": [
+   {
+    "label": "Operating system",
+    "rows": [
+     [
+      "Operating system",
+      "Windows 8 Pro or other operating systems",
+      "Windows 8 Pro or other operating systems",
+      "Windows 8 Pro or other operating systems"
+     ]
+    ]
+   },
+   {
+    "label": "External drive bays",
+    "rows": [
+     [
+      "External drive bays",
+      "One 13.3 cm (5.25\") external; Slim Line Optical Drive",
+      "One slimline",
+      "One 13.3 cm (5.25\")"
+     ]
+    ]
+   },
+   {
+    "label": "Internal drive bays",
+    "rows": [
+     [
+      "Internal drive bays",
+      "One 8.9 cm (3.5\")",
+      "One 8.9 cm (3.5\")",
+      "One 6.4 cm (2.5\")"
+     ]
+    ]
+   },
+   {
+    "label": "Form factor",
+    "rows": [
+     [
+      "Form factor",
+      "All-in-one",
+      "All-in-one",
+      "All-in-one"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "Security lock slot; HP Keyed Cable Lock; USB port disable; Rear cover security screw",
+      "USB port disable; Lockable Access Panel; Lockable I/O security cover; Security Screw; HP Keyed Cable Lock (optional); Common Criteria Certified, Infineon TPM SLB9656TT1.2- 4.32 FW; Intrusion Detector; Wall/Arm/Cart Mountable via VESA bracket; Support for Nobel Locking Plate (3rd party option); Support for 3M Privacy Screen (3rd party option)",
+      "USB port disable; Lockable Access Panel; Lockable I/O security cover; Security Screw; HP Keyed Cable Lock (optional); Common Criteria Certified, Infineon TPM SLB9656TT1.2- 4.32 FW; Intrusion Detector; Wall/Arm/Cart Mountable via VESA bracket; Support for Nobel Locking Plate (3rd party option); Support for 3M Privacy Screen (3rd party option), for non-touch models"
+     ]
+    ]
+   },
+   {
+    "label": "Management features",
+    "rows": [
+     [
+      "Management features",
+      "N/A",
+      "Intel Standard Manageability (select models)",
+      "vPro Technology Capable (select models); Intel Standard Manageability (select models)"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "Intel® H81 Express",
+      "Intel® Q85 Express",
+      "Intel® Q87 Express"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "1 mini PCIe half-length (used by optional wireless LAN module)",
+      "1 mini PCIe; 1 MXM; 1 mSATA",
+      "1 mini PCIe; 1 MXM; 1 mSATA"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots note",
+    "rows": [
+     [
+      "Expansion slots note",
+      "N/A",
+      "N/A",
+      "1 Media Card Reader (optional)"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "2 USB 3.0; 4 USB 2.0 (rear); 1 Microphone in; 1 Headphone jack; 1 Serial RS-232; 1 Stereo audio line out; 1 Power connector; 1 RJ-45; 1 DisplayPort with multi-stream",
+      "4 USB 3.0; 2 USB 2.0; 2 PS/2; 1 microphone in; 1 headphone; 1 RJ-45; 1 audio out; 1 power connector; 1 DisplayPort",
+      "6 USB 3.0; 2 PS/2; 1 microphone in; 1 audio headphone jack; 1 serial; 1 audio line out; 1 power connector; 1 RJ-45; 1 DisplayPort"
+     ]
+    ]
+   },
+   {
+    "label": "Ports note",
+    "rows": [
+     [
+      "Ports note",
+      "N/A",
+      "1 serial (optional)",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Memory upgrade",
+    "rows": [
+     [
+      "Memory upgrade",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 16 GB"
+     ]
+    ]
+   },
+   {
+    "label": "Memory slots",
+    "rows": [
+     [
+      "Memory slots",
+      "2 SODIMM",
+      "2 SODIMM",
+      "2 SODIMM"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "External 120W, up to 89% efficient, active PFC",
+      "Internal 180W, up to 91% efficient, active PFC",
+      "200W, up to 93% efficient, active PFC"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 28,
+  "section": "HP desktops & all-in-ones services",
+  "table_index": 0,
+  "kind": "care_pack",
+  "bbox": [
+   33.5,
+   224.0,
+   486.4,
+   631.4
+  ],
+  "header": [
+   "",
+   "",
+   "EliteDesk/EliteOne 8xx ProDesk/ProOne 6xx (HP Compact Elite)",
+   "ProDesk/ProOne 4xx HP Compact 2xx"
+  ],
+  "groups": [
+   {
+    "label": "",
+    "rows": [
+     [
+      "",
+      "Parts/Labour/Onsite Service in years Base Warranty",
+      "3/3/3",
+      "1/1/1"
+     ]
+    ]
+   },
+   {
+    "label": "Standard Response Time",
+    "rows": [
+     [
+      "Standard Response Time",
+      "1-year",
+      "",
+      "HZ549E"
+     ],
+     [
+      "",
+      "3-year",
+      "HZ559E",
+      "HZ550E/A"
+     ],
+     [
+      "",
+      "4-year",
+      "HZ560E/A",
+      "HZ552E/A"
+     ],
+     [
+      "",
+      "5-year",
+      "HZ561E",
+      "HZ553E"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "HZ554PE",
+      "HZ554PE"
+     ]
+    ]
+   },
+   {
+    "label": "Standard Response Time + Defective Media Retention",
+    "rows": [
+     [
+      "Standard Response Time +",
+      "1-year",
+      "",
+      "HL490E"
+     ],
+     [
+      "Defective Media Retention",
+      "3-year",
+      "HL494E",
+      "HL491E"
+     ],
+     [
+      "",
+      "4-year",
+      "HL495E",
+      "HL492E"
+     ],
+     [
+      "",
+      "5-year",
+      "HL496E",
+      "HL493E"
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day",
+    "rows": [
+     [
+      "Next Business Day",
+      "1-year",
+      "",
+      "UE378E"
+     ],
+     [
+      "",
+      "3-year",
+      "UE379E",
+      "U6578E/A"
+     ],
+     [
+      "",
+      "4-year",
+      "U7897E/A",
+      "U7923E/A"
+     ],
+     [
+      "",
+      "5-year",
+      "U7899E/A",
+      "U7925E/A"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "U5864PE",
+      "U5864PE"
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day + Defective Media Retention",
+    "rows": [
+     [
+      "Next Business Day +",
+      "1-year",
+      "",
+      "UK764E"
+     ],
+     [
+      "Defective Media Retention",
+      "3-year",
+      "UE332E/A",
+      "UF360E"
+     ],
+     [
+      "",
+      "4-year",
+      "UE333E",
+      "UF361E"
+     ],
+     [
+      "",
+      "5-year",
+      "UE334E",
+      "UF362E"
+     ]
+    ]
+   },
+   {
+    "label": "4 Hour Same Day 9X5",
+    "rows": [
+     [
+      "4 Hour Same Day 9X5",
+      "3-year",
+      "U4863E",
+      "U4856E/A"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "U4858PE",
+      "U4858PE"
+     ]
+    ]
+   },
+   {
+    "label": "4 Hour Same Day 13X5",
+    "rows": [
+     [
+      "4 Hour Same Day 13X5",
+      "3-year",
+      "HP730E",
+      "HP728E"
+     ],
+     [
+      "",
+      "4-year",
+      "HP731E",
+      "HP729E"
+     ]
+    ]
+   },
+   {
+    "label": "4 Hour Same Day 9X5 + Defective Media Retention",
+    "rows": [
+     [
+      "4 Hour Same Day 9X5 + Defective Media Retention",
+      "3-year",
+      "UL821E",
+      "UM188E"
+     ]
+    ]
+   },
+   {
+    "label": "Premium Services",
+    "rows": [
+     [
+      "Premium Services",
+      "3-year",
+      "HL550E",
+      "HL548E"
+     ]
+    ]
+   },
+   {
+    "label": "Premium Services + Defective Media Retention",
+    "rows": [
+     [
+      "Premium Services + Defective Media Retention",
+      "3-year",
+      "HL551E",
+      "HL549E"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 31,
+  "section": "HP workstations",
+  "table_index": 0,
+  "kind": "recommended",
+  "bbox": [
+   33.7,
+   674.6,
+   560.2,
+   741.9
+  ],
+  "header": [
+   "Recommended",
+   "Description of Services",
+   "Options"
+  ],
+  "groups": [
+   {
+    "label": "Next business day onsite",
+    "rows": [
+     [
+      "Next business day onsite",
+      "Enjoy total piece of mind and maximum productivity. Get an authorised HP Service representative to your site the next business day for repair, if the problem can’t be resolved remotely",
+      "3-year, 4-year, 5-year"
+     ]
+    ]
+   },
+   {
+    "label": "Next business day onsite with accidental damage protection",
+    "rows": [
+     [
+      "Next business day onsite with accidental damage protection",
+      "Get up and running fast without worries. Avoid out-of-pocket repair or replacement costs caused by accidents such as drops, spills and electrical surges by having a HP Service representative1 in your site the next business day.",
+      "3-year, 4-year, 5-year"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 32,
+  "section": "HP workstations",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   560.3,
+   736.4
+  ],
+  "header": [
+   "Specifications",
+   "HP Z820 Workstation",
+   "HP Z620 Workstation",
+   "HP Z420 Workstation",
+   "HP Z230 Tower Workstation"
+  ],
+  "groups": [
+   {
+    "label": "Operating system",
+    "rows": [
+     [
+      "Operating system",
+      "Windows 8 Pro or other operating systems",
+      "Windows 8 Pro or other operating systems",
+      "Windows 8 Pro or other operating systems",
+      "Windows 8 Pro or other operating systems"
+     ]
+    ]
+   },
+   {
+    "label": "External drive bays",
+    "rows": [
+     [
+      "External drive bays",
+      "Three 13.34 cm",
+      "Two 13.34 cm",
+      "Three 13.34 cm",
+      "1 external slim ODD bay, 2 external Half-Height 13.34 cm bays"
+     ]
+    ]
+   },
+   {
+    "label": "Internal drive bays",
+    "rows": [
+     [
+      "Internal drive bays",
+      "Four 8.89 cm",
+      "Three 8.89 cm",
+      "Three 8.89 cm",
+      "2 internal 6.35 cm bays, 1 internal 8.89 cm bay"
+     ]
+    ]
+   },
+   {
+    "label": "Storage controller",
+    "rows": [
+     [
+      "Storage controller",
+      "Integrated SATA 6.0 Gb/s; Integrated SATA 3.0 Gb/s; Integrated LSI SAS 2308 Controller; LSI MegaRAID® 9260-8i SAS 6Gb/s ROC RAID Card and iBBU08 Battery Backup Unit (optional)",
+      "Integrated SATA 6.0 Gb/s; Integrated SATA 3.0 Gb/s with RAID 0, 1, 10 support; LSI MegaRAID 9260-8i SAS 6.0 Gb/s ROC RAID and iBBU08 Battery Backup Unit (optional); LSI 9212 4-Port SAS 6.0 Gb/s RAID (optional); LSI 9217-4i4e 8-port SAS 6.0 Gb/s RAID (optional)",
+      "Integrated SATA 6.0 Gb/s; integrated SATA 3.0 Gb/s; LSI 9212 4-Port SAS 6 Gb/s RAID (optional); LSI MegaRAID 9260-8i SAS 6 Gb/s ROC RAID and IBBU08 battery backup unit (optional)",
+      "Integrated SATA Controller, RAID 0,1 supported: 5 ports, 6 Gb/s"
+     ]
+    ]
+   },
+   {
+    "label": "Form factor",
+    "rows": [
+     [
+      "Form factor",
+      "Rackable minitower",
+      "Rackable minitower",
+      "Convertible Minitower",
+      "Tower"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "Cable Lock Support (standard - cable optional); Chassis Intrusion Sensor (standard); Serial, Parallel, USB, Audio, Network Enable/Disable (standard); Removable Media Write/Boot Control (standard); Power-On Password (standard); Setup Password (standard); Kensington Cable Lock (optional)",
+      "Cable Lock Support (standard - cable optional); Removable Media Write/Boot Control (standard); Power-On Password (standard); Setup Password (standard); Kensington Cable Lock (optional); HP Solenoid Hood Lock and Sensor (optional); HP Solenoid Lock (optional)",
+      "Padlock Support (standard - padlock optional); Cable Lock Support (standard - cable optional); Universal Chassis Clamp Lock (optional); Serial, Parallel, USB, Audio, Network Enable/Disable (standard); Removable Media Write/Boot Control (standard); Power-On Password (standard); Setup Password(standard); Solenoid Lock and Hood Sensor (optional)",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "Intel® C602",
+      "Intel® C602",
+      "Intel® C602",
+      "Intel® C226"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "3 PCIe Gen3 x16; 1 PCIe Gen3",
+      "2 PCIe Gen3 x16; 1 PCIe Gen3 x8; 1 PCIe Gen2 x8; 1 PCIe Gen2 x4; 1 PCI",
+      "2 PCIe Gen3 x16; 1 PCIe Gen3 x8; 1 PCIe Gen2 x8 (x4); 1 PCIe Gen2 x4 (x1); 1 PCI",
+      "1 PCIe Gen3 x16, 1 PCIe Gen2 x4 slot/x16 connector, 1 PCIe Gen2 x1 slot/x4 connector, 1 PCIe Gen2 x1 slot, 1 PCI 32-bit"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots note",
+    "rows": [
+     [
+      "Expansion slots note",
+      "The PCIe x8 connectors are open ended, allowing a PCIe x16 card to be seated in the slot.",
+      "N/A",
+      "The PCIe x8 connectors are open ended, allowing a PCIe x16 card to be seated in the slot.",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "4 USB 3.0; 5 USB 2.0; 2 IEEE 1394a; 2 microphone; 1 audio line out; 1 headphone; 1 audio line in; 1 serial; 2 PS/2 (keyboard & mouse); 2 RJ-45 to integrated Gigabit LAN; 1 22-in-1 media card reader",
+      "6 internal USB 2.0 available by 3 separate 2x5 headers",
+      "6 internal USB 2.0 available by 3 separate 2x5 headers; 1 serial available via optional Serial Port Adapter",
+      "Front: 2 USB 3.0; 1 USB 2.0; 1 USB 2.0 Charging Data Port; 1 microphone in; 1 headphone out; Rear: 2 USB 3.0; 4 USB 2.0; 1 DVI-I single link and 2 DisplayPort 1.2 (for use with Intel HD Graphics); 1 audio in; 1 audio out; 1 microphone; 1 serial (optional); 2 PS/2; RJ-45 (LoM), optional 2 IEEE 1394b ports; Internal: 1 USB 3.0, 3 USB 2.0"
+     ]
+    ]
+   },
+   {
+    "label": "Memory upgrade",
+    "rows": [
+     [
+      "Memory upgrade",
+      "Upgradeable to 512 GB",
+      "Upgradeable to 192 GB",
+      "Upgradeable to 64 GB",
+      "Up to 32 GB ECC/non-ECC, DDR3 1600 MHz (ECC/non-ECC choice and actual memory speed dependent on processor capability)"
+     ]
+    ]
+   },
+   {
+    "label": "Memory slots",
+    "rows": [
+     [
+      "Memory slots",
+      "16 DIMM",
+      "Up to 12 DIMMs (8 DIMMs on system board, 4 DIMMs on 2nd CPU & Memory Module)",
+      "8 DIMM",
+      "4 DIMM"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "850W 88% efficient, wide ranging, active PFC; 1125W 90% efficient, wide ranging, active PFC",
+      "800W 90% efficient wide ranging, active PFC",
+      "600W 90% efficient, wide ranging, active PFC",
+      "400-watt 92% efficient power supply"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 33,
+  "section": "HP workstations",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   344.5,
+   547.4
+  ],
+  "header": [
+   "Specifications",
+   "HP Z230 Small Form Factor Workstation",
+   "HP Z1 Workstation"
+  ],
+  "groups": [
+   {
+    "label": "Operating system",
+    "rows": [
+     [
+      "Operating system",
+      "Windows 8 Pro or other operating systems",
+      "Windows 8 Pro or other operating systems"
+     ]
+    ]
+   },
+   {
+    "label": "External drive bays",
+    "rows": [
+     [
+      "External drive bays",
+      "1 external 8.89 cm bay, 1 external Half-Height 13.34 cm bay",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Internal drive bays",
+    "rows": [
+     [
+      "Internal drive bays",
+      "1 internal 8.89 cm bay, 1 internal 6.35 cm bay",
+      "One 8.89 cm OR Two 6.35 cm"
+     ]
+    ]
+   },
+   {
+    "label": "Storage controller",
+    "rows": [
+     [
+      "Storage controller",
+      "Integrated SATA Controller, RAID 0,1 supported: 5 ports, 6 Gb/s",
+      "Integrated SATA interfaces with RAID 0, 1 support (2x 6.0 Gb/s and 1x 3.0 Gb/s)"
+     ]
+    ]
+   },
+   {
+    "label": "Form factor",
+    "rows": [
+     [
+      "Form factor",
+      "Small Form Factor",
+      "All-in-One"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "N/A",
+      "Optional security cable with Kensington Lock; HP Chassis Intrusion Sensor"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "Intel® C226",
+      "Intel® C206"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "1 PCIe Gen3 x16, 1 PCIe Gen2 x4 slot/ x16 connector, 1 PCIe Gen2 x1 slot/x4 connector, 1 PCIe Gen2 x1 slot. All slots are Low Profile.",
+      "1 MXM; 3 mini PCIe (full-length)"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots note",
+    "rows": [
+     [
+      "Expansion slots note",
+      "N/A",
+      "MXM dedicated for graphics"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "Front: 2 USB 3.0; 2 USB 2.0; 1 microphone in; 1 headphone out; Rear: 2 USB 3.0; 4 USB 2.0; 3 DisplayPort 1.2 (for use with Intel HD Graphics); 1 audio in; 1 audio out; 1 standard/1 serial (optional); 2 PS/2; RJ-45 (LoM), optional 2 IEEE 1394b ports (PCIe card); Internal: 1 USB 3.0, 3 USB 2.0",
+      "2 USB 3.0; 7 USB 2.0; 1 4-in-1 media card reader; 1 headphone; 1 microphone; 1 IEEE 1394a; 1 DisplayPort; 1 RJ-45; 1 optical S/PDIF; 1 subwoofer out; 1 audio line in; 1 audio line out"
+     ]
+    ]
+   },
+   {
+    "label": "Memory upgrade",
+    "rows": [
+     [
+      "Memory upgrade",
+      "Up to 32 GB ECC/non-ECC, DDR3 1600 MHz (ECC/non-ECC choice and actual memory speed dependent on processor capability)",
+      "Upgradeable to 32 GB"
+     ]
+    ]
+   },
+   {
+    "label": "Memory slots",
+    "rows": [
+     [
+      "Memory slots",
+      "4 DIMM",
+      "4 DIMM"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "240-watt 92% efficient power supply",
+      "400W 90% efficient power supply - wide ranging active PFC"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 34,
+  "section": "HP workstations services",
+  "table_index": 0,
+  "kind": "care_pack",
+  "bbox": [
+   33.5,
+   223.1,
+   302.5,
+   686.8
+  ],
+  "header": [
+   "",
+   "",
+   "WorkStation Zxxx"
+  ],
+  "groups": [
+   {
+    "label": "",
+    "rows": [
+     [
+      "",
+      "Parts/Labour/Onsite Service in years Base Warranty",
+      "3/3/3"
+     ]
+    ]
+   },
+   {
+    "label": "Standard Response Time",
+    "rows": [
+     [
+      "Standard Response Time",
+      "3-year",
+      "HZ559E"
+     ],
+     [
+      "",
+      "4-year",
+      "HZ562E"
+     ],
+     [
+      "",
+      "5-year",
+      "HZ563E"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "HZ564PE"
+     ]
+    ]
+   },
+   {
+    "label": "Standard Response Time + Defective Media Retention",
+    "rows": [
+     [
+      "Standard Response Time +",
+      "3-year",
+      "HL497E"
+     ],
+     [
+      "Defective Media Retention",
+      "4-year",
+      "HL498E"
+     ],
+     [
+      "",
+      "5-year",
+      "HL499E"
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day",
+    "rows": [
+     [
+      "Next Business Day",
+      "3-year",
+      "UE379E"
+     ],
+     [
+      "",
+      "4-year",
+      "U7942E"
+     ],
+     [
+      "",
+      "5-year",
+      "U7944E"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "U4867PE"
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day + Defective Media Retention",
+    "rows": [
+     [
+      "Next Business Day +",
+      "3-year",
+      "UE342E"
+     ],
+     [
+      "Defective Media Retention",
+      "4-year",
+      "UE343E"
+     ],
+     [
+      "",
+      "5-year",
+      "UE344E"
+     ]
+    ]
+   },
+   {
+    "label": "4 Hour Same Day 9X5",
+    "rows": [
+     [
+      "4 Hour Same Day 9X5",
+      "3-year",
+      "U4873E"
+     ],
+     [
+      "",
+      "4-year",
+      "U7946E"
+     ],
+     [
+      "",
+      "5-year",
+      "U7948E"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "U4877PE"
+     ]
+    ]
+   },
+   {
+    "label": "4 Hour Same Day 13X5",
+    "rows": [
+     [
+      "4 Hour Same Day 13X5",
+      "3-year",
+      "HX528E"
+     ],
+     [
+      "",
+      "4-year",
+      "HX529E"
+     ],
+     [
+      "",
+      "5-year",
+      "U7940E"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "HX530PE"
+     ]
+    ]
+   },
+   {
+    "label": "4 Hour Same Day 24X7",
+    "rows": [
+     [
+      "4 Hour Same Day 24X7",
+      "3-year",
+      "U4875E"
+     ],
+     [
+      "",
+      "4-year",
+      "U7950E"
+     ],
+     [
+      "",
+      "5-year",
+      "U7952E"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "U6585PE"
+     ]
+    ]
+   },
+   {
+    "label": "4 Hour Same Day 9X5 + Defective Media Retention",
+    "rows": [
+     [
+      "4 Hour Same Day 9X5 +",
+      "3-year",
+      "UL833E"
+     ],
+     [
+      "Defective Media Retention",
+      "4-year",
+      "UL834E"
+     ],
+     [
+      "",
+      "5-year",
+      "UL835E"
+     ]
+    ]
+   },
+   {
+    "label": "4 Hour Same Day 13X5 + Defective Media Retention",
+    "rows": [
+     [
+      "4 Hour Same Day 13X5 +",
+      "3-year",
+      "UL839E"
+     ],
+     [
+      "Defective Media Retention",
+      "4-year",
+      "UL840E"
+     ],
+     [
+      "",
+      "5-year",
+      "UL841E"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 38,
+  "section": "HP displays",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   559.9,
+   428.0
+  ],
+  "header": [
+   "Specifications",
+   "HP x2401 24” LED Backlit Monitor",
+   "HP ProDisplay P201 20” LED Backlit Monitor",
+   "HP ProDisplay P221 21.5” LED Backlit Monitor",
+   "HP EliteDisplay E201 20” LED Backlit Monitor"
+  ],
+  "groups": [
+   {
+    "label": "Brightness",
+    "rows": [
+     [
+      "Brightness",
+      "250 cd/m²",
+      "250 cd/m²",
+      "250 cd/m²",
+      "250 cd/m²"
+     ]
+    ]
+   },
+   {
+    "label": "Contrast ratio",
+    "rows": [
+     [
+      "Contrast ratio",
+      "1000:1 static; 5000000:1 dynamic",
+      "1000:1 static; 3000000:1 dynamic",
+      "1000:1 static; 3000000:1 dynamic",
+      "1000:1 static; 5000000:1 dynamic"
+     ]
+    ]
+   },
+   {
+    "label": "Pixel pitch",
+    "rows": [
+     [
+      "Pixel pitch",
+      "0.277 mm",
+      "0.2768 mm",
+      "0.248 mm",
+      "0.276 mm"
+     ]
+    ]
+   },
+   {
+    "label": "Response time",
+    "rows": [
+     [
+      "Response time",
+      "12 ms on/off",
+      "5 ms on/off",
+      "5 ms on/off",
+      "5 ms (on/off)"
+     ]
+    ]
+   },
+   {
+    "label": "Displays size (diagonal)",
+    "rows": [
+     [
+      "Displays size (diagonal)",
+      "70 cm",
+      "50.8 cm",
+      "54.6 cm",
+      "50.8 cm"
+     ]
+    ]
+   },
+   {
+    "label": "View angle",
+    "rows": [
+     [
+      "View angle",
+      "178° horizontal; 178° vertical",
+      "170° horizontal; 160° vertical",
+      "170° horizontal; 160° vertical",
+      "170° horizontal; 160° vertical"
+     ]
+    ]
+   },
+   {
+    "label": "Display features",
+    "rows": [
+     [
+      "Display features",
+      "Anti-glare; User Programmable; Language selection; Plug and Play",
+      "Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls",
+      "Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls",
+      "Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls"
+     ]
+    ]
+   },
+   {
+    "label": "Resolution",
+    "rows": [
+     [
+      "Resolution",
+      "1920 x 1080",
+      "1600 x 900",
+      "1920 x 1080",
+      "1600 x 900"
+     ]
+    ]
+   },
+   {
+    "label": "Aspect ratio",
+    "rows": [
+     [
+      "Aspect ratio",
+      "Widescreen (16:9)",
+      "Widescreen (16:9)",
+      "Widescreen (16:9)",
+      "Widescreen (16:9)"
+     ]
+    ]
+   },
+   {
+    "label": "Tilt and swivel angle",
+    "rows": [
+     [
+      "Tilt and swivel angle",
+      "Tilt: +10 to +35°",
+      "Tilt: -5 to +25°",
+      "Tilt: -5 to +25°",
+      "Tilt: -5 to +30°; Swivel: 360°"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "N/A",
+      "N/A",
+      "N/A",
+      "3 USB 2.0 (one upstream, two downstream)"
+     ]
+    ]
+   },
+   {
+    "label": "Physical security",
+    "rows": [
+     [
+      "Physical security",
+      "N/A",
+      "Security Lock-Ready",
+      "Security Lock-Ready",
+      "Security lock ready"
+     ]
+    ]
+   },
+   {
+    "label": "Power consumption",
+    "rows": [
+     [
+      "Power consumption",
+      "N/A",
+      "22 W (maximum), 20 W (typical), < 0.5 W (standby)",
+      "28 W (maximum), 22 W (typical), < 0.5 W (standby)",
+      "30 W (maximum), 22 W (typical), 0.5 W (standby)"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "External Power Source and power adapter; Power consumption: 24W maximum, 23W typical; Standby mode: <0.5W",
+      "Input voltage: 100 to 240 VAC",
+      "Input voltage: 100 to 240 VAC",
+      "Input voltage: 90 to 265 VAC"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 39,
+  "section": "HP displays",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   559.9,
+   412.0
+  ],
+  "header": [
+   "Specifications",
+   "HP EliteDisplay E221c 21.5” Webcam LED Backlit Monitor",
+   "HP EliteDisplay E231 23” LED Backlit Monitor",
+   "HP EliteDisplay E271i 27” IPS LED Backlit Monitor",
+   "HP Z Display Z22i 21.5” IPS LED Backlit Monitor"
+  ],
+  "groups": [
+   {
+    "label": "Brightness",
+    "rows": [
+     [
+      "Brightness",
+      "250 cd/m²",
+      "250 cd/m²",
+      "250 cd/m²",
+      "250 cd/m²"
+     ]
+    ]
+   },
+   {
+    "label": "Contrast ratio",
+    "rows": [
+     [
+      "Contrast ratio",
+      "1000:1 static; 5000000:1 dynamic",
+      "1000:1 static; 5000000:1 dynamic",
+      "1000:1 static; 5000000:1 dynamic",
+      "1000:1 static; 5000000:1 dynamic"
+     ]
+    ]
+   },
+   {
+    "label": "Pixel pitch",
+    "rows": [
+     [
+      "Pixel pitch",
+      "0.248 mm",
+      "0.265 mm",
+      "0.311 mm",
+      "0.248 mm"
+     ]
+    ]
+   },
+   {
+    "label": "Response time",
+    "rows": [
+     [
+      "Response time",
+      "7 ms gray to gray",
+      "5 ms (on/off)",
+      "7 ms gray to gray",
+      "8 ms gray to gray"
+     ]
+    ]
+   },
+   {
+    "label": "Displays size (diagonal)",
+    "rows": [
+     [
+      "Displays size (diagonal)",
+      "54.6 cm",
+      "48.2 cm",
+      "68.6 cm",
+      "54.6 cm (21.5”)"
+     ]
+    ]
+   },
+   {
+    "label": "View angle",
+    "rows": [
+     [
+      "View angle",
+      "178° horizontal; 178° vertical",
+      "170° horizontal; 160° vertical",
+      "178° horizontal; 178° vertical",
+      "178° horizontal; 178° vertical"
+     ]
+    ]
+   },
+   {
+    "label": "Display features",
+    "rows": [
+     [
+      "Display features",
+      "Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls",
+      "Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls",
+      "Plug and Play; Anti-glare; User programmable; Language selection; On-screen controls",
+      "Plug and Play; Anti glare; User programmable; Language selection; On-screen controls"
+     ]
+    ]
+   },
+   {
+    "label": "Resolution",
+    "rows": [
+     [
+      "Resolution",
+      "1920 x 1080",
+      "1920 x 1080",
+      "1920 x 1080",
+      "1920 x 1080"
+     ]
+    ]
+   },
+   {
+    "label": "Aspect ratio",
+    "rows": [
+     [
+      "Aspect ratio",
+      "Widescreen (16:9)",
+      "Widescreen (16:9)",
+      "Widescreen (16:9)",
+      "Widescreen (16:9)"
+     ]
+    ]
+   },
+   {
+    "label": "Tilt and swivel angle",
+    "rows": [
+     [
+      "Tilt and swivel angle",
+      "Tilt: -5 to +30°; Swivel: 360°",
+      "Tilt: -5 to +30°; Swivel: 360°",
+      "Tilt: -5 to +30°; Swivel: 360°",
+      "Tilt: -5 to +30°; Swivel: 360°"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "3 USB 2.0 (one upstream, two downstream)",
+      "3 USB 2.0 (one upstream, two downstream)",
+      "3 USB 2.0 (one upstream, two downstream)",
+      "3 USB 2.0 (one upstream, two downstream)"
+     ]
+    ]
+   },
+   {
+    "label": "Physical security",
+    "rows": [
+     [
+      "Physical security",
+      "Security lock ready",
+      "Security lock ready",
+      "Security lock ready",
+      "Security Lock-Ready"
+     ]
+    ]
+   },
+   {
+    "label": "Power consumption",
+    "rows": [
+     [
+      "Power consumption",
+      "42 W (maximum), 27 W (typical), 0.4 W (standby)",
+      "36 W (maximum), 33 W (typical), 0.5 W (standby)",
+      "40 W (maximum), 35 W (typical), 0.5 W (standby)",
+      "31W (maximum), 26W (typical), 0.5W (standby)"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "Input voltage: 90 to 265 VAC",
+      "Input voltage: 90 to 265 VAC",
+      "Input voltage: 100 to 240 VAC",
+      "Input voltage: 90 to 265 VAC"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 40,
+  "section": "HP displays",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   345.5,
+   437.0
+  ],
+  "header": [
+   "Specifications",
+   "HP Z Display Z24i 24” IPS LED Backlit Monitor",
+   "HP Z Display Z27i"
+  ],
+  "groups": [
+   {
+    "label": "Brightness",
+    "rows": [
+     [
+      "Brightness",
+      "300 cd/m²",
+      "350 cd/m²"
+     ]
+    ]
+   },
+   {
+    "label": "Contrast ratio",
+    "rows": [
+     [
+      "Contrast ratio",
+      "1000:1 static; 5000000:1 dynamic",
+      "1 000:1 static 5 000 000:1 dynamic"
+     ]
+    ]
+   },
+   {
+    "label": "Pixel pitch",
+    "rows": [
+     [
+      "Pixel pitch",
+      "0.27 mm",
+      "0,233 mm"
+     ]
+    ]
+   },
+   {
+    "label": "Response time",
+    "rows": [
+     [
+      "Response time",
+      "8 ms gray to gray",
+      "8 ms gray to gray"
+     ]
+    ]
+   },
+   {
+    "label": "Displays size (diagonal)",
+    "rows": [
+     [
+      "Displays size (diagonal)",
+      "61 cm",
+      "68,6 cm (27”)"
+     ]
+    ]
+   },
+   {
+    "label": "View angle",
+    "rows": [
+     [
+      "View angle",
+      "178° horizontal; 178° vertical",
+      "178° horizontal; 178° vertical"
+     ]
+    ]
+   },
+   {
+    "label": "Display features",
+    "rows": [
+     [
+      "Display features",
+      "Plug and Play; Anti glare; User programmable; Language selection; On-screen controls",
+      "Plug-and-Play; Anti-glare; User programmable; Language selection; On-screen controls"
+     ]
+    ]
+   },
+   {
+    "label": "Resolution",
+    "rows": [
+     [
+      "Resolution",
+      "1920 x 1200",
+      "2560 x 1440"
+     ]
+    ]
+   },
+   {
+    "label": "Aspect ratio",
+    "rows": [
+     [
+      "Aspect ratio",
+      "Widescreen (16:10)",
+      "Widescreen (16:9)"
+     ]
+    ]
+   },
+   {
+    "label": "Tilt and swivel angle",
+    "rows": [
+     [
+      "Tilt and swivel angle",
+      "Tilt: -5 to +30°; Swivel: ±45",
+      "Tilt: -5 to +20°; Swivel: ±45°"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "5 USB 2.0 (one upstream, four downstream)",
+      "1 VGA; 1 DisplayPort (with HDCP support); 1 DVI-D (with HDCP support); 1 HDMI (with HDCP support), 5 USB 3.0 (one upstream, four downstream)"
+     ]
+    ]
+   },
+   {
+    "label": "Physical security",
+    "rows": [
+     [
+      "Physical security",
+      "Security Lock-Ready",
+      "Kensington Lock-ready"
+     ]
+    ]
+   },
+   {
+    "label": "Power consumption",
+    "rows": [
+     [
+      "Power consumption",
+      "55 W (maximum), 36 W (typical), 0.5 W (standby)",
+      "75 W (maximum), 60 W (typical), > 0.5 W (standby)"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "Input voltage: 90 to 265 VAC",
+      "Input voltage: 100 to 240 VAC"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 41,
+  "section": "HP displays services",
+  "table_index": 0,
+  "kind": "care_pack",
+  "bbox": [
+   33.5,
+   233.7,
+   559.8,
+   352.5
+  ],
+  "header": [
+   "",
+   "",
+   "Standard up to 22\"",
+   "Standard up to 22\"",
+   "Large Screen 23\"-29\"",
+   "Standard LCD/CRT/RPOS up to 22\""
+  ],
+  "groups": [
+   {
+    "label": "",
+    "rows": [
+     [
+      "",
+      "Parts/Labour/Onsite Service in years Base Warranty",
+      "1/1/0",
+      "1/1/1",
+      "1/1/0",
+      "3/3/3"
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day",
+    "rows": [
+     [
+      "Next Business Day",
+      "3-year",
+      "UD950E",
+      "UE366E",
+      "UD950E",
+      ""
+     ],
+     [
+      "",
+      "4-year",
+      "U0A96E",
+      "UE367E",
+      "U0A96E",
+      "U7934E"
+     ],
+     [
+      "",
+      "5-year",
+      "U0A97E",
+      "UE368E",
+      "U0A97E",
+      "U7935E"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "",
+      "",
+      "",
+      "U4925PE"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 45,
+  "section": "HP thin clients",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   559.6,
+   561.6
+  ],
+  "header": [
+   "Specifications",
+   "HP t310 Zero Client",
+   "HP t410 Smart Zero Client",
+   "HP t510 Flexible Thin Client",
+   "HP t620 Flexible Thin Client"
+  ],
+  "groups": [
+   {
+    "label": "Display",
+    "rows": [
+     [
+      "Display",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "N/A",
+      "1 ExpressCard/54; 1 Secure Digital",
+      "N/A",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "4 USB 2.0; 1 RJ-45; 1 microphone; 1 headphone; 1 speaker; 1 power connector; 1 DVI-D; 1 DVI-I",
+      "4 USB 2.0; 1 RJ-45; 1 microphone; 1 headphone; 1 power connector",
+      "6 USB 2.0; 1 serial; 1 parallel; 2 PS/2; 1 RJ-45; 1 DVI-I; 1 DVI-D; 1 DVI-I (DVI-to-VGA adapter included)",
+      "Front: 2 USB 2.0, 2 USB 3.0, 1 Headphone, 1 Microphone; Rear: 2 USB 2.0, 2 DisplayPort 1.2, 1 RJ45, 1 Audio Line-in, 1 Audio Line-Out, 1PS/2 KB, 1 PS/2 Mouse, 1 Configurable Port= 1 Serial (Default) or Fiber NIC or VGA; Hidden: 2 USB 2.0"
+     ]
+    ]
+   },
+   {
+    "label": "Ports note",
+    "rows": [
+     [
+      "Ports note",
+      "Two of 4 USB 2.0 ports used for keyboard and mouse",
+      "Two of 4 USB 2.0 ports used for keyboard and mouse",
+      "2 of the 6 USB 2.0 located in secure compartment",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Browser supported",
+    "rows": [
+     [
+      "Browser supported",
+      "N/A",
+      "Firefox 8 via web add-on",
+      "Microsoft Internet Explorer 9 (for models with Windows Embedded Standard 7); Microsoft Internet Explorer 8 (for models with Windows Embedded Standard 2009); Microsoft Internet Explorer 6 (for models with Windows Embedded CE 6.0); Firefox (for models with HP ThinPro and HP Smart Zero Technology)",
+      "Mozilla Firefox, Internet Explorer"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "Worldwide auto-sensing 36W, 100-240 VAC, 50-60 Hz",
+      "24W worldwide auto-sensing, 100-240 VAC, 50-60 Hz",
+      "65 W, worldwide auto-sensing, 100-240 VAC, 50-60 Hz energy saving automatic power-down, surge tolerant",
+      "65W worldwide auto-sensing 100-240 VAC 50-60Hz surge-tolerant power supply"
+     ]
+    ]
+   },
+   {
+    "label": "Processor speed",
+    "rows": [
+     [
+      "Processor speed",
+      "N/A",
+      "1 GHz",
+      "N/A",
+      "AMD GX-217GA Dual-Core APU with AMD Radeon HD 8280E graphics (1.65 GHz); AMD GX-415GA Quad-Core APU with AMD Radeon HD 8330E (1.5 GHz)"
+     ]
+    ]
+   },
+   {
+    "label": "Protocols",
+    "rows": [
+     [
+      "Protocols",
+      "N/A",
+      "Citrix ICA; Citrix HDX; Microsoft RDP; Microsoft RemoteFX (RFX); VMware Horizon View through RDP; VMware Horizon View through PCoIP",
+      "Citrix ICA; Citrix HDX; Microsoft RDP; Microsoft RemoteFX (RFX); VMware Horizon View through RDP; VMware Horizon View through PCoIP",
+      "Citrix Receiver, Microsoft Remote Desktop Client, VMware Horizon View Client, Remote Graphics Software (RGS), HP TeemTalk Terminal Emulator, Free RDP"
+     ]
+    ]
+   },
+   {
+    "label": "Protocols note",
+    "rows": [
+     [
+      "Protocols note",
+      "N/A",
+      "Protocols are dependent on operating system installed",
+      "Protocols are dependent on operating system installed",
+      "Protocols are dependent on operating system installed"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 46,
+  "section": "HP thin clients and thin clients services",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.5,
+   145.5,
+   344.5,
+   471.5
+  ],
+  "header": [
+   "Specifications",
+   "HP t620 PLUS Flexible Thin Client",
+   "HP mt40 Mobile Thin Client"
+  ],
+  "groups": [
+   {
+    "label": "Display",
+    "rows": [
+     [
+      "Display",
+      "N/A",
+      "35.6 cm (14”)"
+     ]
+    ]
+   },
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "1 half-height PCIe x16 (x4 channels)",
+      "1 ExpressCard/54; 1 Secure Digital"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "Front: 2 USB 2.0, 2 USB 3.0, 1 Headphone, 1 Microphone; Rear: 2 USB 2.0, 2 DisplayPort 1.2, 1 RJ45, 1 Audio Line-in, 1 Audio Line-Out, 1PS/2 KB, 1 PS/2 Mouse, 1 Configurable Port= 1 Serial (Default) or Fiber NIC or VGA; 1 Riser Card/ Expansion Slot (PCIe 2nd Gen, x16 slot with x4 channels), 1 additional serial, 1 additional Parallel; Hidden: 2 USB 2.0",
+      "1 USB 2.0; 1 eSATA/USB 2.0 combo; 1 AC power; 1 DisplayPort 1.1a; 1 docking connector; 1 RJ-45; 1 secondary battery connector; 1 stereo headphone/line-out; 1 stereo microphone in; 1 VGA; 2 USB 3.0"
+     ]
+    ]
+   },
+   {
+    "label": "Ports note",
+    "rows": [
+     [
+      "Ports note",
+      "3 DVI-I available with quad-head graphics configurations only",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Browser supported",
+    "rows": [
+     [
+      "Browser supported",
+      "Mozilla Firefox, Internet Explorer",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "85W worldwide auto-sensing 100-240 VAC 50-60Hz surge-tolerant power supply",
+      "External 65W HP Smart AC Adapter; HP Fast Charge (not apply to the HP Ultra Extended Life or 9-cell batteries)"
+     ]
+    ]
+   },
+   {
+    "label": "Processor speed",
+    "rows": [
+     [
+      "Processor speed",
+      "AMD GX-420CA Quad- Core APU with AMD Radeon HD 8400E graphics (2 GHz)",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Protocols",
+    "rows": [
+     [
+      "Protocols",
+      "Citrix Receiver, Microsoft Remote Desktop Client, VMware Horizon View Client, Remote Graphics Software (RGS), HP TeemTalk Terminal Emulator, Free RDP",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Protocols note",
+    "rows": [
+     [
+      "Protocols note",
+      "Protocols are dependent on operating system installed",
+      "N/A"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 46,
+  "section": "HP thin clients and thin clients services",
+  "table_index": 1,
+  "kind": "care_pack",
+  "bbox": [
+   33.5,
+   650.7,
+   364.2,
+   792.2
+  ],
+  "header": [
+   "",
+   "",
+   "Thin Clients",
+   "Mobile Thin Client"
+  ],
+  "groups": [
+   {
+    "label": "",
+    "rows": [
+     [
+      "",
+      "Parts/Labour/Onsite Service in years Base Warranty",
+      "3/3/0",
+      "3/3/0"
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day Exchange",
+    "rows": [
+     [
+      "Next Business Day",
+      "3-year",
+      "U4847E",
+      "UK737E"
+     ],
+     [
+      "Exchange",
+      "4-year",
+      "U7927E",
+      "UK743E"
+     ],
+     [
+      "",
+      "5-year",
+      "U7929E",
+      "UK744E"
+     ],
+     [
+      "",
+      "Post Warranty",
+      "U4848PE",
+      "UK738PE"
+     ]
+    ]
+   },
+   {
+    "label": "Next Business Day",
+    "rows": [
+     [
+      "Next Business Day",
+      "4-year",
+      "UD798E",
+      ""
+     ],
+     [
+      "",
+      "5-year",
+      "UD799E",
+      ""
+     ],
+     [
+      "",
+      "Post Warranty",
+      "U6569PE",
+      ""
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "page": 49,
+  "section": "HP retail solutions",
+  "table_index": 0,
+  "kind": "spec",
+  "bbox": [
+   33.4,
+   145.5,
+   454.9,
+   605.4
+  ],
+  "header": [
+   "Specifications",
+   "HP RP3 Retail System Model 3100",
+   "HP RP5800 Retail System",
+   "HP RP7 Retail System Model 7800"
+  ],
+  "groups": [
+   {
+    "label": "Expansion slots",
+    "rows": [
+     [
+      "Expansion slots",
+      "N/A",
+      "1 low-profile PCIe x1; 2 full-height PCIe x1; 1 low-profile PCIe x16",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Memory slots",
+    "rows": [
+     [
+      "Memory slots",
+      "1 SODIMM",
+      "4 DIMM",
+      "2 SODIMM"
+     ]
+    ]
+   },
+   {
+    "label": "Memory upgrade",
+    "rows": [
+     [
+      "Memory upgrade",
+      "Upgradeable to 8 GB",
+      "Upgradeable to 16 GB",
+      "Upgradeable to 16 GB"
+     ]
+    ]
+   },
+   {
+    "label": "Ports",
+    "rows": [
+     [
+      "Ports",
+      "5 USB 2.0; 1 24V powered USB; 2 RS-232 (powered); 1 parallel; 1 12V powered USB; 2 PS/2 (keyboard and mouse); 1 RJ-12 (cash drawer); 1 VGA; 1 DisplayPort; 1 audio in; 1 audio out; 1 RJ-45",
+      "7 USB 2.0; 1 24V powered USB; 2 serial; 1 PS/2 keyboard; 1 PS/2 mouse; 1 VGA; 1 DisplayPort; 1 DVI out; 1 audio in; 1 audio out; 1 RJ-45; 1 RJ-12 (cash drawer)",
+      "6 USB 2.0; 2 USB+PWR 12V; 1 USB+PWR 24V; 1 USB in lockable compartment; 1 RJ-12 (cash drawer); 2 RS-232 (powered); 1 parallel; 1 PS/2; 1 DVI-I; 1 RJ-45; 1 audio in; 1 audio out; 1 DC in; 1 DC out; 4 USB connectors (for select HP integrated peripherals)"
+     ]
+    ]
+   },
+   {
+    "label": "Power",
+    "rows": [
+     [
+      "Power",
+      "115 W 85% efficient, active PFC",
+      "240W 90% efficient - Active PFC",
+      "External 180W, 87% efficient, active PFC"
+     ]
+    ]
+   },
+   {
+    "label": "Chipset",
+    "rows": [
+     [
+      "Chipset",
+      "Intel® HM65 Express",
+      "Intel® Q67 Express",
+      "Intel® Q67 Express"
+     ]
+    ]
+   },
+   {
+    "label": "Internal drive bays",
+    "rows": [
+     [
+      "Internal drive bays",
+      "Two 6.4 cm (2.5”)",
+      "Two 8.9 cm (3.5”)",
+      "Two 6.4 cm (2.5”)"
+     ]
+    ]
+   },
+   {
+    "label": "External drive bays",
+    "rows": [
+     [
+      "External drive bays",
+      "N/A",
+      "One 13.3 cm (5.25”)",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Form factor",
+    "rows": [
+     [
+      "Form factor",
+      "N/A",
+      "Point of Sale",
+      "All-in-one"
+     ]
+    ]
+   },
+   {
+    "label": "Management features",
+    "rows": [
+     [
+      "Management features",
+      "N/A",
+      "Intel® vPro™ Technology; Intel® Standard Manageability; HP Client Catalog for Microsoft SMS; HP SoftPaq Download Manager; HP Systems Software Manager",
+      "N/A"
+     ]
+    ]
+   },
+   {
+    "label": "Security management",
+    "rows": [
+     [
+      "Security management",
+      "Security cable with Kensington lock (sold separately)",
+      "TPM 1.2 Embedded Security Chip integrated with Broadcom NIC (TPM module disabled where use is restricted by law); HP ProtectTools Security Software Suite with BIOS Configuration (serial, parallel, USB enable/disable), Credential Manager, Smart Card Manager (sold separately); USB + PWR 12V Cards (sold separately); Power Configurable Serial Port Card COM 3 & 4 (sold separately); Wall Mount (sold separately); HP Desktop Security Lock Kit (lock and cable) (sold separately); Security cable with Kensington lock (sold separately); HP Rear Port/Cable Control Cover (sold separately)",
+      "Kensington lock and padlock loop"
+     ]
+    ]
+   }
+  ]
+ }
+]
