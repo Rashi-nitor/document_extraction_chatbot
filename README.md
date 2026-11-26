@@ -1,7 +1,7 @@
 # HP Catalogue RAG Chatbot
 
 Extract data from the **HP PC Catalogue 2014** PDF and chat with it.
-Backend: **FastAPI** · Frontend: **Streamlit** · LLM: **NVIDIA API** (or Anthropic / OpenAI / Ollama). Works with **no API key** too (answers become catalogue excerpts).
+Backend: **FastAPI** · Frontend: **Streamlit** · LLM: **NVIDIA API**. Works with **no API key** too (answers become catalogue excerpts).
 
 ---
 
@@ -117,14 +117,11 @@ hp_catalogue_rag/
 
 | Variable | Default | Meaning |
 |---|---|---|
-| `LLM_PROVIDER` | `auto` | `nvidia` · `anthropic` · `openai` · `ollama` · `none`. `auto` picks by which key is set |
 | `NVIDIA_API_KEY` | – | your `nvapi-...` key from build.nvidia.com |
 | `NVIDIA_MODEL` | `meta/llama-3.3-70b-instruct` | any chat model listed on build.nvidia.com |
+| `NVIDIA_BASE_URL` | `https://integrate.api.nvidia.com/v1` | NVIDIA OpenAI-compatible API endpoint |
 | `NVIDIA_EMBEDDING_MODEL` | `nvidia/nv-embedqa-e5-v5` | used when `EMBEDDING_PROVIDER=nvidia` |
-| `ANTHROPIC_API_KEY`, `ANTHROPIC_MODEL` | – / `claude-sonnet-5-5` | Claude |
-| `OPENAI_API_KEY`, `OPENAI_MODEL`, `OPENAI_BASE_URL` | – / `gpt-4o-mini` | OpenAI or any compatible server |
-| `OLLAMA_URL`, `OLLAMA_MODEL` | `http://localhost:11434` / `llama3.1` | local model, free |
-| `EMBEDDING_PROVIDER` | `auto` | `auto` uses sentence-transformers if installed, else keywords only. Also `nvidia`, `bm25`, `sentence-transformers`, `openai` |
+| `EMBEDDING_PROVIDER` | `nvidia` | `nvidia`, `bm25`, or `sentence-transformers` |
 | `EMBEDDING_MODEL` | `BAAI/bge-small-en-v1.5` | downloaded on first use (~130 MB) |
 | `TOP_K` | `6` | passages sent to the LLM |
 | `BACKEND_URL` | `http://localhost:8000` | used by Streamlit |
@@ -132,7 +129,7 @@ hp_catalogue_rag/
 **Using only an NVIDIA key (recommended setup):**
 ```
 NVIDIA_API_KEY=nvapi-xxxxxxxx
-EMBEDDING_PROVIDER=nvidia      # semantic search through NVIDIA too - nothing to download
+EMBEDDING_PROVIDER=nvidia      # default; semantic search through NVIDIA too
 ```
 Restart the backend. The sidebar should show `nvidia:meta/llama-3.3-70b-instruct`. (Free NVIDIA keys have rate limits; if you see HTTP 429 errors wait a moment or lower `TOP_K`.)
 
@@ -180,6 +177,7 @@ Checks that every extracted SKU is searchable, every spec product is found by na
 | "No LLM key set" banner | add `NVIDIA_API_KEY` to `.env` (project root) and restart the backend |
 | `401` / `403` from NVIDIA | key must start with `nvapi-`; regenerate it on build.nvidia.com |
 | `404` model not found | pick a model name exactly as shown on build.nvidia.com and set `NVIDIA_MODEL` |
+| `410` from NVIDIA during startup | the embedding service/model may be unavailable; set `EMBEDDING_PROVIDER=bm25` to start with keyword search, or choose an available embedding model |
 | `no data` status | run `python scripts/run_pipeline.py` (or check `DATA_DIR`) |
 | Semantic model download fails | the app falls back to keyword search; set `EMBEDDING_PROVIDER=bm25` to silence it |
 | Changed `output/` by hand | click **Rebuild index** in the sidebar or `POST /index/rebuild` |
